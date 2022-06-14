@@ -1,0 +1,5892 @@
+    1  wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+    2  sh install.sh
+    3  ls
+    4  rm install.sh
+    5  gedit ~/.zshrc
+    6  git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+    7  gedit ~/.zshrc
+    8  sudo snap install vlc
+    9  gedit ~/.zshrc
+   10  sudo apt install tilix -y
+   11  gedit ~/.bashrc
+   12  ln -s /etc/profile.d/vte-2.91.sh /etc/profile.d/vte.sh
+   13  sudo ln -s /etc/profile.d/vte-2.91.sh /etc/profile.d/vte.sh
+   14  sudo update-alternatives --config x-terminal-emulator
+   15  gedit ~/.zshrc
+   16  cd ~/.ohmy-zsh/themes/
+   17  ls
+   18  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   19  cd ~/.oh-my-zsh/themes/
+   20  ls
+   21  gedit ~/.zshrc
+   22  source ~/.zshrc
+   23  ll
+   24  gedit ~/.zshrc
+   25  source ~/.zshrc
+   26  git clone https://github.com/jan-auer/zsh-multiline.git ~/.oh-my-zsh/custom/themes/zsh-multiline
+   27  cd ..
+   28  ll
+   29  cd custom/themes
+   30  ll
+   31  cd ..
+   32  ll
+   33  cd ..
+   34  ll
+   35  cd custom/themes
+   36  ll
+   37  cd ..
+   38  cd custom
+   39  ls
+   40  cd themes
+   41  ls
+   42  cd powerlevel9k
+   43  ll
+   44  gedit ~/.zshrc
+   45  source ~/.zshrc
+   46  cd ../..
+   47  cd ..
+   48  cd ~
+   49  git clone https://github.com/jan-auer/zsh-multiline.git ~/.oh-my-zsh/custom/themes/zsh-multiline
+   50  cd .oh-my-zsh/custom/themes/zsh-multiline
+   51  gedit ~/.zshrc
+   52  source ~/.zshrc
+   53  sudo apt-get install powerline fonts-powerline
+   54  cd
+   55  cd .oh-my-zsh
+   56  sudo gedit ~/.zshrc
+   57  cd ~
+   58  cd .oh-my-zsh
+   59  gedit ~/.zshrc
+   60  cd ~/.oh-my-zsh
+   61  cd ~/.oh-my-zsh/plugins
+   62  gedit ~/.zshrc
+   63  source ~/.zshrc
+   64  mark zplugins
+   65  jump zplugins
+   66  git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+   67  gedit ~/.zshrc
+   68  source ~/.zshrc
+   69  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+   70  source ~/.zshrc
+   71  gedit ~/.zshrc
+   72  source ~/.zshrc
+   73  npm install -D tailwindcss postcss autoprefixer
+   74  npx tailwindcss init
+   75  ls
+   76  rm -r node_modules
+   77  rm -r Public
+   78  rm package.json
+   79  rm package-lock.json
+   80  ls
+   81  rm tailwind.config.js
+   82  ls
+   83  clear
+   84  mkdir Projects
+   85  cd Projects
+   86  mkdir tailwind-guide
+   87  cd tailwind-guide
+   88  npm install -D tailwindcss postcss autoprefixer
+   89  npx tailwindcss init
+   90  code .
+   91  npm run dev
+   92  ls
+   93  cd Projects
+   94  ls
+   95  cd tailwind-guide
+   96  code .
+   97  npm init -y
+   98  npm install -D tailwindcss postcss autoprefixer
+   99  cd Projects/tailwind-guide
+  100  clear
+  101  ls
+  102  code .
+  103  npm run dev
+  104  cd ..
+  105  mkdir 20-web-projects
+  106  cd 20-web-projects
+  107  cd ..
+  108  mkdir form-validator
+  109  cd form-validator
+  110  git init
+  111  cd Projects/form-validator
+  112  git init
+  113  git config --global init.defaultBranch main
+  114  git init
+  115  cd ..
+  116  rm form-validator
+  117  rmdir form-validator
+  118  rm -r form-validator
+  119  mkdir form-validator
+  120  git config --global init.defaultBranch main
+  121  cd Projects/form-validator
+  122  git init
+  123  npm install -D tailwindcss
+  124  npx tailwindcss init
+  125  code .
+  126  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+  127  npx tailwindcss -i ./src/input.css -o ./dist/output.css
+  128  uname -a
+  129  uname -s
+  130  lsb_release
+  131  lsb_release -a
+  132  cd Projects/form-validator
+  133  cd
+  134  clear
+  135  su
+  136  clear
+  137  su
+  138  sudo su
+  139  cd
+  140  /opt/lampp/lampp start
+  141  sudo /opt/lampp/lampp start
+  142  sudo /opt/lampp/lampp security
+  143  git -v
+  144  git -V
+  145  clear
+  146  git --version
+  147  sudo apt install unzip
+  148  sudo apt-get install
+  149  sudo apt-get update
+  150  sudo snap install flutter --classic
+  151  flutter sdk-path
+  152  code ~/.zsh
+  153  code ~/.zshrc
+  154  flutter doctor
+  155  which flutter
+  156  flutter doctor
+  157  which flutter
+  158  which dart
+  159  sudo nano /etc/profile
+  160  which flutter
+  161  flutter
+  162  flutter -v
+  163  clear
+  164  which flutter
+  165  cd /snap/flutter
+  166  ls
+  167  cd ..
+  168  ls
+  169  cd 
+  170  ls -a
+  171  flutter sdk-path
+  172  ls
+  173  cd snap/flutter/common/flutter
+  174  ls
+  175  cd
+  176  code ~/.zshrc
+  177  source $HOME/.zshrc
+  178  echo $PATH
+  179  which flutter
+  180  sudo nano /etc/profile
+  181  code ~/.zshrc
+  182  logout
+  183  which flutter
+  184  cd /snap/bin/flutter
+  185  cd /snap/bin/
+  186  ls
+  187  cd flutter
+  188  cd
+  189  flutter doctor
+  190  code ~/.zshrc
+  191  sudo nano /etc/profile
+  192  flutter doctor
+  193  flutter sdk-path
+  194  sudo apt install curl file xz-utils zip
+  195  flutter sdk-path
+  196  flutter doctor
+  197  flutter sdk-path
+  198  node -v
+  199  ls
+  200  cd Projects/
+  201  mkdir udemycourse
+  202  cd udemycourse
+  203  npx create-react-app react-complete-guide
+  204  npm i tar
+  205  cd react-complete-guide
+  206  npm start
+  207  cd Projects/udemycourse/react-complete-guide
+  208  code .
+  209  cd ..
+  210  mv 01-starting-setup react-complete-guide
+  211  ls
+  212  cd react-complete-guide
+  213  ls
+  214  mv 01-starting-setup ..
+  215  ls
+  216  cd ..
+  217  rm -r react-complete-guide
+  218  mv 01-starting-setup react-complete-guide
+  219  ls
+  220  cd react-complete-guide
+  221  npm install
+  222  npm start
+  223  cd Projects/udemycourse/react-complete-guide
+  224  code .
+  225  npm start
+  226  cd Projects/udemycourse/react-complete-guide
+  227  npm start
+  228  cd Projects/udemycourse/react-complete-guide
+  229  code .
+  230  clear
+  231  npm start
+  232  git init
+  233  touch .gitignore
+  234  /node_modules < .gitignore
+  235  "/node_modules" < .gitignore
+  236  cat /node_modules < .gitignore
+  237  clear
+  238  git add .
+  239  git status
+  240  git commit -m 'added normal js logic to component'
+  241  git config --global user.email "legrandmahamat1@gmail.com"
+  242  git config --global user.name "black-code1"
+  243  git commit -m 'added normal js logic to component'
+  244  npm start
+  245  git add .
+  246  git commit -m 'splitted components into multiple components'
+  247  git add .
+  248  git commit -m 'the concept of composition (children props)'
+  249  git add .
+  250  git commit -m 'organizing component files'
+  251  git add .
+  252  git commit -m 'alternative function syntaxe'
+  253  cd Projects/udemycourse/react-complete-guide
+  254  code .
+  255  npm start
+  256  cd Projects/udemycourse/react-complete-guide
+  257  git add .
+  258  git commit -m 'listening to events & working with event handlers'
+  259  git add .
+  260  git commit -m 'working with state'
+  261  git add .
+  262  git commit -m 'adding form inputs'
+  263  git add .
+  264  git commit -m 'listening to user input'
+  265  git add .
+  266  git commit -m 'working with multiple states'
+  267  git add .
+  268  git commit -m 'using one state instead'
+  269  git add .
+  270  git commit -m 'updating state that depends on the previous state'
+  271  git add .
+  272  git commit -m 'handling form submission'
+  273  git add .
+  274  git commit -m 'adding two way binding'
+  275  git add .
+  276  git commit -m 'child to parent component communication (Bottom-up)'
+  277  cd Projects/udemycourse/react-complete-guide
+  278  npm start
+  279  code .
+  280  git add .
+  281  git commit -m 'controlled, uncontrolled, stateless and stateful components'
+  282  cd ~
+  283  cd Projects/udemycourse/
+  284  ls
+  285  flutter create first_app
+  286  cd first_app
+  287  flutter run
+  288  egrep --color 'vmx|svm' /proc/cpuinfo | wc -l
+  289  cd 
+  290  cd Downloads
+  291  ls
+  292  tar -xf android-studio-2020.3.1.26-linux.tar.gz
+  293  cd android-studio
+  294  cd bin
+  295  ls
+  296  ./studio.sh
+  297  flutter doctor
+  298  cd
+  299  flutter doctor
+  300  path/to/sdkmanager --install "cmdline-tools;latest"
+  301  sdkmanager 'cmdline-tools;latest' --channel=1
+  302  cd Downloads
+  303  cd android-studio
+  304  ls
+  305  cd bin
+  306  ls
+  307  ./studio.sh
+  308  flutter doctor
+  309  flutter doctor --android-licenses
+  310  flutter doctor
+  311  whereis android-studio.desktop
+  312  ./studio.sh
+  313  cd Projects/udemycourse/react-complete-guide
+  314  npm start
+  315  cd Projects/udemycourse/react-complete-guide
+  316  code .
+  317  cd Projects/udemycourse/react-complete-guide
+  318  npm start
+  319  git add .
+  320  git commit -m 'rendering lists of data'
+  321  git add .
+  322  git commit -m 'using stateful lists'
+  323  git add .
+  324  git commit -m 'understanding keys'
+  325  git add .
+  326  git commit -m 'outputting conditional content'
+  327  git add .
+  328  git commit -m 'adding conditional return statements'
+  329  git add .
+  330  git commit -m 'adding a chart'
+  331  git add .
+  332  git commit -m 'adding dynamic styles'
+  333  git add .
+  334  git commit -m 'created and styles Chart & ChartBar component'
+  335  cd ../react-styling-component
+  336  npm install
+  337  cd ../react-styling-component
+  338  code .
+  339  npm install
+  340  npm start
+  341  git init
+  342  git add .
+  343  git commit -m setting dynamic inline styles'\n'
+  344  git commit -m 'setting dynamic inline styles'\n'
+  345  git commit -m 'setting dynamic inline styles'
+  346  git add .
+  347  git commit -m 'setting css classes dynamically'
+  348  cd Projects/udemycourse/react-styling-component
+  349  code .
+  350  cd Projects/udemycourse/react-styling-component
+  351  npm start
+  352  cd Projects/udemycourse/react-styling-component
+  353  code .
+  354  npm start
+  355  git log --oneline
+  356  git log
+  357  cd Projects/udemycourse/react-styling-component
+  358  npm install --save styled-components
+  359  cd Projects/udemycourse/react-styling-component
+  360  npm start
+  361  code .
+  362  npm install --save styled-components
+  363  npm start
+  364  git add .
+  365  git commit -m 'introducing styled component'
+  366  git add .
+  367  git commit -m 'styled components & Dynamic props'
+  368  git add .
+  369  git commit -m 'styled components & media queries'
+  370  git add .
+  371  git commit -m 'using css modules'
+  372  git add .
+  373  git commit -m 'dynamic styles with css modules'
+  374  cd ..
+  375  cd react-debugg
+  376  npm install
+  377  npm start
+  378  code .
+  379  npm start
+  380  cd ../react-debugg
+  381  code .
+  382  git add .
+  383  git init
+  384  git add .
+  385  git commit -m 'understanding react error messages'
+  386  git status
+  387  git add .
+  388  git commit -m 'using the react dev tools'
+  389  cd Projects/udemycourse/react-practice
+  390  code .
+  391  cd Projects/udemycourse/react-practice
+  392  npm install
+  393  npm start
+  394  git init
+  395  git add .
+  396  git status
+  397  git add .
+  398  git commit -m 'adding a re-usable card component'
+  399  git add .
+  400  git commit -m 'adding a re-usable button component'
+  401  git add .
+  402  git commit -m 'managing the user input state'
+  403  git add .
+  404  git commit -m 'adding validation & resetting logic'
+  405  git add .
+  406  git commit -m 'adding a users list component'
+  407  git add .
+  408  git commit -m 'managing a list of users via state'
+  409  git gc --auto
+  410  git repack -d -l
+  411  git status
+  412  git add .
+  413  git commit -m 'Adding the ErrorModal Component'
+  414  git gc --auto
+  415  git add .
+  416  git commit -m 'Managing the Error State'
+  417  git prune
+  418  git gc
+  419  rm .git/gc.log
+  420  git -v
+  421  git -V
+  422  git -version
+  423  git --version
+  424  sudo apt-get update
+  425  sudo apt-get upgrade
+  426  git --version
+  427  cd ../../
+  428  mkdir youtubetuts
+  429  cd youtubetuts
+  430  cd ../../youtubetuts
+  431  git --version
+  432  git --help
+  433  git help -a
+  434  cd Projects/youtubetuts
+  435  ls
+  436  mkdir tailwind-jit
+  437  cd tailwind-jit
+  438  touch index.html
+  439  code .
+  440  node -v
+  441  cd Projects/youtubetuts
+  442  cd tailwind-jit
+  443  npx tailwindcss -o ./build/styles.css
+  444  npx tailwindcss -i ./src/styles.css -o ./build/styles.css
+  445  cd Projects/youtubetuts
+  446  cd tailwind-jit
+  447  npx tailwindcss -o ./build/styles.css --jit --purge "./**/*.html" -w
+  448  npx tailwindcss -i ./build/styles.css --jit --purge "./**/*.html" -w
+  449  cd Projects/youtubetuts
+  450  cd tailwind-jit
+  451  code .
+  452  cd Projects/udemycourse/react-practice
+  453  cd ..
+  454  ls
+  455  mv 08-finished react-fragments-portals-refs
+  456  ls
+  457  cd react-fragments-portals-refs
+  458  ls
+  459  clear
+  460  cd Projects/udemycourse/react-fragments-portals-refs
+  461  npm install
+  462  npm start
+  463  code .
+  464  git init
+  465  git add .
+  466  git status
+  467  git commit -m "Creating a Wrapper Component"
+  468  git add .
+  469  git commit -m "React Fragments"
+  470  git add .
+  471  git commit -m "Working with Portals"
+  472  git add .
+  473  git commit -m "Working with ref"
+  474  cd ..
+  475  ls
+  476  code first_app
+  477  cd first_app
+  478  flutter run
+  479  cd Projects/udemycourse/
+  480  ls
+  481  mv 01-starting-project react-useeffect
+  482  cd react-useeffect
+  483  cd Projects/udemycourse/react-useeffect
+  484  code .
+  485  npm install
+  486  npm start
+  487  git init
+  488  git add .
+  489  git commit-m 'Using the useEffect Hook'
+  490  git commit -m 'Using the useEffect Hook'
+  491  cd Projects/udemycourse/react-useeffect
+  492  code .
+  493  git log
+  494  npm start
+  495  git add .
+  496  git commit -m 'Using the useEffect Cleanup Function'
+  497  cd Projects/udemycourse/react-useeffect
+  498  npm start
+  499  code .
+  500  git log
+  501  cd Projects/udemycourse/react-useeffect
+  502  code .
+  503  npm start
+  504  cd Projects/udemycourse/react-useeffect
+  505  code .
+  506  npm start
+  507  git status
+  508  git add .
+  509  git commit -m 'Using the useReducer() Hook'
+  510  git add .
+  511  git commit -m 'useReducer & useEffect'
+  512  git add .
+  513  git commit -m 'Using the React Context API'
+  514  git add .
+  515  git commit -m 'Tapping Into Context with the useContext Hook'
+  516  npm install
+  517  git add .
+  518  git commit -m 'Making Context Dynamic'
+  519  git add .
+  520  git commit -m 'Building & Using a Custom Context Provider Component'
+  521  cd Projects/udemycourse/react-useeffect
+  522  npm start
+  523  code .
+  524  git add .
+  525  git commit -m 'Refactoring an Input Component'
+  526  git add .
+  527  git commit -m 'Divint into Forward Refs'
+  528  cd ..
+  529  ls
+  530  cd ..
+  531  ls
+  532  cd youtubetuts
+  533  ls
+  534  cd ../../youtubetuts
+  535  cd Projects/youtubetuts
+  536  ls
+  537  cd Projects/youtubetuts
+  538  mkdir tailwindcss-up-and-running
+  539  cd tailwindcss-up-and-running
+  540  code .
+  541  cd tailwindcss-up-and-running
+  542  npm init
+  543  cd Projects/youtubetuts/tailwindcss-up-and-running
+  544  code .
+  545  npm install -D tailwindcss
+  546  npx tailwindcss init
+  547  npx taillwindcss -i ./src/input.css -o ./dist/output.css --watch
+  548  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+  549  cd Projects/udemycourse/
+  550  npx create-react-app react-meals-app
+  551  ls
+  552  rm -r react-meals-app
+  553  npx create-react-app react-meals-app
+  554  ls
+  555  npx create-react-app react-meals-app
+  556  cd react-meals-app
+  557  code .
+  558  cd Projects/udemycourse/react-meals-app
+  559  npm start
+  560  git add .
+  561  git commit -m 'Adding a Header Component'
+  562  git add .
+  563  git commit -m 'Adding the Cart Button Component'
+  564  git add .
+  565  git commit -m 'Adding a Meals Component'
+  566  git add .
+  567  git commit -m 'Adding a Individual Meal Items & Displaying them'
+  568  cd Projects/udemycourse/react-meals-app
+  569  git log
+  570  cd Projects/udemycourse/react-meals-app
+  571  npm start
+  572  git log
+  573  code .
+  574  git add .
+  575  git commit -m 'Adding a Form'
+  576  git add .
+  577  git commit -m 'Working on the Shopping Cart Component'
+  578  git add .
+  579  git commit -m 'Adding a Modal via React Portal'
+  580  git add .
+  581  git commit -m 'Managing Cart & Modal State'
+  582  git add .
+  583  git commit -m 'Adding a Cart Context'
+  584  git add .
+  585  git commit -m 'Using the Context'
+  586  cd Projects/udemycourse/react-meals-app
+  587  npm start
+  588  code .
+  589  git add .
+  590  git commit -m 'Adding a Cart Reducer'
+  591  git add .
+  592  git commit -m 'Working with Refs & Forwarding Refs'
+  593  git add .
+  594  git commit -m 'Outputting Cart Items'
+  595  git add .
+  596  git commit -m 'Working on a More Complex Reducer Logic'
+  597  git add .
+  598  git commit -m 'Making Items REmovable'
+  599  git add .
+  600  git commit -m 'Using the useEffect Hook'
+  601  cd Projects/udemycourse/react-meals-app
+  602  code .
+  603  cd ..
+  604  cd youtubetuts
+  605  cd Projects/youtubetuts
+  606  mkdir portfolio
+  607  cd portfolio
+  608  cd ..
+  609  rm portfolio
+  610  rm -r portfolio
+  611  npx create-react-app portfolio
+  612  cd portfolio
+  613  code .
+  614  cd portfolio
+  615  npm start
+  616  cd Projects/youtubetuts/portfolio
+  617  code .
+  618  npm start
+  619  cd Projects/youtubetuts/portfolio
+  620  git add .
+  621  git commit -m 'Done with Personal Information Component'
+  622  cd Projects/udemycourse/react-db-com
+  623  code .
+  624  npm install
+  625  npm start
+  626  cd Projects/udemycourse/react-db-com
+  627  git init
+  628  git add .
+  629  git commit -m 'Sending a GET Request'
+  630  git add .
+  631  git commit -m 'Using async_await'
+  632  git add .
+  633  git commit -m 'Handling Loading & Data States'
+  634  git add .
+  635  git commit -m 'Handling Http Errors'
+  636  git add .
+  637  git commit -m 'Using useEffect() For Requests'
+  638  git add .
+  639  git commit -m 'Sending a POST Request'
+  640  cd Projects/udemycourse/react-custom-hook
+  641  npm install
+  642  cd Projects/udemycourse/react-custom-hook
+  643  code .
+  644  git init
+  645  git add .
+  646  git commit -m 'Creating a Custom React Hook Function'
+  647  git add .
+  648  git commit -m 'Using Custom Hooks'
+  649  git add .
+  650  git commit -m 'Configuring Custom Hooks'
+  651  cd ..
+  652  cd react-custom-hooks-project-example
+  653  git init
+  654  code .
+  655  cd ..
+  656  cd react-custom-hooks-project-example
+  657  cd ..
+  658  ls
+  659  cd react-db-com
+  660  code .
+  661  cd ..
+  662  cd react-custom-hooks-project-example
+  663  git add .
+  664  git commit -m 'Building a Custom Http Hook'
+  665  cd react-custom-hooks-project-example
+  666  cd Projects/udemycourse/react-custom-hooks-project-example
+  667  code .
+  668  cd Projects/udemycourse/react-custom-hooks-project-example
+  669  npm install
+  670  code .
+  671  npm start
+  672  git add .
+  673  git commit -m 'Using the Custom Http Hook'
+  674  git add .
+  675  git commit -m 'Adjusting the Cuustom Hook Logic'
+  676  git add .
+  677  git commit -m 'Using The Custom Hook In More Components'
+  678  cd Projects/udemycourse/react-form-user-input
+  679  npm install
+  680  code .
+  681  npm start
+  682  git init
+  683  git add .
+  684  git commit -m 'Dealing With Form Submission & Getting User Input Values'
+  685  git add .
+  686  git commit -m 'Providing Validation Feedback'
+  687  git add .
+  688  git commit -m 'Handling the was touched State'
+  689  git add .
+  690  git commit -m 'React To Lost Focus'
+  691  git add .
+  692  git commit -m 'Refactoring & Deriving States'\n
+  693  cd Projects
+  694  ls
+  695  mkdir enspd-mini-project
+  696  cd enspd-mini-project
+  697  mkdir gantt
+  698  cd gantt
+  699  touch index.html
+  700  code .
+  701  cd ..
+  702  npx create-react-app gantt-react
+  703  ls
+  704  cd gantt-react
+  705  cd Projects/enspd-mini-project/gantt-react
+  706  npm start
+  707  code .
+  708  npm install dhtmlx-gantt
+  709  cd ..
+  710  ls
+  711  code gantt
+  712  cd ..
+  713  cd gantt-react
+  714  npm start
+  715  cd Projects/enspd-mini-project/gantt-react
+  716  code .
+  717  cd ..
+  718  ls
+  719  cd gantt
+  720  npm install chart.js
+  721  cd ..
+  722  cd gantt-react
+  723  npm start
+  724  cd Projects/enspd-mini-project/gantt-react
+  725  code .
+  726  php -v
+  727  cd Downloads
+  728  ls
+  729  tar -xzf httpd-2.4.52.tar.gz
+  730  tar -xzf php-8.1.1.tar.gz
+  731  cd httpd-2.4.52
+  732  ./configure --enable-so
+  733  ./configure --prefix=PREFIX
+  734  cd 
+  735  cd Downloads
+  736  tar -xzf apr-1.7.0.tar.gz
+  737  cd apr-1.7.0
+  738  ls
+  739  ./configure
+  740  sudo ./configure
+  741  sudo apt-get install build-essential
+  742  ls
+  743  ./configure
+  744  make
+  745  make install
+  746  sudo make install
+  747  cd ..
+  748  cd httpd-2.4.52
+  749  ./configure --enable-so
+  750  cd ..
+  751  tar -xzf apr-util-1.6.1.tar.gz
+  752  cd apr-util-1.6.1
+  753  sudo ./configure --with-apr=/usr/local/apr/bin/apr-1-config
+  754  sudo make
+  755  make
+  756  cd ..
+  757  ls
+  758  tar -xvjf expat-2.4.2.tar.bz2
+  759  ls
+  760  cd expat-2.4.2
+  761  sudo ./configure
+  762  sudo make
+  763  sudo make install
+  764  cd ..
+  765  cd httpd-2.4.52
+  766  cd ..
+  767  cd apr-util-1.6.1
+  768  sudo ./configure --with-apr=/usr/local/apr/bin/apr-1-config
+  769  sudo make
+  770  sudo make install
+  771  cd ..
+  772  cd httpd-2.4.52
+  773  sudo ./configure --enable-so
+  774  sudo apt-get install pcre-devel
+  775  sudo apt-get install pcre
+  776  cd ..
+  777  tar -xvjf pcre2-10.39.tar.bz2
+  778  cd pcre2-10.39
+  779  ./configure --prefix=/usr
+  780  ./configure --docdir=/usr/share/doc/pcre2-10.39
+  781  ./configure --enable-unicode
+  782  ./configure --enable-jit
+  783  ./configure --enable-pcre2-16
+  784  ./configure --enable-pcre2-32
+  785  ./configure --enable-pcre2grep-libz
+  786  ./configure --enable-pcre2grep-libbz2
+  787  ./configure --enable-pcre2test-libreadline
+  788  ./configure --disable-static
+  789  make
+  790  sudo make install
+  791  cd ..
+  792  cd httpd-2.4.52
+  793  sudo ./configure --enable-so
+  794  cd Downloads
+  795  cd httpd-2.4.52
+  796  sudo ./configure --enable-so
+  797  sudo apt-get install libpcre3 apt–get install libpcre3–dev
+  798  sudo apt-get install libpcre3
+  799  sudo apt-get install libpcre3–dev
+  800  apt–get install libpcre3–dev
+  801  apt-get install libpcre3–dev
+  802  sudo apt-get install libpcre3–dev
+  803  sudo apt-get update
+  804  sudo apt-get install libpcre3 libpcre3-dev
+  805  ./configure --enable-so
+  806  make
+  807  sudo make install
+  808  cd ..
+  809  /usr/local/apache2/bin/apachectl start
+  810  sudo /usr/local/apache2/bin/apachectl start
+  811  /usr/local/apache2/bin/apachectl start
+  812  sudo /usr/local/apache2/bin/apachectl start
+  813  sudo /usr/local/apache2/bin/apachectl stop
+  814  sudo /usr/local/apache2/bin/apachectl start
+  815  cd php-8.1.1
+  816  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  817  sudo apt-get install libxml
+  818  sudo apt-get install libxml-2.0
+  819  sudo apt-get install libxml
+  820  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  821  cd Downloads/php-8.1.1
+  822  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  823  sudo apt-get install libxml2-dev
+  824  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  825  sudo apt-get install openssl-devel
+  826  sudo make
+  827  make
+  828  sudo apt-get install sqlite3 libsqlite3-dev
+  829  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  830  sudo apt-get install zlib1g-dev
+  831  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  832  make
+  833  cd Projects/enspd-mini-project/gantt-react
+  834  ls
+  835  code .
+  836  npm start
+  837  cd ..
+  838  ls
+  839  cd gantt-react
+  840  code .
+  841  npm start
+  842  code .
+  843  npm start
+  844  lsb_release -a
+  845  cd Downloads
+  846  ./xampp-linux-x64-8.0.13-0-installer.run
+  847  sudo ./xampp-linux-x64-8.0.13-0-installer.run
+  848  php -v
+  849  php -version
+  850  cd /opt/lampp/htdocs
+  851  cd mon_site
+  852  code .
+  853  sudo code .
+  854  sudo code . --user-data-dir
+  855  sudo --user-data-dir code .
+  856  sudo su
+  857  php -V
+  858  ls
+  859  sudo code hello.php
+  860  sudo su
+  861  cd ~
+  862  sudo code /opt/lampp/htdocs/mon_site
+  863  sudo code /opt/lampp/htdocs/mon_site --user-data-dir
+  864  cd /opt/lampp/htdocs
+  865  chmod 777 mon_site
+  866  sudo chmod 777 mon_site
+  867  cd mon_site
+  868  code 
+  869  code hello.php
+  870  chmod 777 hello.php
+  871  sudo chmod 777 hello.php
+  872  cd Downloads
+  873  ls
+  874  cd php-8.1.1
+  875  ./configure --with-apxs2=/usr/local/apache2/bin/apxs --with-pdo-mysql
+  876  make
+  877  make install
+  878  sudo make install
+  879  cd ..
+  880  cd ~
+  881  php -V
+  882  php
+  883  cp php.ini-development /usr/local/lib/php.ini
+  884  cd Downloads/php-8.1.1
+  885  cd php.ini-development /usr/local/lib/php.ini
+  886  ls
+  887  cp php.ini-development /usr/local/lib/php.ini
+  888  sudo cp php.ini-development /usr/local/lib/php.ini
+  889  cd ~
+  890  cd Downloads/php-8.1.1
+  891  LoadModule 
+  892  history
+  893  /opt/lampp/lampp start
+  894  sudo /opt/lampp/lampp start
+  895  sudo su
+  896  cd Downloads/
+  897  LS
+  898  ls
+  899  ./xampp-linux-x64-8.0.13-0-installer.run
+  900  sudo /opt/lampp/lampp start
+  901  cd ~
+  902  history
+  903  cd /opt/lampp/htdocs
+  904  ls
+  905  mkdir tp1
+  906  sudo mkdir tp1
+  907  cd tp1
+  908  sudo touch index.php
+  909  sudo touch listUser.php
+  910  sudo touch addUser.php
+  911  code index.php
+  912  ls
+  913  sudo code index.php
+  914  sudo chmod 777 index.php
+  915  code index.php
+  916  cd ..
+  917  chmod 777 tp1
+  918  sudo chmod 777 tp1
+  919  ls
+  920  ls -l tp1
+  921  code tp1
+  922  cd tp1
+  923  sudo chmod 777 listUser.php
+  924  sudo chmod 777 addUser.php
+  925  cd ..
+  926  code tp1
+  927  pwd
+  928  cp -r tp1 /media/legrand/legrand\n
+  929  cd Projects/enspd-mini-project/gantt-js
+  930  code .
+  931  cd Projects/enspd-mini-project/gantt-js
+  932  code .
+  933  git init
+  934  git add .
+  935  git commit-m 'Define the Task structure and the gantt logique'
+  936  git commit -m 'Define the Task structure and the gantt logique'
+  937  git add .
+  938  git commit -m 'build critical path'
+  939  cd Downloads/
+  940  cd jsform
+  941  code .
+  942  cd Downloads/
+  943  cd mahamat
+  944  cd ..
+  945  cd mahamat1
+  946  code .
+  947  cd Projects/enspd-mini-project/gantt-js
+  948  code .
+  949  php -v
+  950  sudo apt install codeblocks
+  951  codeblocks
+  952  npm -v
+  953  cd Projects/
+  954  ls
+  955  mkdir tailwindcss
+  956  cd tailwindcss
+  957  npm install -D tailwindcss pstcss autoprefixer
+  958  npm install -D tailwindcss postcss autoprefixer
+  959  npx tailwindcss init
+  960  code .
+  961  npm run dev
+  962  code .
+  963  npx tailwindcss -i ./src/main.css -o ./build/tailwind.css --watch
+  964  npm run dev
+  965  cd Projects/
+  966  ls
+  967  cd tailwindcss
+  968  code .
+  969  cd ..
+  970  rm -r tailwindcss
+  971  mkdir tailwindcss
+  972  cd tailwindcss
+  973  npm install -D tailwindcss
+  974  code .
+  975  npx tailwindcss init
+  976  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+  977  cd Documents
+  978  cd prog\ system
+  979  gcc exo1.c
+  980  ./a.out
+  981  ifconfig
+  982  ip addr show
+  983  sudo apt install net-tools
+  984  _ifconfig
+  985  clear
+  986  gcc exo3.c
+  987  clear
+  988  gcc table.c
+  989  ./a.out 2 10
+  990  gcc table.c
+  991  ./a.out 5 10
+  992  gcc fork-example.c
+  993  ./a.out
+  994  gcc fork-example.c
+  995  ./a.out taskset -c 0
+  996  gcc fork-example.c
+  997  ./a.out
+  998  gcc fork-example.c
+  999  ./a.out taskset -c 0
+ 1000  gcc fork-example.c
+ 1001  ./a.out
+ 1002  gcc fork-example.c
+ 1003  ./a.out
+ 1004  gcc fork-example.c
+ 1005  ./a.out
+ 1006  gcc fork-example.c
+ 1007  ./a.out
+ 1008  gcc fork-example.c
+ 1009  ./a.out
+ 1010  sudo apt install net-tools
+ 1011  ifconfig
+ 1012  cd Documents/prog\ system
+ 1013  gcc exo3.c
+ 1014  code exo3.c
+ 1015  gcc exo3.c
+ 1016  ./a.out
+ 1017  ls
+ 1018  code fork-exercice.c
+ 1019  gcc fork-example.c
+ 1020  gcc fork-exercice.c
+ 1021  ./a.out
+ 1022  2
+ 1023  gcc fork-exercice.c
+ 1024  ./a.out
+ 1025  gcc fork-exercice.c
+ 1026  ./a.out
+ 1027  gcc fork-exercice.c
+ 1028  ./a.out
+ 1029  gcc fork-exercice.c
+ 1030  ./a.out
+ 1031  gcc fork-exercice.c
+ 1032  ./a.out
+ 1033  4
+ 1034  gcc fork-exercice.c
+ 1035  ./a.out
+ 1036  gcc fork-exercice.c
+ 1037  ./a.out 4
+ 1038  gcc fork-exercice.c
+ 1039  ./a.out 4
+ 1040  ./a.out 
+ 1041  ./a.out 1
+ 1042  ./a.out 4
+ 1043  ./a.out 1
+ 1044  gcc fork-exercice.c
+ 1045  ./a.out 1
+ 1046  gcc fork-exercice.c
+ 1047  ./a.out 1
+ 1048  gcc fork-exercice.c
+ 1049  ./a.out 1
+ 1050  gcc fork-exercice.c
+ 1051  ./a.out 1
+ 1052  gcc fork-exercice.c
+ 1053  cd Documents/prog\ system
+ 1054  gcc fork-exercice.c
+ 1055  ./a.out 1
+ 1056  gcc fork-exercice.c
+ 1057  ./a.out 1
+ 1058  touch fork-exercice.txt
+ 1059  code fork-exercice.txt
+ 1060  cd Projects/enspd-mini-project/gantt-js
+ 1061  code .
+ 1062  cd Projects/enspd-mini-project/gantt-js
+ 1063  code .
+ 1064  cd Projects/
+ 1065  ls
+ 1066  mkdir javascript
+ 1067  cd javascript
+ 1068  mkdir javascript_info
+ 1069  cd javascript_info
+ 1070  code .
+ 1071  mocha.run
+ 1072  mocha.run()\n;
+ 1073  exit
+ 1074  cd Projects/
+ 1075  ls
+ 1076  cd youtubetuts
+ 1077  ls
+ 1078  mkdir ecommerce
+ 1079  cd ecommerce
+ 1080  code .
+ 1081  uname -s
+ 1082  lsb_release -a
+ 1083  cd Projects/
+ 1084  ls
+ 1085  mkdir tailwindcss
+ 1086  cd tailwindcss
+ 1087  npm init -y
+ 1088  code .
+ 1089  npm install tailwindcss postcss autoprefixer
+ 1090  npx tailwindcss init
+ 1091  npm run dev
+ 1092  npm install tailwindcss postcss-cli autoprefixer
+ 1093  npm run dev
+ 1094  npm i live-server -g
+ 1095  npm install live-server -g
+ 1096  sudo npm install live-server -g
+ 1097  live-server public
+ 1098  npm install
+ 1099  live-server public
+ 1100  npm run dev
+ 1101  cd ..
+ 1102  ls
+ 1103  mkdir mern-tutorial
+ 1104  cd mern-tutorial
+ 1105  code .
+ 1106  sudo snap install postman
+ 1107  cd Projects/mern-tutorial
+ 1108  npm init -y
+ 1109  npm i express dotenv mongoose colors
+ 1110  npm i -D nodemon
+ 1111  npm run server
+ 1112  npm i express-async-handler
+ 1113  git init
+ 1114  git add .
+ 1115  git commit -m 'Goals controller and routes setup'
+ 1116  npm run server
+ 1117  git add .
+ 1118  git commit -m 'Goals CRUD operations setup'
+ 1119  git add .
+ 1120  git commit -m 'REST API for goals'
+ 1121  cd Projects/mern-tutorial
+ 1122  npm run server
+ 1123  cd Projects/mern-tutorial
+ 1124  npm i bcryptjs
+ 1125  npm i jsonwebtoken
+ 1126  npm run server
+ 1127  git add .
+ 1128  git commit -m 'JWT Authentication'
+ 1129  cd Projects/
+ 1130  ls
+ 1131  cd youtubetuts
+ 1132  ls
+ 1133  ls ecommerce
+ 1134  cd Projects/
+ 1135  ls
+ 1136  cd y
+ 1137  cd youtubetuts
+ 1138  ls
+ 1139  cd ecommerce
+ 1140  git log
+ 1141  git add .
+ 1142  git commit -m 'Done with the modal design and the responsive. Ready to deploy...'
+ 1143  cd ..
+ 1144  ls
+ 1145  cd tailwind-guide
+ 1146  ls
+ 1147  cd ..
+ 1148  mkdir documentation
+ 1149  cd documentation
+ 1150  mkdir tailwind-doc
+ 1151  cd tailwind-doc
+ 1152  npm install -D tailwindcss postcss-cli autoprefixer
+ 1153  ls
+ 1154  rm -r node_modules
+ 1155  rm package-lock.json package.json
+ 1156  ls
+ 1157  npm init -y
+ 1158  npm install -D tailwindcss postcss-cli autoprefixer
+ 1159  npx tailwindcss init
+ 1160  code .
+ 1161  npm run dev
+ 1162  cd Projects/mern-tutorial
+ 1163  ls
+ 1164  code .
+ 1165  npx create-react-app frontend --template redux
+ 1166  npm run client
+ 1167  cd Projects/mern-tutorial
+ 1168  cd frontend
+ 1169  npm i react-router-dom
+ 1170  npm i react-icons
+ 1171  npm run client
+ 1172  cd Projects/udemycourse/react-form-user-input
+ 1173  git log
+ 1174  npm start
+ 1175  cd Projects/udemycourse/react-form-user-input
+ 1176  code .
+ 1177  git log
+ 1178  cd ..
+ 1179  ls
+ 1180  whereis xampp
+ 1181  history
+ 1182  ./xampp-linux-x64-8.0.13-0-installer.run
+ 1183  /home/legrand/Downloads/xampp-linux-x64-8.0.13-0-installer.run
+ 1184  sudo /home/legrand/Downloads/xampp-linux-x64-8.0.13-0-installer.run
+ 1185  cd /opt/lampp/
+ 1186  chmod 777 htdocs
+ 1187  sudo chmod 777 htdocs
+ 1188  cd htdocs
+ 1189  code programwithgio
+ 1190  chmod 777 programwithgio
+ 1191  sudo chmod 777 programwithgio
+ 1192  cd programwithgio
+ 1193  sudo chmod 777 index.php
+ 1194  php index.php
+ 1195  cd Projects/youtubetuts
+ 1196  npx create-react-app react-search-filter
+ 1197  cd react-search-filter
+ 1198  npm start
+ 1199  cd Projects/youtubetuts/react-search-filter
+ 1200  code .
+ 1201  cd ..
+ 1202  mkdir react-node-search-filter
+ 1203  cd react-node-search-filter
+ 1204  mkdir api
+ 1205  mkdir client
+ 1206  rm client
+ 1207  rm -r client
+ 1208  npx create-react-app client
+ 1209  cd ..
+ 1210  cd react-node-search-filter
+ 1211  cd api
+ 1212  npm init -y
+ 1213  npm install express cors
+ 1214  code .
+ 1215  cd ..
+ 1216  ls
+ 1217  cd ..
+ 1218  cd mern-tutorial
+ 1219  code .
+ 1220  npm i nodemon --dev
+ 1221  npm init -y
+ 1222  ls
+ 1223  rm -r client
+ 1224  code .
+ 1225  npx create-react-app client
+ 1226  npm init -y
+ 1227  npm i express cors
+ 1228  npm i nodemon --dev
+ 1229  cd ..
+ 1230  ls
+ 1231  cd youtubetuts
+ 1232  ls
+ 1233  code react-search-filter
+ 1234  npm run server
+ 1235  cd api
+ 1236  npm run server
+ 1237  npm install
+ 1238  npm start
+ 1239  cd Projects/youtubetuts/react-search-filter
+ 1240  code .
+ 1241  npm i axios
+ 1242  cd api
+ 1243  npm i axios
+ 1244  cd ..
+ 1245  cd client
+ 1246  npm i axios
+ 1247  npm start
+ 1248  cd Projects/youtubetuts/
+ 1249  ls
+ 1250  cd react-node-search-filter
+ 1251  code .
+ 1252  git init
+ 1253  git status
+ 1254  git add client
+ 1255  cd client
+ 1256  code .
+ 1257  ls
+ 1258  ls -a
+ 1259  rm -r .git
+ 1260  chmod 777 .git
+ 1261  rm -r .git
+ 1262  rm -rf .git
+ 1263  ls -a
+ 1264  git add client
+ 1265  cd api
+ 1266  rm -rf .git
+ 1267  cd ..
+ 1268  cd api
+ 1269  cd ..
+ 1270  cd api
+ 1271  ls -a
+ 1272  cd ..
+ 1273  git status
+ 1274  cd .../..
+ 1275  cd ../../udemycourse
+ 1276  ls
+ 1277  cd react-meals-app
+ 1278  code .
+ 1279  npm start
+ 1280  cd Projects/youtubetuts/
+ 1281  ls
+ 1282  cd ..
+ 1283  ls
+ 1284  cd documentation
+ 1285  ls
+ 1286  cd tailwind-doc
+ 1287  code .
+ 1288  npm run dev
+ 1289  cd Projects/
+ 1290  ls
+ 1291  cd documentation
+ 1292  ls
+ 1293  code .
+ 1294  npm run dev
+ 1295  sudo chmod +x /usr/local/bin/docker-compose
+ 1296  docker-compose --version
+ 1297  curl -s https://laravel.build/example-app | bash
+ 1298  dockerd
+ 1299  docker-compose
+ 1300  docker
+ 1301  sudo groupadd docker
+ 1302  sudo usermod -aG docker legrand
+ 1303  newgrp docker
+ 1304  docker run hello-world
+ 1305  sudo mv /usr/local/bin/docker-compose /usr/bin/docker-compose
+ 1306  sudo chmod +x /usr/bin/docker-compose
+ 1307  docker-compose
+ 1308  docker-compose --run
+ 1309  curl -s https://laravel.build/example-app | zsh
+ 1310  ls
+ 1311  curl -s https://laravel.build/example-app | bash
+ 1312  sudo systemctl enable docker.service
+ 1313  sudo rm /usr/local/bin/docker-compose
+ 1314  sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+ 1315  ls
+ 1316  cd /usr/local/bin
+ 1317  ls
+ 1318  cd ~
+ 1319  sudo chmod +x /usr/local/bin/docker-compose
+ 1320  gedit ~/.zshrc
+ 1321  source ~/.zshrc
+ 1322  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+ 1323  docker-compose --version
+ 1324  curl -s https://laravel.build/example-app | bash
+ 1325  clear
+ 1326  docker-compose --version
+ 1327  curl -s https://laravel.build/example-app | bash
+ 1328  sudo curl -s https://laravel.build/example-app | bash
+ 1329  systemctl start docker
+ 1330  sudo apt-get update
+ 1331  sudo apt-get install \\n    ca-certificates \\n    curl \\n    gnupg \\n    lsb-release
+ 1332  echo \\n  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \\n  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1333  sudo apt-get install \\n    ca-certificates \\n    curl \\n    gnupg \\n    lsb-release
+ 1334  systemctl start docker
+ 1335  curl -s https://laravel.build/example-app | bash
+ 1336  cd example-app
+ 1337  ./vendor/bin/sail up
+ 1338  service start apache
+ 1339  service apache start
+ 1340  service apache2 start
+ 1341  history
+ 1342  sudo /opt/lampp/lampp start\n
+ 1343  ./vendor/bin/sail up
+ 1344  npm -v
+ 1345  npm install -g npm@8.5.1
+ 1346  sudo npm install -g npm@8.5.1
+ 1347  npm -v
+ 1348  sudo apt update
+ 1349  sudo apt install apt-utils
+ 1350  ./vendor/bin/sail up
+ 1351  code .
+ 1352  ./vendor/bin/sail up
+ 1353  ./vendor/bin/sail build
+ 1354  ./vendor/bin/sail up
+ 1355  cd example-app
+ 1356  ./vendor/bin/sail up
+ 1357  cd example-app
+ 1358  code .
+ 1359  cd ..
+ 1360  composer create-project laravel/laravel example-app1
+ 1361  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"\nphp -r "if (hash_file('sha384', 'composer-setup.php') === '906a84df04cea2aa72f40b5f787e49f22d4c2f19492ac310e8cba5b96ac8b64115ac402c8cd292b8a03482574915d1a8') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"\nphp composer-setup.php\nphp -r "unlink('composer-setup.php');"
+ 1362  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1363  /opt/lampp/lampp
+ 1364  /opt/lampp/
+ 1365  ls
+ 1366  cd php
+ 1367  ls
+ 1368  cd ..
+ 1369  gedit php.ini
+ 1370  cd /apache/bin/
+ 1371  cd /opt/lampp/
+ 1372  ls
+ 1373  cd apache2
+ 1374  ls
+ 1375  cd ..
+ 1376  cd bin
+ 1377  ls
+ 1378  cd php
+ 1379  gedit php.ini
+ 1380  cd ..
+ 1381  cd php
+ 1382  ls
+ 1383  cd man
+ 1384  ls
+ 1385  cd ~
+ 1386  cd /etc/php/
+ 1387  cd /etc
+ 1388  ls
+ 1389  cd ~
+ 1390  cd /opt/lampp/etc
+ 1391  ls
+ 1392  gedit php.ini
+ 1393  sudo gedit php.ini
+ 1394  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1395  mv composer.phar /usr/local/bin/composer
+ 1396  sudo mv composer.phar /usr/local/bin/composer
+ 1397  composer -v
+ 1398  sudo mv /usr/local/bin/composer ~
+ 1399  ls
+ 1400  mv composer.phar ~/.local/bin/
+ 1401  ls
+ 1402  mv composer.phar ~/.local/bin
+ 1403  composer -v
+ 1404  ls
+ 1405  php -v
+ 1406  ls
+ 1407  ./installer
+ 1408  sudo ./installer
+ 1409  installer
+ 1410  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1411  ls
+ 1412  sudo apt-get install -y php-posix
+ 1413  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1414  cd /opt/lampp/etc
+ 1415  ls
+ 1416  sudo gedit php.ini
+ 1417  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1418  php -r "copy('installer', 'composer-setup.php');"
+ 1419  php -r "copy('~/installer', 'composer-setup.php');"
+ 1420  php -r "copy('http://getcomposer.org/installer', 'composer-setup.php');"
+ 1421  sudo php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1422  sudo gedit php.ini
+ 1423  sudo php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1424  composer
+ 1425  sudo php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1426  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1427  php -r "if (hash_file('sha384', 'composer-setup.php') === '906a84df04cea2aa72f40b5f787e49f22d4c2f19492ac310e8cba5b96ac8b64115ac402c8cd292b8a03482574915d1a8') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+ 1428  php composer-setup.php
+ 1429  sudo apt-get install -y php-openssl
+ 1430  sudo apt install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip
+ 1431  php composer-setup.php
+ 1432  cd /opt/lampp/etc
+ 1433  ls
+ 1434  sudo gedit php.ini
+ 1435  cd ~
+ 1436  php composer-setup.php
+ 1437  php composer-setup.php --with-openssl
+ 1438  php -i | grep -i openssl
+ 1439  sudo apt install openssl
+ 1440  php -i | grep -i openssl
+ 1441  rm -rf /opt/lampp
+ 1442  sudo rm -rf /opt/lampp
+ 1443  php -v
+ 1444  whereis php
+ 1445  whereis apache
+ 1446  ls
+ 1447  which apache2
+ 1448  sudo apt remove apache2.*
+ 1449  dpkg -S `which apache2`
+ 1450  cd /usr
+ 1451  ls
+ 1452  cd bin
+ 1453  ls
+ 1454  cd ..
+ 1455  ls
+ 1456  cd local
+ 1457  ls
+ 1458  cd apache2
+ 1459  ls
+ 1460  cd ..
+ 1461  sudo apt remove apache2
+ 1462  cd ~
+ 1463  sudo service apache2 stop
+ 1464  sudo service apache2 start
+ 1465  sudo apt update
+ 1466  sudo apt install apache2
+ 1467  sudo apt install php-bcmath
+ 1468  cd /etc
+ 1469  ls
+ 1470  cd php
+ 1471  ls
+ 1472  cd 8.0
+ 1473  ls
+ 1474  cd ..
+ 1475  ls
+ 1476  cd 
+ 1477  cd /etc/apache2
+ 1478  ls
+ 1479  cd ~
+ 1480  sudo apt-get install php-mbstring
+ 1481  echo '<?php phpinfo(); ?>' | php 2>&1 |grep -i ssl
+ 1482  ./configure --with-openssl --with-php-config=/usr/local/php/bin/php-config\nmake && make install
+ 1483  echo '<?php phpinfo(); ?>' | php 2>&1 |grep -i ssl
+ 1484  sudo apt-get install openssl
+ 1485  sudo apt-get install libcurl4-openssl-dev
+ 1486  sudo apt-get install libssl-dev
+ 1487  echo '<?php phpinfo(); ?>' | php 2>&1 |grep -i ssl
+ 1488  phpenmod pdo_mysql
+ 1489  sudo phpenmod pdo_mysql
+ 1490  sudo phpenmod openssl
+ 1491  php -i | grep enabled
+ 1492  sudo phpenmod php-tokenizer
+ 1493  sudo apt-get install php-xml
+ 1494  sudo apt-get install openssl
+ 1495  php -i | grep -i openssl
+ 1496  sudo service apache2 restart
+ 1497  php -i | grep -i openssl
+ 1498  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1499  echo '<?php phpinfo(); ?>' | php 2>&1 |grep -i ssl
+ 1500  whereis apache
+ 1501  whereis apache2
+ 1502  whereis php.ini
+ 1503  cd /usr/bin/php8.0
+ 1504  cd usr
+ 1505  cd /usr
+ 1506  cd bin
+ 1507  ls
+ 1508  cd php8.0
+ 1509  cd php
+ 1510  php -v
+ 1511  cd ~
+ 1512  sudo apt-get purge 'php*'
+ 1513  php -v
+ 1514  sudo rm -rf /usr/local/include/php
+ 1515  sudo apt-get purge php8.*
+ 1516  whereis php8.1
+ 1517  php -v
+ 1518  whereis php8.1.1
+ 1519  php -v
+ 1520  cd /usr
+ 1521  cd php
+ 1522  cd /usr/bin/php8.0
+ 1523  cd /bin/php8.0
+ 1524  cd /bin/php8.1
+ 1525  cd /bin/php8.1.1
+ 1526  cd /bin
+ 1527  ls
+ 1528  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1529  php -v
+ 1530  cd /etc/php
+ 1531  php -i | grep "Loaded Configuration File"
+ 1532  sudo gedit /usr/local/lib/php.ini
+ 1533  sudo service apache2 restart
+ 1534  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1535  sudo gedit /usr/local/lib/php
+ 1536  cd /usr/local/lib/php
+ 1537  ls
+ 1538  cd extensions
+ 1539  ls
+ 1540  cd ..
+ 1541  sudo gedit /usr/local/lib/php.ini
+ 1542  cd ~
+ 1543  sudo apt install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip
+ 1544  sudo service apache2 restart
+ 1545  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1546  sudo apt install php8.1-common php8.1-bcmath openssl php8.1-json php8.1-mbstring
+ 1547  php -v
+ 1548  sudo service apache2 restart
+ 1549  php -v
+ 1550  sudo apt remove php8.0-*
+ 1551  sudo apt remove php8-*
+ 1552  php -i | grep ini\n
+ 1553  phpinfo()
+ 1554  php -r "print phpinfo();" | grep ".ini"
+ 1555  sudo php -v
+ 1556  <?php   \n    phpinfo();\n?>\n
+ 1557  sudo gedit /usr/local/lib/php.ini
+ 1558  sudo php -v
+ 1559  php -v
+ 1560  docker-compose --version
+ 1561  docker
+ 1562  docker-compose --version
+ 1563  rm $(which docker-compose)
+ 1564  sudo rm $(which docker-compose)
+ 1565  docker-compose --version
+ 1566  php -v
+ 1567  sudo apt-get purge 'php*'
+ 1568  php -v
+ 1569  sudo apt-get purge php8.*
+ 1570  sudo apt-get purge php*
+ 1571  sudo apt-get purge php8.*
+ 1572  sudo apt-get purge php7.*
+ 1573  sudo apt-get autoclean
+ 1574  sudo apt-get autoremove
+ 1575  php -v
+ 1576  sudo apt-get purge php8.0
+ 1577  sudo apt-get purge php8.1
+ 1578  sudo apt-get purge php
+ 1579  sudo apt-get autoclean
+ 1580  sudo apt-get autoremove
+ 1581  sudo gedit /usr/local/lib/php.ini
+ 1582  sudo apt-get remove –purge apache2 apache2-utils
+ 1583  apt-get –purge autoremove
+ 1584  sudo apt-get –purge autoremove
+ 1585  sudo apt-get -purge autoremove
+ 1586  sudo apt-get --purge autoremove
+ 1587  sudo apt-get remove --purge apache2 apache2-utils
+ 1588  sudo apt-get --purge autoremove
+ 1589  sudo gedit /usr/local/lib/php.ini
+ 1590  php -v
+ 1591  apache2 -v
+ 1592  apache2 
+ 1593  cd /usr/local/lib/
+ 1594  ls
+ 1595  rm -r php
+ 1596  sudo rm -r php
+ 1597  sudo rm -r php.ini
+ 1598  ls
+ 1599  cd ..
+ 1600  ls
+ 1601  rm -r apache2 
+ 1602  sudo rm -r apache2 
+ 1603  sudo rm -r php 
+ 1604  sudo rm -r apr
+ 1605  cd ..
+ 1606  cd 
+ 1607  php -v
+ 1608  whereis php8.1.1
+ 1609  whereis php8
+ 1610  sudo apt-get remove --purge php
+ 1611  sudo apt-get remove autoremove
+ 1612  sudo apt-get remove --purge php
+ 1613  sudo apt-get autoremove
+ 1614  php -v
+ 1615  apt list | grep php
+ 1616  apt list --installed | grep php
+ 1617  which php
+ 1618  cd /usr/local/
+ 1619  ls
+ 1620  cd 
+ 1621  rm -r /usr/local/php
+ 1622  sudo rm -r /usr/local/php
+ 1623  which php
+ 1624  sudo rm -r /usr/local/bin/php
+ 1625  which php
+ 1626  php -v
+ 1627  sudo apt update
+ 1628  sudo apt upgrade -y
+ 1629  sudo apt install apache2 -y
+ 1630  sudo ufw app list
+ 1631  sudo ufw allow in 'Apache'
+ 1632  sudo ufw status
+ 1633  ufw enable
+ 1634  sudo ufw enable
+ 1635  sudo ufw status
+ 1636  sudo apt install mysql-server
+ 1637  sudo mysql_secure_installation
+ 1638  sudo mysql
+ 1639  sudo apt install php libapache2-mod-php php-mysql
+ 1640  php -v
+ 1641  php --version
+ 1642  cd /usr/local/lib
+ 1643  rm libpcre*
+ 1644  sudo rm libpcre*
+ 1645  cd
+ 1646  php --version
+ 1647  which php
+ 1648  sudo apt-get remove --purge php
+ 1649  sudo apt-get autoremove
+ 1650  php --version
+ 1651  which php
+ 1652  sudo rm -r /usr/local/bin/php
+ 1653  sudo rm -r /usr/bin/php
+ 1654  dpkg -l | grep php | tee packages.txt
+ 1655  sudo apt install php8.1-common php8.1-cli -y
+ 1656  sudo apt install php libapache2-mod-php php-mysql
+ 1657  php --version
+ 1658  sudo apt install apache2 -y
+ 1659  sudo ufw app list
+ 1660  sudo ufw allow in 'Apache'
+ 1661  sudo ufw status
+ 1662  sudo mysql
+ 1663  sudo apt install php libapache2-mod-php php-mysql
+ 1664  php -v
+ 1665  which php
+ 1666  sudo apt-get purge 'php*'
+ 1667  apache2 -v
+ 1668  sudo service apache2 restart
+ 1669  sudo apt install php libapache2-mod-php php-mysql
+ 1670  sudo service apache2 stop
+ 1671  sudo service apache2 start
+ 1672  php -v
+ 1673  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+ 1674  sudo apt install phpmyadmin
+ 1675  sudo systemctl restart apache2
+ 1676  mysql -u root -p
+ 1677  sudo mysql -u root -p
+ 1678  sudo apt install phpmyadmin
+ 1679  sudo mysql -u root -p
+ 1680  sudo apt-get purge phpmyadmin
+ 1681  sudo apt-get autoremove
+ 1682  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+ 1683  sudo apt install phpmyadmin
+ 1684  sudo mysql -u root -p
+ 1685  sudo systemctl restart apache2
+ 1686  ifconfig
+ 1687  sudo nano /etc/apache2/apache2.conf
+ 1688  sudo service apache2 restart
+ 1689  sudo mysql -u root -p
+ 1690  gedit /etc/phpmyadmin/config.inc.php
+ 1691  sudo gedit /etc/phpmyadmin/config.inc.php
+ 1692  sudo service apache2 restart
+ 1693  gedit /etc/phpmyadmin/config.inc.php
+ 1694  sudo gedit /etc/phpmyadmin/config.inc.php
+ 1695  sudo service apache2 restart
+ 1696  sudo apt-get purge phpmyadmin
+ 1697  sudo apt-get autoremove
+ 1698  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+ 1699  sudo mysql -u root -p
+ 1700  sudo apt install phpmyadmin
+ 1701  sudo phpenmod mbstring\n\n
+ 1702  sudo systemctl restart apache2
+ 1703  sudo mysql
+ 1704  sudo gedit /etc/phpmyadmin/config.inc.php
+ 1705  sudo systemctl restart apache2
+ 1706  sudo gedit /etc/phpmyadmin/config.inc.php
+ 1707  sudo mysql -u root -p
+ 1708  mysql -u root
+ 1709  sudo gedit /etc/phpmyadmin/config.inc.php
+ 1710  mysql -u root
+ 1711  sudo mysql -u root -p
+ 1712  mysql -u root
+ 1713  sudo mysql -u root -p
+ 1714  mysql -u root
+ 1715  php -v
+ 1716  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1717  php -r "if (hash_file('sha384', 'composer-setup.php') === '906a84df04cea2aa72f40b5f787e49f22d4c2f19492ac310e8cba5b96ac8b64115ac402c8cd292b8a03482574915d1a8') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+ 1718  php composer-setup.php
+ 1719  php -r "unlink('composer-setup.php');"
+ 1720  sudo mv composer.phar /usr/local/bin/composer
+ 1721  composer
+ 1722  composer create-project laravel/laravel example-app
+ 1723  rm -r example-app
+ 1724  composer create-project laravel/laravel example-app
+ 1725  cd example-app
+ 1726  php artisan serve
+ 1727  cd
+ 1728  composer global require laravel/installer
+ 1729  ls
+ 1730  gedit ~/.zshrc
+ 1731  source ~/.zshrc
+ 1732  gedit ~/.zshrc
+ 1733  ls
+ 1734  rm -r example-app
+ 1735  laravel new example-app
+ 1736  cd example-app
+ 1737  php artisan serve
+ 1738  mysql -u root
+ 1739  pwd
+ 1740  cd Documents/
+ 1741  cd public_html
+ 1742  cd core
+ 1743  code .
+ 1744  code example-app
+ 1745  php artisan serve
+ 1746  composer update
+ 1747  composer update --ignore-platform-req=ext-intl
+ 1748  sudo gedit /etc/php/8.0/cli/php.ini
+ 1749  composer update
+ 1750  sudo gedit /etc/php/8.0/cli/php.ini
+ 1751  composer update
+ 1752  sudo gedit /etc/php/8.0/cli/php.ini
+ 1753  composer update
+ 1754  sudo gedit /etc/php/8.0/cli/php.ini
+ 1755  php artisan serve
+ 1756  composer update
+ 1757  apt-cache search php8-*
+ 1758  apt-cache search php7-*
+ 1759  sudo apt-cache search php7-*
+ 1760  sudo apt-cache search php-*
+ 1761  sudo gedit /etc/php/8.0/cli/php.ini
+ 1762  composer update
+ 1763  sudo gedit /etc/php/8.0/cli/php.ini
+ 1764  sudo apt-get install php8.0-intl
+ 1765  composer update
+ 1766  sudo apt-get install php8.0-bcmath
+ 1767  composer update
+ 1768  cd /Documents
+ 1769  php artisan serve
+ 1770  composer update
+ 1771  sudo apt show php
+ 1772  sudo apt install php
+ 1773  sudo add-apt-repository ppa:ondrej/php
+ 1774  sudo apt install python-software-properties
+ 1775  sudo add-apt-repository ppa:ondrej/php
+ 1776  sudo apt-get update
+ 1777  sudo apt install php5.6.4
+ 1778  sudo apt install php5.6
+ 1779  sudo apt install php5.6-bcmath php5.6-cli php5.6-common php5.6-curl php5.6-intl php5.6-json php5.6-mbstring php5.6-xml php5.6-zip
+ 1780  sudo apt install php5.6-mysql
+ 1781  php -v
+ 1782  sudo update-alternatives --set php /usr/bin/php5.6
+ 1783  php -v
+ 1784  sudo a2dismod php8.0
+ 1785  sudo a2enmod php5.6
+ 1786  systemctl restart apache2
+ 1787  php -i | grep "Loaded Configuration File"
+ 1788  composer update
+ 1789  php artisan serve
+ 1790  composer update
+ 1791  sudo a2dismod php5.6
+ 1792  sudo a2enmod php8.0
+ 1793  systemctl restart apache2
+ 1794  composer update
+ 1795  composer install --ignore-platform-reqs
+ 1796  php artisan serve
+ 1797  sudo a2dismod php8.0
+ 1798  sudo a2enmod php5.6
+ 1799  systemctl restart apache2
+ 1800  php artisan serve
+ 1801  composer install --ignore-platform-reqs
+ 1802  php artisan serve
+ 1803  cd /Documents
+ 1804  cd Documents/public_html
+ 1805  code .
+ 1806  cd core
+ 1807  code .
+ 1808  php artisan serve
+ 1809  cd ..
+ 1810  php artisan serve
+ 1811  cd core
+ 1812  php artisan serve
+ 1813  sudo vi /etc/gdm3/daemon.conf
+ 1814  sudo nano /etc/gdm3/custom.conf
+ 1815  touch txt.txt
+ 1816  composer create-project --prefer-dist laravel/laravel blog "5.3.*"
+ 1817  cd blog
+ 1818  code .
+ 1819  cd Documents/public_html
+ 1820  cd core
+ 1821  php artisan serve
+ 1822  cd /Documents/
+ 1823  cd ~
+ 1824  cd Documents/public_html
+ 1825  cd core
+ 1826  cd public
+ 1827  ls
+ 1828  ls -al
+ 1829  nano .htaccess
+ 1830  cd assets
+ 1831  ls -al
+ 1832  cd css
+ 1833  ls -al
+ 1834  cd blog
+ 1835  php artisan serve --port 8001
+ 1836  php artisan serve
+ 1837  php artisan cache:clear
+ 1838  php artisan route:cache
+ 1839  php artisan config:cache\nphp artisan view:clear
+ 1840  php artisan serve
+ 1841  cd ~
+ 1842  cd blog
+ 1843  nano .env
+ 1844  php artisan serve
+ 1845  sudo apt-get update
+ 1846  ls
+ 1847  sudo apt-get update
+ 1848  sudo apt-get install \\n    ca-certificates \\n    curl \\n    gnupg \\n    lsb-release
+ 1849  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+ 1850  echo \\n  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \\n  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1851  sudo apt-get update
+ 1852  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1853  apt-cache madison docker-ce
+ 1854  sudo docker run hello-world
+ 1855  docker pull node
+ 1856  node
+ 1857  cd docker-crash-course-lesson-5
+ 1858  code .
+ 1859  cd api
+ 1860  docker build -t myapp .
+ 1861  docker images
+ 1862  docker run --name myapp_c1 myapp
+ 1863  docker ps
+ 1864  docker stop myapp_c1
+ 1865  docker run --name myapp_c2 -p 4000:4000 -d myapp
+ 1866  docker stop myapp_c2
+ 1867  docker ps
+ 1868  docker ps -a
+ 1869  docker start myapp_c2
+ 1870  sudo apt updatd
+ 1871  clear
+ 1872  sudo apt update
+ 1873  sudo apt install openjdk-11-jdk
+ 1874  java -version
+ 1875  sudo adduser hadoop
+ 1876  su - hadoop
+ 1877  apt list --installed | grep openssh-server
+ 1878  sudo apt install openssh-server
+ 1879  apt list --installed | grep openssh-server
+ 1880  sudo service ssh status
+ 1881  su - hadoop
+ 1882  apt install firewalld
+ 1883  sudo apt install firewalld
+ 1884  nano $HADOOP_HOME/etc/hadoop/core-site.xml 
+ 1885  sudo service ssh status
+ 1886  su - hadoop
+ 1887  ssh localhost
+ 1888  sudo apt list --installed | grep openssh-server
+ 1889  sudo apt install openssh-server
+ 1890  sudo service ssh status
+ 1891  sudo service ssh start
+ 1892  ssh localhost
+ 1893  sudo ufw allow port /tcp
+ 1894  sudo ufw allow port 22
+ 1895  sudo ufw allow port 22/tcp
+ 1896  sudo ufw allow 22/tcp
+ 1897  sudo ufw allow 2244/tcp
+ 1898  sudo ufw reload
+ 1899  sudo ufw status
+ 1900  ssh localhost
+ 1901  sudo nano /etc/sudoers
+ 1902  su - hadoop
+ 1903  ssh localhost
+ 1904  sudo ufw status
+ 1905  lshw -C network
+ 1906  su - hadoop
+ 1907  sudo apt install openssh-server openssh-client
+ 1908  su - hadoop
+ 1909  pwd
+ 1910  nano $HADOOP_HOME/etc/hadoop/mapreduce-site.xml
+ 1911  nano $HADOOP_HOME/etc/hadoop/mapred-site.xml
+ 1912  su - hadoop
+ 1913  java -version
+ 1914  cd Projects/udemycourse/
+ 1915  ls
+ 1916  cd react-meals-app
+ 1917  code .
+ 1918  sudo apt npm install yarn
+ 1919  npm install -g npm
+ 1920  npm install openssh-server
+ 1921  sudo apt install openssh-server openssh-client
+ 1922  su - hadoop
+ 1923  ssh localhost
+ 1924  sudo service ssh start
+ 1925  su - hadoop
+ 1926  npm start
+ 1927  su - hadoop
+ 1928  sudo service ssh restart
+ 1929  su - hadoop
+ 1930  cd Projects/udemycourse/react-meals-app
+ 1931  code .
+ 1932  git log
+ 1933  npm start
+ 1934  cd ..
+ 1935  ls
+ 1936  mv 01-starting-project react-redux
+ 1937  ls
+ 1938  cd react-redux
+ 1939  npm install
+ 1940  cd ..
+ 1941  mkdir redux-demo
+ 1942  cd redux-demo
+ 1943  code .
+ 1944  npm init -y
+ 1945  npm install redux
+ 1946  node redux-demo.js
+ 1947  git init
+ 1948  git add .
+ 1949  git status
+ 1950  node redux-demo.js
+ 1951  cd ..
+ 1952  cd react-redux
+ 1953  npm start
+ 1954  code .
+ 1955  npm start
+ 1956  npm install redux react-redux
+ 1957  git init
+ 1958  npm start
+ 1959  cd ..
+ 1960  cd react-redux
+ 1961  npm install @reduxjs/toolkit
+ 1962  npm start
+ 1963  su - hadoop
+ 1964  cd Projects/udemycourse/
+ 1965  mv 248\ 01-starting-project.zip react-advance-redux
+ 1966  ls
+ 1967  cd react-advance-redux
+ 1968  ls
+ 1969  mv 01-starting-project react-advance-redux
+ 1970  cd react-advance-redux
+ 1971  ls
+ 1972  npm install
+ 1973  code .
+ 1974  npm start
+ 1975  npm install @reduxjs/toolkit
+ 1976  npm install react-rdux
+ 1977  npm install react-redux
+ 1978  history
+ 1979  su - hadoop
+ 1980  cd dotnet
+ 1981  ls
+ 1982  export DOTNET_ROOT=$HOME/dotnet
+ 1983  export PATH=$PATH:$HOME/dotnet
+ 1984  dotnet --version
+ 1985  sudo gedit ~/.zshrc
+ 1986  source ~/.zshrc
+ 1987  dotnet --version
+ 1988  dotnet new console --name Demo1
+ 1989  history
+ 1990  su - hadoop
+ 1991  node -v
+ 1992  cd Projects/
+ 1993  ls
+ 1994  cd documentation
+ 1995  ls
+ 1996  npx create-react-app my-app
+ 1997  cd my-app
+ 1998  cd src
+ 1999  rm -f *
+ 2000  cd ..
+ 2001  cd src
+ 2002  touch index.css
+ 2003  touch index.js
+ 2004  cd ..
+ 2005  code .
+ 2006  npm start
+ 2007  su - hadoop
+ 2008  php -v
+ 2009  sudo a2enmod php5.6
+ 2010  sudo a2dismod php5.6
+ 2011  sudo a2enmod php8.0
+ 2012  systemctl restart apache2
+ 2013  php -v
+ 2014  sudo a2dismod php5.6
+ 2015  systemctl restart apache2
+ 2016  php -v
+ 2017  sudo a2dismod php5.6
+ 2018  sudo a2e
+ 2019  sudo a2enmod php8.0
+ 2020  sudo systemctl restart apache2
+ 2021  systemctl status apache2.service
+ 2022  journalctl | tail
+ 2023  sudo systemctl restart apache2
+ 2024  journalctl -xeu apache2.service
+ 2025  su - hadoop
+ 2026  sudo apt install kazam
+ 2027  sudo add-apt-repository ppa:sylvain-pineau/kazam
+ 2028  sudo apt-get update
+ 2029  sudo apt install kazam
+ 2030  su - hadoop
+ 2031  cd Projects/udemycourse/
+ 2032  ls
+ 2033  cd ..
+ 2034  cd documentation
+ 2035  ls
+ 2036  cd my-app
+ 2037  git log
+ 2038  npm start
+ 2039  history
+ 2040  ls -al
+ 2041  sudo gedit ~/.zshrc
+ 2042  ls
+ 2043  cd Demo1
+ 2044  ls
+ 2045  cd
+ 2046  mkdir programmationC#
+ 2047  cd programmationC\#
+ 2048  dotnet --version
+ 2049  cd ..
+ 2050  mkdir GLO4-ENSPD-2022
+ 2051  cd GLO4-ENSPD-2022
+ 2052  dotnet new console -o Demo00
+ 2053  cd Demo00
+ 2054  code .
+ 2055  dotnet run
+ 2056  cd ..
+ 2057  cd Demo00
+ 2058  service apache2 start
+ 2059  journalctl | tail
+ 2060  cd /etc/apache2
+ 2061  apache2ctl configtest
+ 2062  mv /etc/apache2/mods-enabled/lbmethod_byrequests.load /etc/apache2/mods-enabled/zzlbmethod_byrequests.load
+ 2063  \nsudo apt install libapache2-mod-php 
+ 2064  cd
+ 2065  service apache2 status
+ 2066  service apache2 stop
+ 2067  service apache2 status
+ 2068  sudo systemctl stop apache2
+ 2069  sudo systemctl start apache2
+ 2070  sudo apt-get purge apache2
+ 2071  sudo apt-get install apache2
+ 2072  apache2 -version
+ 2073  sudo service apache2 stop
+ 2074  sudo service apache2 start
+ 2075  sudo nano /etc/apache2/apache2.conf
+ 2076  sudo service apache2 restart
+ 2077  sudo -H gedit /etc/apache2/apache2.conf
+ 2078  /etc/init.d/apache2 restart
+ 2079  mysql -u root
+ 2080  sudo -H gedit /etc/apache2/apache2.conf
+ 2081  cd /etc/phpmyadmin/apache.conf
+ 2082  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf.d/phpmyadmin.conf
+ 2083  sudo apt update
+ 2084  sudo apt install phpmyadmin
+ 2085  php -v
+ 2086  history
+ 2087  sudo a2dismod php5.6
+ 2088  sudo a2enmod php8.0
+ 2089  sudo a2dismod php8.0
+ 2090  sudo a2enmod php8.0
+ 2091  sudo a2dismod mpm_event
+ 2092  sudo systemctl restart apache2
+ 2093  sudo service restart apache2
+ 2094  sudo service apache2 restart
+ 2095  sudo a2enmod php8.0
+ 2096  history
+ 2097  sudo update-alternatives --set php /usr/bin/php8.0
+ 2098  php -v
+ 2099  sudo service apache2 restart
+ 2100  history
+ 2101  sudo apt-get purge apache2
+ 2102  sudo apt-get install apache2
+ 2103  apache2 -version
+ 2104  sudo service apache2 stop
+ 2105  sudo service apache2 start
+ 2106  sudo apt-get purge phpmyadmin
+ 2107  sudo apt-get autoremove
+ 2108  clear
+ 2109  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+ 2110  mysql -u root
+ 2111  sudo service apache2 restart
+ 2112  sudo sed -i -e 's/newInstanceArgs($arguments)/newInstanceArgs(array_values($arguments))/g' /usr/share/php/Symfony/Component/DependencyInjection/ContainerBuilder.php && cat /usr/share/php/Symfony/Component/DependencyInjection/ContainerBuilder.php | grep "newInstanceArgs"
+ 2113  sudo service apache2 restart
+ 2114  php -v
+ 2115  sudo -H gedit /etc/apache2/apache2.conf
+ 2116  sudo service apache2 restart
+ 2117  sudo a2enmod php8.0
+ 2118  sudo a2enmod php8
+ 2119  sudo a2enmod php8.0
+ 2120  sudo a2enmod mpm_prefork && sudo a2enmod php8.0
+ 2121  sudo a2dismod mpm_event
+ 2122  sudo systemctl restart apache2
+ 2123  sudo a2enmod mpm_event
+ 2124  sudo systemctl restart apache2
+ 2125  a2dismod php8.0 mpm_prefork
+ 2126  sudo systemctl restart apache2
+ 2127  sudo a2dismod mpm_event
+ 2128  sudo systemctl restart apache2
+ 2129  sudo a2enmod mpm_event
+ 2130  sudo systemctl restart apache2
+ 2131  sudo a2enmod php8.0
+ 2132  sudo a2dismod php5.6
+ 2133  php -i | grep "Loaded Configuration File"
+ 2134  sudo a2dismod mpm_prefork
+ 2135  sudo a2dismod mpm_worker
+ 2136  sudo a2dismod mpm_event
+ 2137  sudo systemctl restart apache2
+ 2138  systemctl restart apache2
+ 2139  sudo a2enmod php8.0
+ 2140  sudo systemctl restart apache2
+ 2141  systemctl restart apache2
+ 2142  sudo a2enmod php8.0
+ 2143  systemctl restart apache2
+ 2144  sudo systemctl restart apache2
+ 2145  sudo a2dismod mpm_prefork
+ 2146  sudo a2enmod mpm_prefork
+ 2147  sudo a2dismod mpm_worker
+ 2148  sudo a2enmod mpm_worker
+ 2149  sudo a2enmod mpm_event
+ 2150  sudo systemctl restart apache2
+ 2151  sudo a2dismod mpm_prefork
+ 2152  sudo apt-get purge apache2
+ 2153  apache2 -version
+ 2154  sudo apt remove apache2
+ 2155  sudo apt autoremove
+ 2156  apache2 -version
+ 2157  sudo systemctl restart apache2
+ 2158  apache2 -version
+ 2159  sudo apt remove apache2
+ 2160  sudo apt purge apache2
+ 2161  apache2 -version
+ 2162  ps aux | grep -E 'httpd|apache'
+ 2163  apache2 -version
+ 2164  sudo apt-get remove apache2*
+ 2165  sudo systemctl stop apache2
+ 2166  sudo apt-get purge apache2 apache2-utils apache2-bin apache2
+ 2167  sudo apt-get autoremove
+ 2168  which apache2
+ 2169  sudo systemctl start apache2
+ 2170  apache2 -version
+ 2171  sudo apt install apache2 -y
+ 2172  sudo ufw app list
+ 2173  sudo ufw allow in 'Apache'
+ 2174  sudo ufw status
+ 2175  ufw enable
+ 2176  sudo ufw enable
+ 2177  Status: active
+ 2178  history
+ 2179  sudo -H gedit /etc/apache2/apache2.conf
+ 2180  sudo a2dismod mpm_prefork
+ 2181  sudo a2dismod mpm_worker
+ 2182  sudo a2dismod mpm_event
+ 2183  sudo systemctl restart apache2
+ 2184  sudo a2enmod php8.0
+ 2185  sudo systemctl restart apache2
+ 2186  sudo systemctl stop apache2
+ 2187  sudo apt-get purge apache2 apache2-utils apache2-bin apache2\n
+ 2188  sudo apt-get autoremove
+ 2189  which apache2
+ 2190  sudo systemctl start apache2
+ 2191  apache2 -version
+ 2192  sudo apt install apache2 -y
+ 2193  sudo ufw app list
+ 2194  sudo ufw allow in 'Apache'
+ 2195  sudo ufw status
+ 2196  sudo ufw enable
+ 2197  sudo -H gedit /etc/apache2/apache2.conf
+ 2198  cd /etc/phpmyadmin/apache.conf
+ 2199  cd /etc/phpmyadmin/apache.conf 
+ 2200  cd /etc/phpmyadmin/
+ 2201  ls
+ 2202  cd
+ 2203  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+ 2204  sudo a2enconf phpmyadmin.conf
+ 2205  sudo service apache2 reload
+ 2206  sudo a2dismod mpm_prefork
+ 2207  php -v
+ 2208  sudo a2dismod mpm_worker
+ 2209  sudo a2dismod mpm_event
+ 2210  systemctl restart apache2
+ 2211  sudo a2enmod php8.0
+ 2212  systemctl restart apache2
+ 2213  sudo a2enmod mpm_prefork
+ 2214  sudo a2dismod mpm_prefork
+ 2215  sudo apt-get purge php7.
+ 2216  sudo apt-get purge php8.
+ 2217  sudo apt-get purge php5.*
+ 2218  sudo apt-get purge php5.
+ 2219  sudo apt-get autoclean
+ 2220  sudo apt-get autoremove
+ 2221  php -v
+ 2222  sudo systemctl stop apache2
+ 2223  sudo apt-get purge apache2 apache2-utils apache2-bin apache2
+ 2224  sudo apt-get autoremove
+ 2225  which apache2
+ 2226  sudo systemctl start apache2
+ 2227  apache2 -version
+ 2228  sudo apt update && sudo apt -y upgrade
+ 2229  sudo apt-get update
+ 2230  history
+ 2231  cd /etc/phpmyadmin/
+ 2232  sudo apt update && sudo apt -y upgrade
+ 2233  sudo systemctl reboot
+ 2234  su - hadoop
+ 2235  sudo apt install php8.1
+ 2236  sudo apt install php8.1-*
+ 2237  sudo apt install php8.1-bcmath php8.1-bz2 php8.1-cgi php8.1-cli
+ 2238  sudo apt install php8.1-common php8.1-curl php8.1-mbstring
+ 2239  sudo apt install php8.1-mysql php8.1-pgsql
+ 2240  sudo apt install php8.1-{bcmath,xml,fpm,mysql,zip,intl,ldap,gd,cli,bz2,curl,mbstring,pgsql,opcache,soap,cgi}
+ 2241  php --modules
+ 2242  systemctl status php*-fpm.service
+ 2243  php -v
+ 2244  apache2 -version
+ 2245  sudo apt install phpmyadmin
+ 2246  ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
+ 2247  a2enmod php8
+ 2248  a2enmod php8.1
+ 2249  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+ 2250  nano /etc/apache2/apache2.conf
+ 2251  sudo nano /etc/apache2/apache2.conf
+ 2252  /etc/init.d/apache2 restart
+ 2253  php index.php
+ 2254  mysql -u root
+ 2255  cd /etc/phpmyadmin/
+ 2256  ls
+ 2257  cd
+ 2258  sudo apt-get install libapache2-mod-php
+ 2259  sudo apt-get install php-gettext
+ 2260  sudo apt-get install --reinstall phpmyadmin
+ 2261  lsb_release -a
+ 2262  sudo apt install php-gettext
+ 2263  sudo apt install php-gettext-languages
+ 2264  sudo dpkg-reconfigure phpmyadmin
+ 2265  sudo /etc/init.d/apache2 restart
+ 2266  sudo apt-get purge phpmyadmin
+ 2267  php -m | grep mysql
+ 2268  mysql -v
+ 2269  sudo mysql -v
+ 2270  sudo apt-get install -y phpmyadmin
+ 2271  sudo apt-get purge phpmyadmin
+ 2272  sudo apt-get install -y phpmyadmin
+ 2273  sudo apt-get purge phpmyadmin
+ 2274  sudo apt-get install -y phpmyadmin
+ 2275  php -m | grep mcrypt
+ 2276  sudo service apache2 restart
+ 2277  sudo apt-get -f install
+ 2278  sudo dpkg -P phpmyadmin  
+ 2279  sudo rm -vf /etc/apache2/conf.d/phpmyadmin.conf
+ 2280  sudo rm -vfR /usr/share/phpmyadmin
+ 2281  sudo service apache2 restart
+ 2282  sudo service apache2 status
+ 2283  sudo service apache2 stop
+ 2284  sudo service apache2 start
+ 2285  sudo service apache2 restart
+ 2286  sudo a2enmod php8.1
+ 2287  sudo service apache2 restart
+ 2288  sudo a2enmod ssl
+ 2289  /etc/init.d/apache2 restart
+ 2290  su - hadoop
+ 2291  sudo apt-get purge phpmyadmin
+ 2292  sudo apt-get install phpmyadmin
+ 2293  sudo service apache2 restart
+ 2294  sudo service apache2 status
+ 2295  cd /etc/phpmyadmin/
+ 2296  ls
+ 2297  php index.php
+ 2298  cd /etc/php/
+ 2299  ls
+ 2300  cd 8.1
+ 2301  ls
+ 2302  cd apache2
+ 2303  ls
+ 2304  code php.ini
+ 2305  sudo gedit php.ini
+ 2306  sudo systemctl restart apache2
+ 2307  cd 
+ 2308  sudo apt-get purge php7.*
+ 2309  sudo apt-get purge php8.*
+ 2310  sudo apt-get purge php8.
+ 2311  sudo apt-get autoclean
+ 2312  sudo apt-get autoremove
+ 2313  sudo apt-get purge phpmyadmin
+ 2314  apache2 -version
+ 2315  sudo apt remove apache2.
+ 2316  cd Downloads/
+ 2317  sudo su
+ 2318  history
+ 2319  rm -rf /opt/lampp
+ 2320  sudo rm -rf /opt/lampp
+ 2321  php -v
+ 2322  whereis php8
+ 2323  whereis php
+ 2324  whereis apache2
+ 2325  sudo apt remove php
+ 2326  sudo apt remove php8
+ 2327  sudo apt remove php8:
+ 2328  sudo apt remove apache2
+ 2329  dpkg -S `which apache2`
+ 2330  whereis apache2
+ 2331  sudo rm -rf /etc/apache2
+ 2332  whereis apache2
+ 2333  sudo rm -rf apache2
+ 2334  whereis apache2
+ 2335  whereis php
+ 2336  sudo apt remove --purge mysql-server
+ 2337  sudo apt purge mysql-server
+ 2338  sudo apt autoremove
+ 2339  sudo apt autoclean
+ 2340  sudo apt remove dbconfig-mysql
+ 2341  mysql -u root\n: 1647531671:0;mysql -u root
+ 2342  clear
+ 2343  sudo apt update
+ 2344  sudo apt install apache2
+ 2345  whereis apache2
+ 2346  sudo systemctl restart apache2
+ 2347  sudo apt-get purge apache2
+ 2348  sudo apt-get install apache2
+ 2349  sudo systemctl restart apache2
+ 2350  sudo a2enmod xxx.load
+ 2351  a2enmod proxy
+ 2352  sudo a2enmod proxy
+ 2353  sudo systemctl restart apache2
+ 2354  apachectl configtest
+ 2355  sudo systemctl status apache2.service -l --no-pager
+ 2356  sudo journalctl -u apache2.service --since today --no-pager
+ 2357  sudo nano /etc/apache2/apache2.conf
+ 2358  sudo nano /etc/httpd/conf/httpd.conf
+ 2359  sudo apachectl configtest
+ 2360  sudo systemctl reload apache2.service
+ 2361  sudo systemctl restart apache2
+ 2362  sudo systemctl start apache2
+ 2363  sudo systemctl restart apache2
+ 2364  history
+ 2365  sudo apt remove --purge mysql-server
+ 2366  sudo apt remove --purge apache2
+ 2367  sudo apt purge apache2
+ 2368  sudo apt autoremove
+ 2369  sudo apt autoclean
+ 2370  clear
+ 2371  sudo apt update
+ 2372  sudo apt install apache2
+ 2373  sudo service apache2 status
+ 2374  sudo service apache2 stop
+ 2375  sudo service apache2 start
+ 2376  apachectl configtest
+ 2377  sudo nano /etc/apache2/apache2.conf
+ 2378  apachectl configtest
+ 2379  systemctl reload apache2.service
+ 2380  apachectl stop
+ 2381  /etc/init.d/apache2 start
+ 2382  systemctl status apache2.service
+ 2383  clear
+ 2384  sudo service apache2 start
+ 2385  sudo apt-get purge apache2
+ 2386  sudo apt-get install apache2
+ 2387  sudo du -sh /var/cache/apt/archives/
+ 2388  sudo apt-get clean
+ 2389  sudo apt-get clean --dry-run
+ 2390  sudo apt-get autoclean
+ 2391  sudo du -sh /var/cache/apt/archives/
+ 2392  sudo apt-get clean
+ 2393  sudo du -sh /var/cache/apt/archives/
+ 2394  sudo apt update
+ 2395  sudo ufw allow 'Apache'
+ 2396  sudo systemctl status apache2
+ 2397  sudo systemctl status apache2.service -l --no-pager
+ 2398  sudo journalctl -u apache2.service --since today --no-pager
+ 2399  sudo ss -4 -tlnp | grep 80
+ 2400  sudo ss -6 -tlnp |grep 80
+ 2401  sudo ps -p 40
+ 2402  sudo systemctl status apache2
+ 2403  sudo gedit /usr/local/etc/httpd/httpd.conf
+ 2404  sudo apt install software-properties-common
+ 2405  sudo add-apt-repository ppa:ondrej/php
+ 2406  sudo apt install php8.1 libapache2-mod-php8.1
+ 2407  php -v
+ 2408  sudo ss -ntlp 'sport = 80'
+ 2409  /opt/lampp/lampp stop
+ 2410  rm -rf /opt/lampp
+ 2411  sudo ss -ntlp 'sport = 80'
+ 2412  /opt/lampp/bin stop
+ 2413  sudo ufw status
+ 2414  \n\nls -l  /var/log | grep apache\n\n
+ 2415  \n\nsudo mkdir /var/log/apache2\n\n
+ 2416  sudo systemctl restart httpd
+ 2417  sudo apt-get install apache2
+ 2418  sudo apt-get remove apache2
+ 2419  sudo apt-get install apache2
+ 2420  sudo service apache2 start
+ 2421  sudo service apache2 restart
+ 2422  sudo killall apache2
+ 2423  sudo killall lampp
+ 2424  sudo killall /opt/lampp/bin
+ 2425  sudo systemctl reload apache2
+ 2426  sudo ls /var/log/apache2/
+ 2427  sudo ufw disable
+ 2428  sudo service apache2 restart
+ 2429  netstat -plant | grep 80
+ 2430  sudo apt-get -o DPkg::Options::="--force-confmiss" --reinstall install apache2
+ 2431  sudo service apache2 restart
+ 2432  netstat -plant | grep 80
+ 2433  kill -9 64450
+ 2434  kill -9 2278
+ 2435  netstat -plant | grep 80
+ 2436  kill -9 79865
+ 2437  netstat -plant | grep 80
+ 2438  sudo service apache2 restart
+ 2439  kill -9 50550
+ 2440  kill -9 $(lsof -t -i:80 -sTCP:LISTEN)
+ 2441  kill -9 $(lsof -t -i:8080 -sTCP:LISTEN)
+ 2442  sudo grep "LoadModule" /
+ 2443  sudo find / -type f grep -l "LoadModule"
+ 2444  apachectl -M
+ 2445  sudo a2enmod *.load
+ 2446  sudo a2enmod \*.load
+ 2447  sudo service apache2 restart
+ 2448  sudo systemctl restart apache2
+ 2449  systemctl restart apache2
+ 2450  journal -xe
+ 2451  sudo apt-get purge apache2
+ 2452  sudo apt autoremove apache2
+ 2453  sudo apt-get purge apache2
+ 2454  sudo apt-get purge apache2*
+ 2455  sudo apt-get purge apache2\*
+ 2456  php -v
+ 2457  sudo apt-get install apache2
+ 2458  sudo service apache2 restart
+ 2459  sudo a2enmod \*.load
+ 2460  systemctl start apache-htcacheclean
+ 2461  sudo service apache status
+ 2462  systemctl restart apache2
+ 2463  systemctl start apache-htcacheclean
+ 2464  service apache2 status
+ 2465  systemctl status apache2
+ 2466  systemctl enable apache2
+ 2467  apachectl -t
+ 2468  sudo nano /etc/apache2/apache2.conf
+ 2469  sudo apachectl configtest
+ 2470  sudo systemctl reload apache2.service
+ 2471  sudo systemctl restart apache2.service
+ 2472  apachectl -t
+ 2473  tail -f /var/log/apache2/error.log
+ 2474  sudo service apache status
+ 2475  sudo service apache start
+ 2476  sudo systemctl restart apache2.service
+ 2477  sudo service apache status
+ 2478  systemctl status apache2
+ 2479  php -v
+ 2480  su - hadoop
+ 2481  sudo service ssh restart
+ 2482  su - hadoop
+ 2483  sudo apt install php8.1-{curl,mysql,xml}
+ 2484  sudo systemctl restart apache2
+ 2485  php -v
+ 2486  apache2 -version
+ 2487  su - hadoop
+ 2488  cd /var
+ 2489  cd www
+ 2490  cd html
+ 2491  ls
+ 2492  touch info.php
+ 2493  su - root
+ 2494  sudo su
+ 2495  cd /var/www/html
+ 2496  sudo gedit info.php
+ 2497  chmod 777 info.php
+ 2498  sudo chmod 777 info.php
+ 2499  gedit info.php
+ 2500  sudo gedit info.php
+ 2501  gedit info.php
+ 2502  sudo gedit info.php
+ 2503  sudo apt install php libapache2-mod-php php-mysql
+ 2504  php -v
+ 2505  sudo apt-get install php-mysql php-curl php-cgi php-xsl php-mbstring
+ 2506  sudo nano /etc/apache2/mods-enabled/dir.conf
+ 2507  sudo systemctl reload apache2
+ 2508  sudo apt update
+ 2509  sudo apt install mysql-server
+ 2510  mysql -u root
+ 2511  sudo mysql
+ 2512  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+ 2513  a2enmod proxy_fcgi setenvif
+ 2514  a2enconf php8.1-fpm
+ 2515  sudo a2enconf php8.1-fpm
+ 2516  systemctl reload apache2
+ 2517  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+ 2518  cd
+ 2519  mysql -u root -p
+ 2520  sudo mysql
+ 2521  cd
+ 2522  sudo -H gedit /etc/apache2/apache2.conf
+ 2523  sudo nano /etc/apache2/apache2.conf
+ 2524  systemctl restart apache2
+ 2525  sudo nano /etc/apache2/apache2.conf
+ 2526  systemctl restart apache2
+ 2527  sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+ 2528  sudo systemctl restart mysql
+ 2529  sudo ufw allow 3306
+ 2530  gksu gedit /etc/apache2/apache2.conf
+ 2531  sudo nano /etc/apache2/apache2.conf
+ 2532  /etc/init.d/apache2 restart
+ 2533  sudo nano /etc/apache2/apache2.conf
+ 2534  sudo ln -s /usr/share/phpmyadmin /var/www
+ 2535  /etc/init.d/apache2 restart
+ 2536  sudo dpkg-reconfigure phpmyadmin
+ 2537  sudo apt-get update
+ 2538  sudo apt-get clean
+ 2539  sudo apt-get autoremove
+ 2540  sudo dpkg --configure -a
+ 2541  sudo apt-get install -f
+ 2542  sudo mv /var/lib/dpkg/info/phpmyadmin.* /tmp/
+ 2543  sudo dpkg --remove --force-remove-reinstreq phpmyadmin
+ 2544  sudo apt remove phpmyadmin
+ 2545  sudo apt-get purge javascript-common 
+ 2546  sudo apt-get install javascript-common
+ 2547  sudo apt remove phpmyadmin
+ 2548  sudo apt autoremove
+ 2549  sudo apt autoclean
+ 2550  a2enmod proxy_fcgi setenvif\n
+ 2551  a2enconf php8.1-fpm
+ 2552  sudo apt autoremove
+ 2553  sudo apt autoclean
+ 2554  sudo apt install phpmyadmin
+ 2555  su - hadoop
+ 2556  sudo mv /var/lib/dpkg/info/phpmyadmin.* /tmp/
+ 2557  sudo dpkg --remove --force-remove-reinstreq phpmyadmin
+ 2558  sudo apt remove phpmyadmin
+ 2559  sudo apt autoremove
+ 2560  sudo apt autoclean
+ 2561  sudo apt install software-properties-common
+ 2562  wget -qO - http://deb.tableplus.com/apt.tableplus.com.gpg.key | sudo apt-key add -
+ 2563  sudo add-apt-repository "deb [arch=amd64] https://deb.tableplus.com/debian/21 tableplus main"
+ 2564  sudo apt update
+ 2565  sudo apt install tableplus
+ 2566  mysql -u root -p
+ 2567  sudo mysql -u root -p
+ 2568  gedit /etc/my.cnf
+ 2569  sudo nano /etc/my.cnf
+ 2570  sudo nano /etc/mysql/my.cnf
+ 2571  mysql -u root -p
+ 2572  sudo nano /etc/mysql/my.cnf
+ 2573  sudo mysql -u root -p
+ 2574  GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY "root";
+ 2575  sudo mysql -u root
+ 2576  mysql -u root -p
+ 2577  cd Projects/udemycourse/
+ 2578  mkdir vue-firebase
+ 2579  cd vue-firebase
+ 2580  code .
+ 2581  ls
+ 2582  touch index.html
+ 2583  code .
+ 2584  node -v
+ 2585  cd ..
+ 2586  npm install -g @vue/cli
+ 2587  sudo npm install -g @vue/cli
+ 2588  vue create vue-modal-project
+ 2589  cd vue-modal-project
+ 2590  code .
+ 2591  npm run serve
+ 2592  cd ..
+ 2593  vue create vue-reaction-timer
+ 2594  cd vue-reaction-timer
+ 2595  code .\n: 1647681430:0;code .
+ 2596  npm run serve
+ 2597  cd ..
+ 2598  vue create vue-form
+ 2599  cd vue-form
+ 2600  npm run serve
+ 2601  cd ..
+ 2602  vue create vue-router
+ 2603  cd vue-router
+ 2604  npm run serve
+ 2605  npm install json-server
+ 2606  json-server --watch data/db.json
+ 2607  cd Projects/udemycourse/vue-router
+ 2608  json-server --watch data/db.json
+ 2609  npx json-server --watch data/db.json
+ 2610  cd ..
+ 2611  vue create vue-project-planner
+ 2612  npm run serve
+ 2613  cd vue-project-planner
+ 2614  npm install json-server
+ 2615  npx json-server --watch data/db.json
+ 2616  cd ..
+ 2617  vue create vue-coder-blog
+ 2618  cd vue-coder-blog
+ 2619  npm run serve
+ 2620  npm install json-server
+ 2621  npx json-server --watch data/db.json
+ 2622  cd ..
+ 2623  ls
+ 2624  cd ..
+ 2625  ls
+ 2626  cd youtubetuts
+ 2627  ls
+ 2628  clear
+ 2629  composer create-project laravel/laravel:^8.0 laravel-vue-survey
+ 2630  mysql -u root -p
+ 2631  php artisan serve
+ 2632  cd laravel-vue-survey
+ 2633  php artisan migrate
+ 2634  clear
+ 2635  php artisan migrate
+ 2636  clear
+ 2637  php artisan migrate
+ 2638  clear
+ 2639  php artisan migrate
+ 2640  npm init vite vue
+ 2641  cd vue
+ 2642  npm i && npm run dev
+ 2643  npm install -S vuex@next
+ 2644  npm run dev
+ 2645  cd Projects/youtubetuts/
+ 2646  cd laravel-vue-survey
+ 2647  cd Projects/youtubetuts/vue
+ 2648  cd Projects/youtubetuts/laravel-vue-survey
+ 2649  cd vue
+ 2650  npm install -D tailwindcss postcss autoprefixer
+ 2651  npx tailwindcss init -p
+ 2652  php artisan serve
+ 2653  npm install @headlessui/vue @heroicons/vue @tailwindcss/forms -S
+ 2654  npm run dev
+ 2655  npm i -S vue-router@next
+ 2656  npm run dev
+ 2657  exit
+ 2658  cd ..
+ 2659  laravel new lara-app
+ 2660  cd laravel-recipe-app
+ 2661  laravel new laravel-recipe-app
+ 2662  cd laravel-recipe-app
+ 2663  php artisan make:model Recipe
+ 2664  php artisan make:model Ingredient -m
+ 2665  php artisan make:model Recipe -m
+ 2666  php artisan make:migration create_ingredient_recipe
+ 2667  php artisan make:factory RecipeFactory --model=Recipe
+ 2668  php artisan make:factory IngredientFactory --model=Ingredient
+ 2669  mysql -u root -p
+ 2670  php artisan migrate --seed
+ 2671  php artisan migrate refresh --seed
+ 2672  php artisan migrate:refresh --seed
+ 2673  php artisan migrate:fresh
+ 2674  php artisan migrate:refresh --seed
+ 2675  php artisan migrate:fresh
+ 2676  php artisan migrate:refresh --seed
+ 2677  composer require laravel/breeze --dev
+ 2678  node -v
+ 2679  php artisan breeze:install
+ 2680  npm install
+ 2681  npm run dev
+ 2682  php artisan serve
+ 2683  su - hadoop
+ 2684  mysql -u root -p
+ 2685  history
+ 2686  cd Projects/youtubetuts/laravel-vuejs3
+ 2687  composer create-project laravel/laravel:^8.0 laravel-vuejs3
+ 2688  cd laravel-vuejs3
+ 2689  code .\n: 1647681430:0;code .
+ 2690  cd 
+ 2691  mv laravel-vuejs3 Projects/youtubetuts
+ 2692  ls
+ 2693  cd Projects/youtubetuts/laravel-vuejs3
+ 2694  php artisan make:model Customer -mf
+ 2695  php artisan make:controller Api\CustomerController --resource --api --model=Customer
+ 2696  php artisan make:resource CustomerResource
+ 2697  php artisan make:controller Api\\CustomerController --resource --api --model=Customer
+ 2698  php artisan route:list --name=customers
+ 2699  composer require laravel/breeze
+ 2700  php artisan breeze:install
+ 2701  php artisan migrate
+ 2702  npm install
+ 2703  npm run dev
+ 2704  php artisan serve
+ 2705  npm install vue@next vue-router@next vue-loader@next
+ 2706  npm run watch
+ 2707  cd Projects/youtubetuts/laravel-vuejs3
+ 2708  php artisan make:test CustomerControllerTest
+ 2709  php artisan test --filter=CustomerControllerTest
+ 2710  php artisan migrate --seed
+ 2711  php artisan test --filter=CustomerControllerTest
+ 2712  php artisan migrate:fresh --seed
+ 2713  php artisan test --filter=CustomerControllerTest
+ 2714  npm run watch
+ 2715  php artisan serve
+ 2716  npm run watch
+ 2717  php artisan serve
+ 2718  php artisan cache:clear
+ 2719  php artisan serve
+ 2720  npm run watch
+ 2721  npm run dev
+ 2722  cd ..
+ 2723  exit
+ 2724  su - hadoop
+ 2725  cd Projects/youtubetuts/laravel-vuejs3
+ 2726  git log
+ 2727  code .
+ 2728  php artisan route:list --name=customers
+ 2729  cd Projects/youtubetuts/laravel-vuejs3
+ 2730  npm run watch
+ 2731  php artisan serve
+ 2732  php artisan test --filter=CustomerControllerTest
+ 2733  php artisan test --filter=itCreateCustomer
+ 2734  php artisan test --filter=itCreatesCustomer
+ 2735  php artisan test --filter=itValidatesFields
+ 2736  cd Projects && ls
+ 2737  mkdir phpcode
+ 2738  cd phpcode
+ 2739  cd ..
+ 2740  mkdir GLO4-ENSPD-2022
+ 2741  cd GLO4-ENSPD-2022
+ 2742  mkdir PHP
+ 2743  cd PHP
+ 2744  touch index.php
+ 2745  code index.php
+ 2746  php -S localhost:8080
+ 2747  cd Projects/youtubetuts/laravel-vuejs3
+ 2748  php artisan test --filter=itValidatesFields
+ 2749  php artisan test --filter=CustomerControllerTest
+ 2750  php artisan migrate:fresh --seed
+ 2751  php artisan cache:clear
+ 2752  php artisan serve
+ 2753  npm run watch
+ 2754  cd Projects/youtubetuts/laravel-vuejs3
+ 2755  php artisan route:list --name=customers
+ 2756  php artisan test --filter=itUpdatesCustomer
+ 2757  php artisan migrate:fresh --seed
+ 2758  cd Projects
+ 2759  ls
+ 2760  cd GLO4-ENSPD-2022
+ 2761  touch example1.html
+ 2762  cd php
+ 2763  cd PHP
+ 2764  touch example1.html
+ 2765  cd ..
+ 2766  laravel new crud-laravel9-vuejs3
+ 2767  cd crud-laravel9-vuejs3
+ 2768  ls
+ 2769  cd ..
+ 2770  code crud-laravel9-vuejs3
+ 2771  cd crud-laravel9-vuejs3
+ 2772  exit
+ 2773  npm install vue@next vue-loader@next @vue/compiler-sfc babel-loader @babel/core
+ 2774  mysql -u root -p
+ 2775  php artisan make:model Product -m
+ 2776  php artisan migrate
+ 2777  php artisan serve
+ 2778  npm install vue@next vue-loader@next @vue/compiler-sfc babel-loader @babel/core
+ 2779  cd ..
+ 2780  ls
+ 2781  cd laravel-vuejs3
+ 2782  ls
+ 2783  ls public
+ 2784  ls public/js
+ 2785  cd ..
+ 2786  cd crud-laravel9-vuejs3
+ 2787  ls public/js
+ 2788  cd ..
+ 2789  rm -rf crud-laravel9-vuejs3
+ 2790  laravel new crud-laravel9-vuejs3
+ 2791  cd crud-laravel9-vuejs3
+ 2792  ls public/js
+ 2793  npm install vue@next vue-loader@next @vue/compiler-sfc babel-loader @babel/core
+ 2794  ls public/js
+ 2795  npm install vue@next vue-loader@next @vue/compiler-sfc babel-loader @babel/core @babel/preset-env vue-router@next
+ 2796  ls public/js
+ 2797  ls public
+ 2798  php artisan make:model Product -m
+ 2799  npm run dev
+ 2800  php artisan serve
+ 2801  npm run watch
+ 2802  npm install sass-loader@^12.1.0 sass resolve-url-loader@^5.0.0 --save-dev --legacy-peer-deps
+ 2803  npm run watch
+ 2804  cd ..
+ 2805  composer create-project laravel/laravel:^8.0 laravelformation
+ 2806  cd laravelformation
+ 2807  cd ..
+ 2808  code laravelformation
+ 2809  cd laravelformation
+ 2810  php artisan serve
+ 2811  php artisan make:controller PostController
+ 2812  npm install
+ 2813  npm run watch
+ 2814  xit
+ 2815  exit
+ 2816  cd Projects/youtubetuts/laravelformation
+ 2817  code .
+ 2818  php artisan serve
+ 2819  npm install -D tailwindcss
+ 2820  su - hadoop
+ 2821  npm install -D tailwindcss
+ 2822  su - hadoop
+ 2823  cd Projects/youtubetuts/laravelformation
+ 2824  code .
+ 2825  code .\\n
+ 2826  code .\n
+ 2827  php artisan serve
+ 2828  npm install -D tailwindcss
+ 2829  sudo tee /etc/modprobe.d/iwlwifi-opt.conf <<< "options iwlwifi 11n_disable=1"
+ 2830  reboot
+ 2831  su - hadoop
+ 2832  cd Projects/youtubetuts/laravelformation
+ 2833  npm install -D tailwindcss
+ 2834  npx tailwindcss init
+ 2835  code .
+ 2836  php artisan serve
+ 2837  cd Projects/youtubetuts/ && ls
+ 2838  code laravel-recipe-app
+ 2839  code .
+ 2840  git log
+ 2841  php artisan migrate:refresh --seed
+ 2842  mysql -u root -p
+ 2843  su - hadoop
+ 2844  cd Projects/youtubetuts/
+ 2845  ls
+ 2846  cd laravel-recipe-app
+ 2847  code .
+ 2848  composer require laravel/breeze --dev
+ 2849  php artisan breeze:install
+ 2850  npm install
+ 2851  npm run dev
+ 2852  php artisan serve
+ 2853  php artisan make:controller RecipeController -r -model=Recipe
+ 2854  php artisan make:controller RecipeController -r --model=App\Recipe
+ 2855  cd Projects/youtubetuts/laravel-recipe-app
+ 2856  php artisan route:list --name=recipes
+ 2857  php artisan serve
+ 2858  npm run dev
+ 2859  open .
+ 2860  nautilus .
+ 2861  php artisan cache:clear
+ 2862  php artisan serve
+ 2863  php artisan cache:clear
+ 2864  php artisan view:clear
+ 2865  sudo apt-get install git-flow
+ 2866  mkdir Test && cd Test
+ 2867  git init
+ 2868  git add .
+ 2869  touch README.md
+ 2870  git add .
+ 2871  git commit -m "First commit"
+ 2872  git branch
+ 2873  git flow init
+ 2874  git branch
+ 2875  git flow feature start homepage
+ 2876  git branch
+ 2877  touch index.html
+ 2878  git add index.html
+ 2879  git commit -m "Ajout du fichier html"
+ 2880  git remote add origin ../remote
+ 2881  git flow feature publish homepage
+ 2882  git remote help
+ 2883  git remote remove origin ../remote
+ 2884  git remote remove ../remote
+ 2885  git remote remove remote
+ 2886  gitk --all
+ 2887  git --version
+ 2888  git help
+ 2889  git help -g
+ 2890  sudo apt-get install git
+ 2891  git update
+ 2892  sudo add-apt-repository -y ppa:git-core/ppa
+ 2893  sudo apt-get update
+ 2894  sudo apt-get install git -y
+ 2895  git --version
+ 2896  sudo apt install gitk
+ 2897  gitk --all
+ 2898  cd Projects/youtubetuts
+ 2899  cd ../Projects/youtubetuts
+ 2900  ls
+ 2901  cd laravel-vuejs3
+ 2902  code .
+ 2903  php artisan serve
+ 2904  cd ..
+ 2905  composer create-project laravel/laravel:^8.0 laravuecrud
+ 2906  cd laravuecrud
+ 2907  cd Projects/youtubetuts
+ 2908  ls
+ 2909  rm -rf laravuecrud
+ 2910  composer create-project laravel/laravel:^8.0 laravuecrud
+ 2911  ls
+ 2912  su - hadoop
+ 2913  cd Projects/youtubetuts
+ 2914  ls
+ 2915  composer create-project laravel/laravel:^8.0 laravuecrud
+ 2916  cd laravuecrud
+ 2917  composer require laravel/breeze
+ 2918  php artisan breeze:install
+ 2919  code .
+ 2920  mysql -u root -p
+ 2921  php artisan migrate --seed
+ 2922  npm install && npm run dev
+ 2923  php artisan make:model Company -m
+ 2924  php artisan make:controller API//CompanyController --api --resource --model=Company
+ 2925  php artisan make:controller Api//CompanyController --api --resource --model=Company
+ 2926  php artisan make:controller Api/CompanyController --api --resource --model=Company
+ 2927  php artisan serve
+ 2928  php artisan make:resource CompanyResource
+ 2929  php artisan make:request CompanyRequest
+ 2930  php artisan migrate
+ 2931  npm install vue@next vue-router@next vue-loader@next
+ 2932  npm run watch
+ 2933  clear
+ 2934  npm run watch
+ 2935  lsb_release -a
+ 2936  npm run watch
+ 2937  cd Projects/youtubetuts/laravuecrud
+ 2938  php artisan route:list --name=companies
+ 2939  npm run watch
+ 2940  history
+ 2941  su - hadoop
+ 2942  cd Projects/youtubetuts/laravelformation
+ 2943  open
+ 2944  code .
+ 2945  php artisan serve
+ 2946  npm run watch
+ 2947  mysql -u root -p
+ 2948  cd Projects/youtubetuts/laravelformation
+ 2949  php artisan make:model Post -m
+ 2950  php artisan migrate
+ 2951  php artisan make:factory --model=Post
+ 2952  php artisan make:factory PostFactory --model=Post
+ 2953  php artisan tinker
+ 2954  php artisan make:model Comment -m
+ 2955  php artisan migrate
+ 2956  php artisan make:model Image -m
+ 2957  php artisan migrate
+ 2958  su - hadoop
+ 2959  cd Projects/youtubetuts/laravelformation
+ 2960  code .
+ 2961  git log --oneline
+ 2962  php artisan make:model Tag -m
+ 2963  php artisan make:migration create_pivot_table_post_tag
+ 2964  php artisan migrate
+ 2965  php artisan make:migration create_table_post_tag
+ 2966  php artisan make:migration create_post_tag
+ 2967  php artisan serve
+ 2968  php artisan make:migration remove_comments_table
+ 2969  php artisan migrate
+ 2970  php artisan make:model Video -m
+ 2971  php artisan migrate
+ 2972  php artisan make:model Comment -m
+ 2973  php artisan migrate
+ 2974  php artisan make:model Artist -m
+ 2975  php artisan migrate
+ 2976  npm run dev
+ 2977  php artisan make:rule Uppercase
+ 2978  su - hadoop
+ 2979  cd Projects/youtubetuts/laravelformation
+ 2980  code .
+ 2981  php artisan serve
+ 2982  npm run watch
+ 2983  cd Projects
+ 2984  ls
+ 2985  cd GLO4-ENSPD-2022
+ 2986  ls
+ 2987  mkdir C#
+ 2988  cd C#
+ 2989  ls
+ 2990  cd ..
+ 2991  ls
+ 2992  cd C\#
+ 2993  ls
+ 2994  dotnet new console -o Demo00
+ 2995  ls
+ 2996  code Demo00
+ 2997  cd Demo00
+ 2998  dotnet run
+ 2999  nautilus .
+ 3000  touch hadoop.sh
+ 3001  code hadoop.sh
+ 3002  su - hadoop
+ 3003  code .
+ 3004  php artisan serve
+ 3005  cd Projects/youtubetuts/laravelformation
+ 3006  php artisan storage:link
+ 3007  cd ..
+ 3008  composer create-project laravel/laravel:^8.0 laravel-authentication
+ 3009  mysql -u root -p
+ 3010  cd laravel-authentication
+ 3011  code .
+ 3012  composer require laravel/breeze --dev
+ 3013  php artisan breeze:install
+ 3014  npm install
+ 3015  npm run dev
+ 3016  php artisan serve
+ 3017  php artisan migrate
+ 3018  php artisan make:controller TestController
+ 3019  su - hadoop
+ 3020  cd Projects/youtubetuts/
+ 3021  ls
+ 3022  cd laravel-authentication
+ 3023  code .
+ 3024  php artisan serve
+ 3025  php artisan make:migration add_admin_column_to_users_table --table=users
+ 3026  php artisan migrate
+ 3027  su - hadoop
+ 3028  cd Projects/youtubetuts/
+ 3029  cd laravel-authentication
+ 3030  code .
+ 3031  php artisan serve
+ 3032  php artisan make:mail TestMail
+ 3033  php artisan make:mail TestMarkdownMail -m emails.markdown-test
+ 3034  php artisan make:notification UserRegisteredNotification
+ 3035  nautilus .
+ 3036  php artisan make:mail TestNotificationMail
+ 3037  php artisan notifications:table
+ 3038  php artisan migrate
+ 3039  php artisan make:middleware isAdmin
+ 3040  php artisan make:middleware IsAdmin
+ 3041  su - hadoop
+ 3042  cd Projects/youtubetuts/laravel-authentication
+ 3043  code .
+ 3044  php artisan make:model Post -m
+ 3045  php artisan make:factory PostFactory --model=Post
+ 3046  npm install
+ 3047  npm run dev
+ 3048  php artisan serve
+ 3049  php artisan migrate:refresh --seed
+ 3050  php artisan make:migration add_deleted_at_to_posts_table --table=Posts
+ 3051  php artisan migrate
+ 3052  npm run dev
+ 3053  clear
+ 3054  cd ..
+ 3055  ls
+ 3056  su - hadoop
+ 3057  cd Projects/youtubetuts/
+ 3058  mkdir bootstrap-5 && cd bootstrap-5
+ 3059  code .
+ 3060  su - hadoop
+ 3061  cd Projects/youtubetuts/
+ 3062  ls
+ 3063  code bootstrap-5
+ 3064  cd bootstrap-5
+ 3065  su - hadoop
+ 3066  cd Projects/youtubetuts/
+ 3067  ls
+ 3068  cd laravel-authentication
+ 3069  code .
+ 3070  php artisan make:controller PostController
+ 3071  php artisan serve
+ 3072  php artisan make:event PostCreatedEvent
+ 3073  php artisan make:listener PostCreatedListener --event=PostCreatedEvent
+ 3074  php artisan make:component NewFirstComponent
+ 3075  npm run watch
+ 3076  php artisan make:component Alert --inline
+ 3077  php artisan make:controller BookController -r
+ 3078  php artisan route:list
+ 3079  php artisan make:controller AdminController -r
+ 3080  php artisan route:list
+ 3081  php artisan make:controller PlaceholderAPIController
+ 3082  clear
+ 3083  su - hadoop
+ 3084  history
+ 3085  su - hadoop
+ 3086  cd Projects/youtubetuts/laravel-authentication
+ 3087  code .
+ 3088  clear
+ 3089  php artisan serve
+ 3090  php artisan make:observer UserObserver --model=User
+ 3091  php artisan serve
+ 3092  php artisan make:event UserCreatingEvent
+ 3093  php artisan make:listener UserCreatingListener -e=UserCreatingEvent
+ 3094  php artisan serve
+ 3095  php artisan make:mail WelcomeUserMail --markdown=emails.users.welcome
+ 3096  php artisan maek:job SendWelcomeMailJob
+ 3097  php artisan make:job SendWelcomeMailJob
+ 3098  php artisan queue:table
+ 3099  php artisan migrate
+ 3100  php artisan queue:work
+ 3101  su - hadoop
+ 3102  cd Projects/youtubetuts/laravel-authentication
+ 3103  php artisan route:list
+ 3104  sudo apt-get install -f
+ 3105  cd Projects/youtubetuts/
+ 3106  ls
+ 3107  cd bootstrap-5
+ 3108  ls
+ 3109  git log --oneline
+ 3110  code .
+ 3111  cd ..
+ 3112  mkdir bt5-ebook
+ 3113  cd bt5-ebook
+ 3114  touch index.html
+ 3115  mkdir assets
+ 3116  code .
+ 3117  nautilus .
+ 3118  su - hadoop
+ 3119  ls
+ 3120  cd GLO4-ENSPD-2022
+ 3121  ls
+ 3122  mkdir tp1
+ 3123  cd tp1
+ 3124  touch livre.xml
+ 3125  code livre.xml
+ 3126  docbook2pdf livre.xml
+ 3127  sudo apt-get install docbook-utils
+ 3128  docbook2pdf livre.xml
+ 3129  touch dessin.svg
+ 3130  xmlstarlet val -e Sports.xml
+ 3131  sudo apt-get install xmlstarlet
+ 3132  xmlstarlet val -e Sports.xml
+ 3133  xmllint --noout document.xml
+ 3134  xmllint --noout Sports.xml
+ 3135  ls
+ 3136  xmlstarlet val -e Sports.xml
+ 3137  mkdir test
+ 3138  xmlstarlet val -e Sports.xml
+ 3139  cd ..
+ 3140  ls
+ 3141  cd tp1
+ 3142  ls
+ 3143  cd test
+ 3144  xmlstarlet val -e simple.xml
+ 3145  cd ..
+ 3146  cd ../..
+ 3147  cd cours_enspd
+ 3148  ls
+ 3149  cd Niveau\ 4
+ 3150  ls
+ 3151  cd ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP1
+ 3152  ls
+ 3153  xmlstarlet val -e acteurs_films.xml
+ 3154  xmllint --noout acteurs_films.xml 
+ 3155  xmlstarlet val -e emoticones.xml
+ 3156  xmlstarlet val -e procs_attr.xml
+ 3157  xmlstarlet val -e procs_elem.xml
+ 3158  xmlstarlet val -e sports.xml
+ 3159  xmllint --noout acteurs_films.xml 
+ 3160  xmllint --noout emoticones.xml
+ 3161  xmllint --noout procs_attr.xml
+ 3162  xmllint --noout procs_elem.xml
+ 3163  xmllint --noout sports.xml
+ 3164  cd ..
+ 3165  zip -r ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP1.zip ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP1/
+ 3166  ls
+ 3167  cd Projects/youtubetuts/
+ 3168  su - hadoop
+ 3169  cd laravel-authentication
+ 3170  code .
+ 3171  php artisan make:controller PaymentController -r
+ 3172  php artisan serve
+ 3173  php artisan make:provider StripeServiceProvider
+ 3174  cd  ..
+ 3175  code laravuecrud
+ 3176  history
+ 3177  cd Projects/youtubetuts/
+ 3178  cd laravel-vue-survey
+ 3179  ls
+ 3180  cd ..
+ 3181  ls
+ 3182  cd laravel-vuejs3
+ 3183  code .
+ 3184  php artisan serve
+ 3185  git log --oneline
+ 3186  cd laravuecrud
+ 3187  cd ..
+ 3188  cd laravuecrud
+ 3189  php artisan serve
+ 3190  cd laravuecrud
+ 3191  code .
+ 3192  npm run dev
+ 3193  npm run hot
+ 3194  sudo apt-get update
+ 3195  sudo apt-get install filezilla
+ 3196  php artisan
+ 3197  php artisan breeze help
+ 3198  php artisan help breeze
+ 3199  su - hadoop
+ 3200  cd GLO4-ENSPD-2022
+ 3201  ls
+ 3202  dotnet new console -o SimpleCalculator
+ 3203  code SimpleCalculator
+ 3204  cd SimpleCalculator
+ 3205  dotnet run
+ 3206  1
+ 3207  dotnet run
+ 3208  dotnet run Program
+ 3209  cd SimpleCalculator
+ 3210  dotnet run
+ 3211  dotnet run Program
+ 3212  dotnet run Program.cs
+ 3213  cd ..
+ 3214  mv SimpleCalculator SimpleCalculators
+ 3215  ls
+ 3216  dotnet new console -o SimpleCalculator
+ 3217  cd SimpleCalculator
+ 3218  code .
+ 3219  dotnet run
+ 3220  clear
+ 3221  dotnet run
+ 3222  clear
+ 3223  dotnet run
+ 3224  clear
+ 3225  dotnet run
+ 3226  cd Documents/liquidationDB
+ 3227  ls
+ 3228  mysql -u root -p
+ 3229  pwd
+ 3230  ls
+ 3231  cd ..
+ 3232  cd projetSuisse
+ 3233  ls
+ 3234  code .
+ 3235  php artisan serve
+ 3236  composer install
+ 3237  php artisan serve
+ 3238  npm install
+ 3239  npm run dev
+ 3240  php artisan serve
+ 3241  cd Projects/youtubetuts/laravel-authentication
+ 3242  code .
+ 3243  php artisan config:clear
+ 3244  php artisan serve
+ 3245  npm run dev
+ 3246  composer install
+ 3247  php artisan migrate
+ 3248  composer install
+ 3249  php artisan serve
+ 3250  php artisan config:clear
+ 3251  php artisan serve
+ 3252  php artisan migrate
+ 3253  sudo service apache restart
+ 3254  sudo service apache2 restart
+ 3255  php artisan serve
+ 3256  su - hadoop
+ 3257  cd Documents/liquidationDB
+ 3258  cd ..
+ 3259  cd projetSuisse
+ 3260  ls
+ 3261  code .
+ 3262  php artisan serve
+ 3263  su - hadoop
+ 3264  cd Documents/projetSuisse
+ 3265  code .
+ 3266  php artisan serve
+ 3267  php artisan tinker
+ 3268  cd Projects/youtubetuts/laravelformation
+ 3269  code .
+ 3270  php artisan migrate
+ 3271  php artisan migrate:refresh
+ 3272  php artisan migrate:rollback
+ 3273  php artisan tinker
+ 3274  cd Projects/youtubetuts/
+ 3275  cd ..
+ 3276  cd
+ 3277  cd Documents/projetSuisse
+ 3278  php artisan make:model Category
+ 3279  php artisan tinker
+ 3280  php artisan make:model Product
+ 3281  php artisan tinker
+ 3282  php artisan config:clear
+ 3283  php artisan clear:cache
+ 3284  php artisan serve
+ 3285  php artisan tinker
+ 3286  php artisan serve
+ 3287  php artisan tinker
+ 3288  cd Documents/projetSuisse
+ 3289  npm run watch
+ 3290  cd Documents/projetSuisse
+ 3291  php artisan serve
+ 3292  su - hadoop
+ 3293  cd Documents/projetSuisse
+ 3294  code .
+ 3295  php artisan serve
+ 3296  npm run watch
+ 3297  su - hadoop
+ 3298  cd GLO4-ENSPD-2022/SimpleCalculator
+ 3299  dotnet run
+ 3300  code .
+ 3301  dotnet run
+ 3302  cd ..
+ 3303  ls
+ 3304  rm -rf SimpleCalculators
+ 3305  ls
+ 3306  ls -a
+ 3307  ls -al
+ 3308  ls -l
+ 3309  ls
+ 3310  cd tp1
+ 3311  ls
+ 3312  cd ..
+ 3313  ls
+ 3314  code Demo00
+ 3315  dotnet run
+ 3316  cd Documents/projetSuisse
+ 3317  code .
+ 3318  php artisan serve
+ 3319  npm run watch
+ 3320  dotnet run
+ 3321  npm run dev
+ 3322  cd Documents/projetSuisse
+ 3323  code .
+ 3324  cd Documents/projetSuisse
+ 3325  php artisan serve
+ 3326  npm run watch
+ 3327  php artisan serve
+ 3328  su - hadoop
+ 3329  php artisan serve
+ 3330  nautilus .
+ 3331  su - hadoop
+ 3332  cd Documents/projetSuisse
+ 3333  code .
+ 3334  php artisan serve
+ 3335  su - hadoop
+ 3336  cd Documents/projetSuisse
+ 3337  code .
+ 3338  php artisan serve
+ 3339  php artisan clear:cache
+ 3340  php artisan optimize
+ 3341  cd Documents/projetSuisse
+ 3342  npm run watch
+ 3343  su - hadoop
+ 3344  mysql -u root -p
+ 3345  cd GLO4-ENSPD-2022 && mkdir PHP
+ 3346  cd PHP
+ 3347  mkdir tp_sms
+ 3348  cd tp_sms
+ 3349  pwd
+ 3350  cd .. ..
+ 3351  cd ../..
+ 3352  cd ..
+ 3353  ls
+ 3354  cd GLO4-ENSPD-2022/PHP/tp_sms
+ 3355  code .
+ 3356  php -S localhost:8080
+ 3357  su - hadoop
+ 3358  cd Documents/projetSuisse
+ 3359  php artisan serve
+ 3360  cd Documents/projetSuisse
+ 3361  code .
+ 3362  cd ..
+ 3363  cd Projects/youtubetuts/
+ 3364  ls
+ 3365  mkdir tailwind-manage-landing
+ 3366  cd tailwind-manage-landing
+ 3367  npm init -y
+ 3368  npm i -D tailwindcss
+ 3369  cd Projects/youtubetuts/tailwind-manage-landing
+ 3370  npx tailwindcss init
+ 3371  code .
+ 3372  npm run build
+ 3373  npm run watch
+ 3374  nautilus .
+ 3375  su - hadoop
+ 3376  cd Projects/youtubetuts/tailwind-manage-landing
+ 3377  code .\n: 1649416147:0;code .
+ 3378  npm run watch
+ 3379  cd Projects/youtubetuts/tailwind-manage-landing
+ 3380  code .
+ 3381  su - hadoop
+ 3382  npm run watch
+ 3383  cd Projects/youtubetuts/tailwind-manage-landing
+ 3384  npm run watch
+ 3385  su - hadoop
+ 3386  cd Projects/youtubetuts/tailwind-manage-landing
+ 3387  code .
+ 3388  npm run watch
+ 3389  npm run dev
+ 3390  npm run watch
+ 3391  su - hadoop
+ 3392  cd Projects && mkdir lab2view
+ 3393  cd lab2view
+ 3394  mkdir vuemastery
+ 3395  cd vuemastery
+ 3396  touch index.html
+ 3397  touch main.js
+ 3398  code .
+ 3399  cd Documents/projetSuisse
+ 3400  code .
+ 3401  su - hadoop
+ 3402  php artisan serve
+ 3403  su - hadoop
+ 3404  cd Documents/projetSuisse
+ 3405  code .
+ 3406  php artisan serve
+ 3407  su - hadoop
+ 3408  cd Documents/projetSuisse
+ 3409  code .
+ 3410  php artisan serve
+ 3411  php artisan clear:cache
+ 3412  history
+ 3413  php artisan serve
+ 3414  php artisan route:list
+ 3415  php artisan serve
+ 3416  php artisan route:list
+ 3417  php artisan route:cache
+ 3418  php artisan route:list
+ 3419  su - hadoop
+ 3420  cd Projects/lab2view
+ 3421  ls
+ 3422  cd vuemastery
+ 3423  code .
+ 3424  php artisan serve
+ 3425  npm run watch
+ 3426  npm run dev
+ 3427  cd Projects/lab2view
+ 3428  su - hadoop
+ 3429  cd Projects/lab2view
+ 3430  ls
+ 3431  mkdir vuemastery-code
+ 3432  cd vuemastery-code
+ 3433  npm i -g @vue/cli
+ 3434  sudo npm i -g @vue/cli
+ 3435  clear
+ 3436  npm i -g @vue/cli
+ 3437  cd Projects/lab2view
+ 3438  cd vuemastery-code
+ 3439  vue create real-world-vue
+ 3440  ls
+ 3441  rm -rf real-world-vue
+ 3442  sudo npm i -g @vue/cli
+ 3443  npm i -g @vue/cli
+ 3444  sudo npm i -g @vue/cli
+ 3445  npm -v
+ 3446  npm update -g
+ 3447  sudo npm update -g
+ 3448  npm -v
+ 3449  cd Projects/lab2view
+ 3450  cd vuemastery
+ 3451  cd ..
+ 3452  cd vuemastery-code
+ 3453  ls
+ 3454  vue create real-world-vue
+ 3455  cd real-world-vue
+ 3456  npm run serve
+ 3457  cd Projects/lab2view
+ 3458  cd vuemastery-code
+ 3459  ls
+ 3460  cd real-world-vue
+ 3461  clear
+ 3462  git branch -a
+ 3463  git flow init
+ 3464  git branch -a
+ 3465  git flow feature start feature_branch
+ 3466  git branch -a
+ 3467  code .
+ 3468  git status
+ 3469  git add .
+ 3470  git commit -m "Added NavBar component"
+ 3471  git flow feature finish feature_branch
+ 3472  git flow release start 0.1.0
+ 3473  git add .
+ 3474  git commit -m "Modified the h2 element text"
+ 3475  git flow release finish '0.1.0'
+ 3476  su - hadoop
+ 3477  cd Documents/projetSuisse
+ 3478  code .
+ 3479  git flow init
+ 3480  git branch -a
+ 3481  php artisan serve
+ 3482  php artisan route:list
+ 3483  php artisan clear:cache
+ 3484  history
+ 3485  php artisan route:cache
+ 3486  git flow feature start feature_authorization
+ 3487  php artisan route:cache
+ 3488  git add .
+ 3489  git commit -m "added authorization logic to some pages"
+ 3490  git flow feature finish feature_authorization
+ 3491  mysql -u root -p
+ 3492  git flow feature start feature_horizontalinput
+ 3493  git add .
+ 3494  git commit -m "align the input type file horizontally"
+ 3495  git flow feature finish feature_horizontalinput
+ 3496  exit
+ 3497  clear
+ 3498  su - hadoop
+ 3499  gedit /etc/default/grub
+ 3500  sudo gedit /etc/default/grub
+ 3501  sudo update-grub
+ 3502  ip a
+ 3503  cd Documents/projetSuisse
+ 3504  su - hadoop
+ 3505  ufw disable
+ 3506  sudo ufw disable
+ 3507  code .
+ 3508  git flow feature start feature_unicity
+ 3509  php artisan serve
+ 3510  cd Documents/projetSuisse
+ 3511  php artisan migrate
+ 3512  git add .
+ 3513  git commit -m "solved duplicate data"
+ 3514  git flow feature finish feature_unicity
+ 3515  code .
+ 3516  cd
+ 3517  ls
+ 3518  mkdir code
+ 3519  cd code
+ 3520  mkdir lab2view
+ 3521  cd lab2view
+ 3522  git clone https://legrand01@bitbucket.org/lab2view_team/erp-frontend.git
+ 3523  gedit pass.txt
+ 3524  git clone https://legrand01@bitbucket.org/lab2view_team/erp-frontend.git
+ 3525  cd erp-frontend
+ 3526  code .
+ 3527  npm install
+ 3528  history
+ 3529  npm run hot
+ 3530  npm run serve
+ 3531  cd Documents/projetSuisse
+ 3532  git flow feature start feature_manytomany
+ 3533  php artisan make:migration create_category_product
+ 3534  code .
+ 3535  php artisan migrate --path=/database/migrations/2022_04_15_002852_create_category_product.php
+ 3536  mysql -u root -p
+ 3537  php artisan serve
+ 3538  git branch -a
+ 3539  git checkout develop
+ 3540  git branch -a
+ 3541  git checkout feature/feature_manytomany
+ 3542  git add .
+ 3543  git status
+ 3544  git commit -m "added category_product pivot table"
+ 3545  git checkout develop
+ 3546  git status
+ 3547  git add .
+ 3548  git commit -m "fixes card image to have the same height"
+ 3549  git checkout feature/feature_manytomany
+ 3550  git status
+ 3551  git add .
+ 3552  git commit -m "fixes card image to have the same height"
+ 3553  git checkout develop
+ 3554  cd code/lab2view/erp-frontend
+ 3555  code .
+ 3556  npm run watch
+ 3557  cd code/lab2view/erp-frontend
+ 3558  npm run watch
+ 3559  npm run serve
+ 3560  cd
+ 3561  cd Projects/lab2view
+ 3562  ls
+ 3563  cd vuemastery-code
+ 3564  ls
+ 3565  cd real-world-vue
+ 3566  code .
+ 3567  cd code/lab2view/erp-frontend
+ 3568  code .
+ 3569  npm run watch
+ 3570  npm i ungit
+ 3571  git branch -a
+ 3572  git checkout develop
+ 3573  git branch -a
+ 3574  git flow feature start feature_addEmptyModelListComponent
+ 3575  cd Documents/projetSuisse
+ 3576  git branch -a
+ 3577  pwd
+ 3578  npm install -g ungit
+ 3579  sudo -H npm install -g ungit
+ 3580  ungit
+ 3581  git checkout master
+ 3582  ungit
+ 3583  cd
+ 3584  cd code/lab2view/erp-frontend
+ 3585  git flow init
+ 3586  git branch -a
+ 3587  git checkout develop
+ 3588  git flow feature start correction
+ 3589  ungit
+ 3590  npm run watch
+ 3591  sudo ufw status
+ 3592  sudo ufw enable
+ 3593  sudo ufw status verbose
+ 3594  cd Projects/lab2view
+ 3595  ls
+ 3596  mkdir vue-doc
+ 3597  cd vue-doc
+ 3598  npm init vue@latest
+ 3599  cd vue-guide
+ 3600  ls
+ 3601  npm install
+ 3602  npm run dev
+ 3603  cd Projects/lab2view/vue-doc/vue-guide
+ 3604  code .
+ 3605  cd Documents/projetSuisse
+ 3606  code .
+ 3607  php artisan serve
+ 3608  code .
+ 3609  git branch -a
+ 3610  git checkout feature/feature_manytomany
+ 3611  php artisan serve
+ 3612  php artisan make:migration drop_column_categories_id_in_products_table
+ 3613  history
+ 3614  php artisan migrate --path=/database/migrations/2022_04_16_101638_drop_column_categories_id_in_products_table.php
+ 3615  git branch -a
+ 3616  git checkout develop
+ 3617  git add .
+ 3618  git commit -m "create drop column migration"
+ 3619  git checkout develop
+ 3620  git checkout feature/feature_manytomany
+ 3621  php artisan cache:clear
+ 3622  php artisan route:list
+ 3623  php artisan optimize clear
+ 3624  php artisan optimize:clear
+ 3625  php artisan route:list
+ 3626  php artisan optimize:clear
+ 3627  php artisan route:list
+ 3628  php artisan optimize:clear
+ 3629  php artisan route:list
+ 3630  php artisan route:cache
+ 3631  php artisan route:list
+ 3632  php artisan optimize:clear
+ 3633  git add .
+ 3634  git commit -m "added modal to delete button"
+ 3635  git checkout develop
+ 3636  git checkout feature/feature_manytomany
+ 3637  git checkout develop
+ 3638  git checkout feature/feature_manytomany
+ 3639  git add .
+ 3640  git commit -m "try to solve category deletion"
+ 3641  git checkout develop
+ 3642  git checkout feature/feature_manytomany
+ 3643  git add .
+ 3644  git commit -m "add name route on category"
+ 3645  git checkout develop
+ 3646  git checkout feature/feature_manytomany
+ 3647  git status
+ 3648  git add .
+ 3649  git commit -m "done with delete category modal"
+ 3650  git flow feature finish feature_manytomany
+ 3651  git mergetool
+ 3652  cd
+ 3653  cd Documents/projetSuisse
+ 3654  git checkout feature/feature_manytomany
+ 3655  git flow feature finish feature_manytomany
+ 3656  git status
+ 3657  git add .
+ 3658  git commit -m "conflict solve"
+ 3659  git flow feature finish feature_manytomany
+ 3660  git flow feature start softdelete
+ 3661  php artisan make:migration add_deleted_at_to_products_table
+ 3662  php artisan migrate --path=/database/migrations/2022_04_16_152038_add_deleted_at_to_products_table.php
+ 3663  git add .
+ 3664  git commit -m "added add_deleted_at_to_products_table migrations"
+ 3665  git flow feature finish softdelete
+ 3666  php artisan optimize:clear
+ 3667  php artisan route:list
+ 3668  git add .
+ 3669  git commit -m "create search.blade.php file for search product result"
+ 3670  sudo ufw status verbose
+ 3671  sudo ufw disable
+ 3672  su - hadoop
+ 3673  sudo ufw status verbose
+ 3674  sudo ufw enable
+ 3675  cd Projects/lab2view/vue-doc/vue-guide
+ 3676  ls
+ 3677  code .
+ 3678  npm run dev
+ 3679  cd
+ 3680  cd code/lab2view/erp-frontend
+ 3681  code .
+ 3682  npm run dev
+ 3683  npm run watch
+ 3684  sudo ufw status verbose
+ 3685  sudo ufw enable
+ 3686  cd Documents/projetSuisse
+ 3687  php artisan serve
+ 3688  cd Documents/projetSuisse
+ 3689  code .
+ 3690  php artisan serve
+ 3691  cd Projects/lab2view/vue-doc/vue-guide
+ 3692  code .
+ 3693  npm run dev
+ 3694  sudo ufw status
+ 3695  sudo ufw enable
+ 3696  cd Projects/lab2view/vue-doc/vue-guide
+ 3697  code .
+ 3698  cd
+ 3699  cd code/lab2view/erp-frontend
+ 3700  code .
+ 3701  npm run watch
+ 3702  clear
+ 3703  npm run watch
+ 3704  clear
+ 3705  npm run watch
+ 3706  clear
+ 3707  git status
+ 3708  npm run watch
+ 3709  cd code/lab2view/erp-frontend
+ 3710  git status
+ 3711  ungit
+ 3712  git status
+ 3713  sudo ufw status
+ 3714  sudo ufw status enable
+ 3715  sudo ufw enable
+ 3716  sudo ufw status
+ 3717  cd Documents/projetSuisse
+ 3718  code .
+ 3719  php artisan serve
+ 3720  sudo ufw enable
+ 3721  cd code/lab2view/erp-frontend
+ 3722  code .
+ 3723  cd 
+ 3724  clear
+ 3725  cd Documents/projetSuisse
+ 3726  code .
+ 3727  php artisan serve
+ 3728  cd Documents/projetSuisse
+ 3729  code .
+ 3730  php artisan serve
+ 3731  sudo ufw enable
+ 3732  php artisan serve
+ 3733  sudo ufw enable
+ 3734  cd Documents/projetSuisse
+ 3735  code .
+ 3736  php artisan serve
+ 3737  sudo ufw enable
+ 3738  cd code/lab2view/erp-frontend
+ 3739  code .
+ 3740  npm run watch
+ 3741  sudo ufw enable
+ 3742  cd code/lab2view/erp-frontend
+ 3743  code .
+ 3744  npm run watch
+ 3745  git status
+ 3746  clear
+ 3747  cd code/lab2view/erp-frontend
+ 3748  git status
+ 3749  git branch -a
+ 3750  clear
+ 3751  ungit
+ 3752  git status
+ 3753  git add .
+ 3754  git push
+ 3755  git push --set-upstream origin feature/correction
+ 3756  git add .
+ 3757  git commit -m "Added BaseEmptyModelList components with it's functionality"
+ 3758  git push
+ 3759  git add .
+ 3760  git status
+ 3761  git commit -m "Added fa-spin class to the icon props passed through BaseButton"
+ 3762  git push
+ 3763  cd code/lab2view/erp-frontend
+ 3764  npm run watch
+ 3765  cd code/lab2view/erp-frontend
+ 3766  code .
+ 3767  sudo ufw enable
+ 3768  ls
+ 3769  cd GLO4-ENSPD-2022/PHP
+ 3770  cd ..
+ 3771  ls
+ 3772  mkdir C#
+ 3773  cd C\#
+ 3774  dotnet new console -o StructControleCollections
+ 3775  cd StructControleCollections
+ 3776  code .
+ 3777  dotnet run
+ 3778  clear
+ 3779  dotnet run
+ 3780  clear
+ 3781  dotnet run
+ 3782  clear
+ 3783  dotnet run
+ 3784  clear
+ 3785  dotnet run
+ 3786  cd code/lab2view/erp-frontend
+ 3787  ungit
+ 3788  sudo ufw enable
+ 3789  cd code/lab2view/erp-frontend
+ 3790  code .
+ 3791  clear
+ 3792  npm run watch
+ 3793  ungit
+ 3794  git commit -a -m "Integrate BaseEmptyModelList in BaseDatatable"
+ 3795  git push origin feature/correction
+ 3796  sudo ufw enable
+ 3797  cd Documents/projetSuisse
+ 3798  sudo ufw enable
+ 3799  php artisan serve
+ 3800  sudo ufw enable
+ 3801  cd Documents/projetSuisse
+ 3802  php artisan serve
+ 3803  cd Documents/projetSuisse
+ 3804  code .
+ 3805  sudo ufw enable
+ 3806  cd Documents/projetSuisse
+ 3807  code .
+ 3808  php artisan serve
+ 3809  sudo ufw enable
+ 3810  cd Documents/projetSuisse
+ 3811  code .
+ 3812  php artisan serve
+ 3813  cd
+ 3814  cd Documents/lab2view
+ 3815  ls
+ 3816  cd
+ 3817  cd Projects/lab2view/
+ 3818  ls
+ 3819  cd vuemastery
+ 3820  ls
+ 3821  cd ..
+ 3822  cd vuemastery-code
+ 3823  ls
+ 3824  cd real-world-vue
+ 3825  ls
+ 3826  code .
+ 3827  git log --oneline
+ 3828  npm run watch
+ 3829  npm run dev
+ 3830  npm start
+ 3831  npm serve
+ 3832  npm run serve
+ 3833  cd Projects/lab2view/
+ 3834  ls
+ 3835  cd vuemastery-code
+ 3836  ls
+ 3837  cd ..
+ 3838  git log --oneline
+ 3839  cd vuemastery-code
+ 3840  ls
+ 3841  cd real-world-vue
+ 3842  npm run build
+ 3843  cd ..
+ 3844  vue create real-world-vue2
+ 3845  cd real-world-vue2
+ 3846  cd src
+ 3847  ls
+ 3848  code .
+ 3849  cd ..
+ 3850  code .
+ 3851  cd ..
+ 3852  cd real-world-vue2
+ 3853  npm run serve
+ 3854  cd ..
+ 3855  cd real-world-vue22
+ 3856  code .
+ 3857  npm run serve
+ 3858  ls
+ 3859  npm install
+ 3860  npm run serve
+ 3861  npm i --save lodash
+ 3862  npm install feather-icons
+ 3863  npm install axios
+ 3864  sudo npm install -g json-server
+ 3865  json-server --watch db.json
+ 3866  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3867  npm outdated
+ 3868  npm update
+ 3869  npm run serve
+ 3870  sudo ufw enable
+ 3871  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3872  npm run serve
+ 3873  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3874  json-server --watch db.json
+ 3875  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3876  code .
+ 3877  sudo ufw enable
+ 3878  cd Documents/projetSuisse
+ 3879  code .
+ 3880  php artisan serve
+ 3881  sudo ufw enable
+ 3882  cd Documents/projetSuisse
+ 3883  code .
+ 3884  php artisan serve
+ 3885  sudo ufw enable
+ 3886  cd Documents/projetSuisse
+ 3887  code .
+ 3888  php artisan serve
+ 3889  lsb_release -a
+ 3890  git add .
+ 3891  git commit -m "Added soft delete logics, chunk data and fix the design"
+ 3892  git status
+ 3893  git add .
+ 3894  git commit -m "Added actif link when editing categories"
+ 3895  git add .
+ 3896  git commit -m "Added select multiple when creating a product"
+ 3897  cd Projects
+ 3898  npm init vite infinite-solution
+ 3899  cd infinite-solution
+ 3900  npm install -D tailwindcss postcss autoprefixer
+ 3901  npx tailwindcss init -p
+ 3902  code .
+ 3903  npm run dev
+ 3904  sudo mysql -u root
+ 3905  clear
+ 3906  mysql -u root -p
+ 3907  mysqldump -u root -p liquidationDB >db.sql
+ 3908  ls
+ 3909  cd Documents/projetSuisse
+ 3910  code .
+ 3911  git add .
+ 3912  git commit -m "Added the exported db sql file and remove unuse files"
+ 3913  cd ..
+ 3914  ls
+ 3915  mkdir liquidation
+ 3916  cd liquidation
+ 3917  code .
+ 3918  git branch -a
+ 3919  git branch develop
+ 3920  git branch -a
+ 3921  git checkout develop
+ 3922  git status
+ 3923  git add .
+ 3924  git commit -m "Added all modified files"
+ 3925  git remote -v
+ 3926  git push origin develop
+ 3927  cd 
+ 3928  mkdir liquidationDB
+ 3929  cd liquidationDB
+ 3930  mysqldump -p --user=root liquidationDB categories > categpries.sql
+ 3931  ls
+ 3932  mysqldump -p --user=root liquidationDB categories > categories.sql
+ 3933  mysqldump -p --user=root liquidationDB users > users.sql
+ 3934  mysqldump -p --user=root liquidationDB products > products.sql
+ 3935  mysqldump -p --user=root liquidationDB images > images.sql
+ 3936  mysqldump -p --user=root liquidationDB category_product > category_product.sql
+ 3937  mysqldump -p --user=root liquidationDB personal_access_tokens > personal_access_tokens.sql
+ 3938  mysqldump -p --user=root liquidationDB password_resets > password_resets.sql
+ 3939  ls
+ 3940  mysqldump -u root -p liquidationDB >db.sql
+ 3941  git status
+ 3942  git add .
+ 3943  git commit -m "added liquidationDB folder"
+ 3944  git push origin develop
+ 3945  sudo ufw enable
+ 3946  cd code/lab2view/erp-frontend
+ 3947  code .
+ 3948  clear
+ 3949  npm run watch
+ 3950  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3951  code .
+ 3952  git log --oneline
+ 3953  npm run watch
+ 3954  npm run dev
+ 3955  npm start
+ 3956  ls
+ 3957  npm serve
+ 3958  npm run serve
+ 3959  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3960  json-server --watch db.json
+ 3961  git log --oneline
+ 3962  code .
+ 3963  npm install vuejs-datepicker --save
+ 3964  json-server --watch db.json
+ 3965  npm run watch
+ 3966  git add .
+ 3967  git commit -m "Fix correction on BaseDatatable"
+ 3968  git checkout develop
+ 3969  npm run watch
+ 3970  git pull
+ 3971  npm run watch
+ 3972  git checkout feature/correction
+ 3973  git pull develop
+ 3974  git merge develop
+ 3975  git push
+ 3976  ungit
+ 3977  git flow feature finish correction
+ 3978  git add .
+ 3979  git commit -m "change tfoot default value to false"
+ 3980  git flow feature finish correction
+ 3981  npm run watch
+ 3982  git checkout -b feature/correction
+ 3983  git status
+ 3984  git add .
+ 3985  git commit -m "Fix Global loading for BaseEmptyModelList"
+ 3986  git push
+ 3987  git push --set-upstream origin feature/correction
+ 3988  cd Documents/projetSuisse
+ 3989  code .
+ 3990  cd 
+ 3991  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 3992  json-server --watch db.json
+ 3993  cd Documents/projetSuisse
+ 3994  code .
+ 3995  cd Documents/projetSuisse
+ 3996  sudo ufw enable
+ 3997  code .
+ 3998  cd Documents/projetSuisse
+ 3999  code .
+ 4000  cd
+ 4001  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4002  code .
+ 4003  clear
+ 4004  npm run serve
+ 4005  git log --oneline
+ 4006  json-server --watch db.json
+ 4007  cd code/lab2view/erp-frontend
+ 4008  code .
+ 4009  ungit
+ 4010  npm run watch
+ 4011  git add .
+ 4012  git commit -m "Remove setTimeout in BaseDatatable executeFetchAction method"
+ 4013  git push feature/correction
+ 4014  git push origin feature/correction
+ 4015  npm run watch
+ 4016  git add .
+ 4017  git add ."
+ 4018  git add .
+ 4019  git commit -m "Added a logout confirmation window in the auth store"
+ 4020  git push origin feature/correction
+ 4021  history
+ 4022  cd Projects/infinite-solution
+ 4023  git init
+ 4024  npm run dev
+ 4025  cd code/lab2view/erp-frontend
+ 4026  code .
+ 4027  sudo ufw enable
+ 4028  cd Projects/infinite-solution
+ 4029  code .
+ 4030  npm run dev
+ 4031  cd code/lab2view/erp-frontend
+ 4032  code .
+ 4033  npm run dev
+ 4034  cd code/lab2view/erp-frontend
+ 4035  code .
+ 4036  npm run watch
+ 4037  cd Projects/infinite-solution
+ 4038  npm run dev
+ 4039  npm run watch
+ 4040  git add .
+ 4041  git commit -m "Move logout confirmation if statement to the Header component"
+ 4042  git push origin feature/correction
+ 4043  sudo ufw enable
+ 4044  cd Projects/infinite-solution
+ 4045  code .
+ 4046  npm run dev
+ 4047  sudo ufw enable
+ 4048  lsb_release -a
+ 4049  sudo ufw enable
+ 4050  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4051  clear
+ 4052  npm run dev
+ 4053  npm run serve
+ 4054  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4055  json-server --watch db.json
+ 4056  npm run serve
+ 4057  json-server --watch db.json
+ 4058  sudo ufw enable
+ 4059  cd Documents/projetSuisse
+ 4060  code .
+ 4061  php artisan serve
+ 4062  sudo ufw enable
+ 4063  cd Documents/projetSuisse
+ 4064  code .
+ 4065  php artisan serve
+ 4066  git add .
+ 4067  git commit -m "fixed submenu to show when we are still on the parent menu"
+ 4068  history
+ 4069  git push origin develop
+ 4070  git remote -v
+ 4071  cd Documents/
+ 4072  ls
+ 4073  cd liquidation
+ 4074  ls
+ 4075  code .
+ 4076  cd ..
+ 4077  ls
+ 4078  cd liquidation
+ 4079  cd liquiadtion
+ 4080  code .
+ 4081  git push origin develop
+ 4082  git pull develop
+ 4083  git pull origin develop
+ 4084  cd
+ 4085  cd Projects/remote
+ 4086  code .
+ 4087  git clone https://ficred.visualstudio.com/liquiadtion/_git/liquiadtion
+ 4088  cd liquiadtion
+ 4089  git branch -a
+ 4090  git checkout -b develop
+ 4091  code .
+ 4092  sudo ufw enable
+ 4093  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4094  code .
+ 4095  clear
+ 4096  json-server --watch db.json
+ 4097  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4098  npm run serve
+ 4099  npm install nprogress
+ 4100  json-server -d 1500 db.json
+ 4101  json-server -d 2000 db.json
+ 4102  json-server -d 1500 db.json
+ 4103  npm run serve
+ 4104  json-server --watch db.json
+ 4105  npm run serve
+ 4106  sudo ufw enable
+ 4107  clear                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 4108  sudo ufw enable
+ 4109  clear                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 4110  ear                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 4111  j
+ 4112  clear
+ 4113  dd
+ 4114  clear
+ 4115  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4116  code .
+ 4117  npm run serve
+ 4118  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4119  json-server --watch db.json
+ 4120  cd Projects/lab2view/vuemastery-code/real-world-vue22
+ 4121  code .
+ 4122  json-server --watch db.json
+ 4123  npm install vuelidate
+ 4124  sudo ufw enable
+ 4125  cd Documents/projetSuisse
+ 4126  code .
+ 4127  php artisan migrate --path=/database/migrations/2022_03_02_015817_create_products_table.php
+ 4128  clear
+ 4129  php artisan serve
+ 4130  php artisan migrate --path=/database/migrations/2022_03_02_015817_create_products_table.php
+ 4131  php artisan make:migration remove_unique_constraint_to_products_table
+ 4132  php artisan migrate --path=/database/migrations/2022_04_30_053742_remove_unique_constraint_to_products_table.php
+ 4133  php artisan make:migration change_unique_products_table
+ 4134  composer require doctrine/dbal
+ 4135  php artisan migrate --path=/database/migrations/2022_04_30_054513_change_unique_products_table.php
+ 4136  sudo ufw enable
+ 4137  cd Documents/projetSuisse
+ 4138  code .
+ 4139  php artisan serve
+ 4140  cd Documents/projetSuisse
+ 4141  php artisan make:rule GreaterOrEqualTodayDate
+ 4142  history
+ 4143  ls
+ 4144  cd ..
+ 4145  cd liquiadtion
+ 4146  cd liquidation
+ 4147  cd liquiadtion
+ 4148  cd liquidationDB
+ 4149  ls
+ 4150  mysqldump -u root -p liquidationDB >db.sql 
+ 4151  mysqldump -u root -p liquidationDB >categories.sql 
+ 4152  mysqldump -u root -p liquidationDB >category_product.sql 
+ 4153  mysqldump -u root -p liquidationDB >images.sql 
+ 4154  mysqldump -u root -p liquidationDB >products.sql 
+ 4155  mysqldump -u root -p liquidationDB >users.sql 
+ 4156  git add .
+ 4157  git commit -m "used select2 library for multiple selection"
+ 4158  code .
+ 4159  cd ..
+ 4160  code .
+ 4161  git status
+ 4162  git add .
+ 4163  git commit -m "create rule and fixe design on select, button and sidebar "
+ 4164  git push origin develop
+ 4165  git status
+ 4166  cd Documents/projetSuisse
+ 4167  code .
+ 4168  git clone https://ficred.visualstudio.com/liquiadtion/_git/liquiadtion
+ 4169  ls
+ 4170  cd liquiadtion
+ 4171  git branch -a
+ 4172  git checkout develop
+ 4173  ls
+ 4174  code .
+ 4175  git status
+ 4176  git add .
+ 4177  git push origin develop
+ 4178  git commit -m "create rule and fixe design on select, button and sidebar"
+ 4179  git push origin develop
+ 4180  pwd
+ 4181  sudo ufw enable
+ 4182  cd Documents/projetSuisse
+ 4183  php artisan serve
+ 4184  sudo ufw enable
+ 4185  cd Documents/projetSuisse
+ 4186  code .
+ 4187  php artisan make:controller LanguageController
+ 4188  php artisan make:middleware Language
+ 4189  php artisan serve
+ 4190  php artisan make:controller LanguageController
+ 4191  cd Documents/projetSuisse
+ 4192  php artisan route:list
+ 4193  cd Documents/projetSuisse
+ 4194  code .
+ 4195  php artisan serve
+ 4196  sudo ufw enable
+ 4197  git add .
+ 4198  git commit -m "translate welcome,product-show,create product page"
+ 4199  sudo ufw enable
+ 4200  cd liquiadtion
+ 4201  code .
+ 4202  git status
+ 4203  cd Documents/projetSuisse
+ 4204  git status
+ 4205  git add .
+ 4206  git commit -m "Add website.php file and translate index, footer, welcome, sidebar.blade files"
+ 4207  git push origin develop
+ 4208  git add .
+ 4209  git commit -m "add font-weight-bold class to the show.blade.php"
+ 4210  git push origin develop
+ 4211  sudo ufw enable
+ 4212  cd code/lab2view/erp-frontend
+ 4213  cd liquiadtion
+ 4214  code .
+ 4215  git add .
+ 4216  git commit -m "Add font weight bold to show.blade page in a span tag"
+ 4217  git push origin develop
+ 4218  cd
+ 4219  code .
+ 4220  git branch -a
+ 4221  git switch develop
+ 4222  git pull origin develop
+ 4223  git branch -a
+ 4224  git branch -d feature/correction
+ 4225  git branch -a
+ 4226  git branch
+ 4227  git branch caisse
+ 4228  git branch
+ 4229  git switch caisse
+ 4230  git status
+ 4231  code .
+ 4232  npm run watch
+ 4233  ungit
+ 4234  npm run watch
+ 4235  cd ..
+ 4236  cd erp-frontend
+ 4237  git branch -a
+ 4238  git switch caisse
+ 4239  git branch -a
+ 4240  git switch develop
+ 4241  git checkout develop
+ 4242  cd code/lab2view/erp-frontend
+ 4243  code .
+ 4244  git status
+ 4245  git restore .env.development
+ 4246  git status
+ 4247  git switch caisse
+ 4248  code .
+ 4249  clear
+ 4250  npm run watch
+ 4251  git status
+ 4252  git add .
+ 4253  git commit -m "Added Description textarea to CashRegisterForm"
+ 4254  git status
+ 4255  git add .
+ 4256  git commit -m "Added input type file to add an avatar to CashRegisterForm"
+ 4257  curl -X POST http://woodin.kitbussiness.com/api/upload
+ 4258  npm run watch
+ 4259  mysql -uroot
+ 4260  cd /etc/apache2
+ 4261  ls
+ 4262  cd sites-available
+ 4263  ls
+ 4264  cd ..
+ 4265  cd sites-enabled
+ 4266  ls
+ 4267  cat /etc/hots
+ 4268  cat /etc/hosts
+ 4269  npm run watch
+ 4270  sudo ufw enable
+ 4271  cd code/lab2view/erp-frontend
+ 4272  code .
+ 4273  npm run watch
+ 4274  sudo ufw enable
+ 4275  cd code/lab2view/erp-frontend
+ 4276  code .
+ 4277  npm run watch
+ 4278  git add .
+ 4279  git commit -m "Added description, avatar to cashRegisterForm, added diasabled button to cashRegisterList"
+ 4280  git push origin caisse
+ 4281  sudo ufw enable
+ 4282  cd Projects/
+ 4283  cd infinite-solution
+ 4284  code .
+ 4285  npm run watch
+ 4286  npm serve
+ 4287  npm run serve
+ 4288  npm run dev
+ 4289  cd projetSuisse
+ 4290  cd Documents/projetSuisse
+ 4291  code .
+ 4292  php artisan serve
+ 4293  cd
+ 4294  cd Documents/projetSuisse
+ 4295  php artisan make:middleware setLanguage
+ 4296  clear
+ 4297  cd
+ 4298  cd Projects/
+ 4299  ls
+ 4300  cd infinite-solution
+ 4301  clear
+ 4302  sudo ufw enable
+ 4303  cd projet
+ 4304  cd Projects/
+ 4305  ls
+ 4306  mkdir Team-DEV237
+ 4307  cd Team-DEV237
+ 4308  git clone https://github.com/Team-DEV237/echangeur_Frontend.git
+ 4309  ls
+ 4310  cd echangeur_Frontend-main
+ 4311  ls
+ 4312  cd ..
+ 4313  rm -rf echangeur_Frontend-main
+ 4314  code .
+ 4315  npx create-next-app ./
+ 4316  git branch -b feature/initnextproject
+ 4317  git branch feature/initnextproject
+ 4318  git checkout feature/initnextproject
+ 4319  npx create-next-app ./
+ 4320  cd echangeur_Frontend
+ 4321  cd ..
+ 4322  npx create-next-app echangeur_frontend
+ 4323  code .
+ 4324  cd echangeur_frontend
+ 4325  code .
+ 4326  git checkout feature/initnextproject
+ 4327  git branch feature/initnextproject
+ 4328  git checkout feature/initnextproject
+ 4329  npx create-next-app ./
+ 4330  git checkout main
+ 4331  npx create-next-app ./
+ 4332  ls
+ 4333  git checkout feature/initnextproject
+ 4334  ls
+ 4335  rm README.md
+ 4336  npx create-next-app ./
+ 4337  npm install -D tailwindcss postcss autoprefixer
+ 4338  npx tailwindcss init -p
+ 4339  npm run dev
+ 4340  git remote -v
+ 4341  git add .
+ 4342  git commit -m "Initialisation du projet Frontend NextJS"
+ 4343  git push origin feature/initnextproject
+ 4344  git checkout main
+ 4345  git branch feature/baselayout
+ 4346  git checkout feature/baselayout
+ 4347  git checkout main
+ 4348  ls
+ 4349  git pull origin main
+ 4350  git checkout origin main
+ 4351  git checkout featute/initnextproject
+ 4352  git checkout feature/initnextproject
+ 4353  git checkout main
+ 4354  cd Projects/Team-DEV237/echangeur_frontend
+ 4355  code .
+ 4356  git status
+ 4357  git add .
+ 4358  git commit -m "added node_modules to .gitignore file"
+ 4359  git merge feature/initnextproject
+ 4360  git add .
+ 4361  git commit -m "merge feature/initnextproject to main"
+ 4362  clear
+ 4363  git branch feature/baselayout
+ 4364  git checkout feature/baselayout
+ 4365  git checkout main
+ 4366  git pull origin main
+ 4367  git pull --ff-only
+ 4368  cd ..
+ 4369  rm -rf echangeur_frontend
+ 4370  code .
+ 4371  git branch -a
+ 4372  npm install
+ 4373  git branch feature/baselayout
+ 4374  git checkout feature/baselayout
+ 4375  git add .
+ 4376  git commit -m "creation du layout de base"
+ 4377  cd echangeur_frontend
+ 4378  npm run dev
+ 4379  git status
+ 4380  git log --oneline
+ 4381  git add .
+ 4382  git commit -m "creation du layout de base"
+ 4383  git push origin feature/baselayout
+ 4384  cd 
+ 4385  cd Documents/projetSuisse
+ 4386  code .
+ 4387  php artisan serve
+ 4388  php artisan make:middleware Localization
+ 4389  cd
+ 4390  cd Projects/Team-DEV237/echangeur_frontend
+ 4391  code .
+ 4392  git checkout main
+ 4393  git pull origin main
+ 4394  git status
+ 4395  git checkout main
+ 4396  git branch feature/navbar
+ 4397  git checkout feature/navbar
+ 4398  npm run watch
+ 4399  npm run dev
+ 4400  git add .
+ 4401  git commit -m "creation du navbar"
+ 4402  git push origin feature/navbar
+ 4403  git checkout main
+ 4404  git checkout feature/ChangeOfferItem
+ 4405  git branch feature/ChangeOfferItem
+ 4406  git checkout feature/ChangeOfferItem
+ 4407  cd Documents/projetSuisse
+ 4408  code .
+ 4409  sudo ufw enable
+ 4410  cd Projects/infinite-solution
+ 4411  code .
+ 4412  npm run watch
+ 4413  npm serve
+ 4414  npm run dev
+ 4415  sudo ufw enable
+ 4416  cd code/lab2view/erp-frontend
+ 4417  code .
+ 4418  npm run watch
+ 4419  cd code/lab2view/erp-frontend
+ 4420  code .
+ 4421  sudo ufw enable
+ 4422  git add .
+ 4423  git commit -m "Created CashRegisterDetails view and defined the base design to output the cash balance and history sales"
+ 4424  git push origin feature/caisse
+ 4425  git push origin caisse
+ 4426  cd
+ 4427  cd Projects/youtubetuts/ && mkdir solid_principle_laravel && cd solid_principle_laravel
+ 4428  laravel new laravel-solid-principle
+ 4429  cd laravel-solid-principle
+ 4430  ls
+ 4431  git init
+ 4432  php artisan make:model Order
+ 4433  code .
+ 4434  php artisan make:factory OrderFactory --model=Order
+ 4435  php artisan make:migration create_users_table
+ 4436  php artisan make:migration create_orders_table
+ 4437  mysql -uroot
+ 4438  mysql -u root -p
+ 4439  php artisan migrate
+ 4440  php artisan tinker
+ 4441  php artisan serve
+ 4442  ls
+ 4443  cd Projects
+ 4444  cd Team-DEV237
+ 4445  ls
+ 4446  cd echangeur_frontend
+ 4447  code .
+ 4448  git status
+ 4449  git add .
+ 4450  npm run watch
+ 4451  npm run dev
+ 4452  git add .
+ 4453  git commit -m "ChangeOfferItem composant de base"
+ 4454  git push origin feature/ChangeOfferItem
+ 4455  code .
+ 4456  cd Projects
+ 4457  ls
+ 4458  cd youtubetuts
+ 4459  ls
+ 4460  cd solid_principle_laravel
+ 4461  ls
+ 4462  cd laravel-solid-principle
+ 4463  code .
+ 4464  sudo ufw enable
+ 4465  sudo add-apt-repository ppa:gnome-terminator
+ 4466  sudo apt-get update
+ 4467  sudo apt-get terminator
+ 4468  sudo apt-get install terminator
+ 4469  cd Projects
+ 4470  ls
+ 4471  cd Team-DEV237
+ 4472  ls
+ 4473  cd echangeur_frontend
+ 4474  code .
+ 4475  git checkout main
+ 4476  git add .
+ 4477  git commit -m "ChangeOfferItem composant de base modified"
+ 4478  git checkout main
+ 4479  git branch -a
+ 4480  git checkout feature/navbar
+ 4481  code .
+ 4482  git checkout main
+ 4483  git pull origin main
+ 4484  npm run dev
+ 4485  npm install
+ 4486  npm run dev
+ 4487  cd
+ 4488  cd Documents/projetSuisse
+ 4489  code .
+ 4490  php artisan serve
+ 4491  git add .
+ 4492  git commit -m "translation en.json de.json"
+ 4493  php artisan serve
+ 4494  sudo ufw enable
+ 4495  cd Documents/projetSuisse
+ 4496  php artisan serve
+ 4497  cd Documents/projetSuisse
+ 4498  code .
+ 4499  ls
+ 4500  cd liquiadtion
+ 4501  code .
+ 4502  git add .
+ 4503  git commit -m "Progress on translation"
+ 4504  git add .
+ 4505  git commit -m "fixed mobile menu and creates middleware for translation"
+ 4506  git push origin develop
+ 4507  sudo apt-add-repository ppa:fish-shell/release-3
+ 4508  sudo apt-get update && sudo apt-get upgrade
+ 4509  sudo apt-get install fish
+ 4510  fish
+ 4511  mkdir react-datatable
+ 4512  cd react-datatable
+ 4513  git clone https://github.com/jimmybutton/react-tailwind-table.git
+ 4514  ls
+ 4515  cd react-tailwind-table
+ 4516  npm install
+ 4517  npm start
+ 4518  code .
+ 4519  cd
+ 4520  cd react-datatable
+ 4521  npx create-react-app --use-npm react-tailwind-tables
+ 4522  npx create-react-app --use-npm react-tailwind-table
+ 4523  npx create-react-app my-react-table
+ 4524  cd my-react-table
+ 4525  npm install -D tailwindcss postcss autoprefixer
+ 4526  npx tailwindcss init -p
+ 4527  code .
+ 4528  npm run start
+ 4529  npm install react-table
+ 4530  sudo npm install react-table
+ 4531  npm start
+ 4532  clear
+ 4533  cd
+ 4534  cd react-datatable
+ 4535  cd my-react-table
+ 4536  npm install react-table
+ 4537  npm install react-table --save
+ 4538  npm install react-table
+ 4539  cd
+ 4540  cd Projects
+ 4541  ls
+ 4542  cd youtubetuts
+ 4543  ls
+ 4544  cd react-search-filter
+ 4545  npm start
+ 4546  sudo ufw enable
+ 4547  cd Projects/Team-DEV237/echangeur_frontend
+ 4548  code .
+ 4549  sudo ufw enable
+ 4550  cd Documents/projetSuisse
+ 4551  php artisan serve
+ 4552  cd Documents/projetSuisse
+ 4553  code .
+ 4554  cd
+ 4555  cd liquiadtion
+ 4556  git add .
+ 4557  git commit -m "fixed home link"
+ 4558  git push origin develop
+ 4559  cd
+ 4560  cd Projects/Team-DEV237/echangeur_frontend
+ 4561  code .
+ 4562  ls
+ 4563  git pull origin main
+ 4564  git branch table
+ 4565  git checkout table
+ 4566  npm start
+ 4567  npm run dev
+ 4568  git add .
+ 4569  git commit -m "create table component"
+ 4570  git push origin table
+ 4571  git add .
+ 4572  git commit -m "remove unnecessary tag in index component"
+ 4573  git push origin table
+ 4574  git checkout main
+ 4575  git pull origin main
+ 4576  git branch feature/Dashboard
+ 4577  git checkout feature/Dashboard
+ 4578  cd Projects/Team-DEV237/echangeur_frontend
+ 4579  code .
+ 4580  npm run dev
+ 4581  sudo ufw enable
+ 4582  cd Projects/Team-DEV237/echangeur_frontend
+ 4583  code .
+ 4584  npm run dev
+ 4585  clear
+ 4586  npm run dev
+ 4587  git add .
+ 4588  sudo ufw enable
+ 4589  cd Projects/Team-DEV237/echangeur_frontend
+ 4590  code .
+ 4591  npm run dev
+ 4592  npm install flowbite
+ 4593  npm run dev
+ 4594  npm install -D @tailwindcss/forms
+ 4595  npm run dev
+ 4596  npm install
+ 4597  npm run dev
+ 4598  npm install
+ 4599  npm run dev
+ 4600  git add .
+ 4601  git commit -m "dashboard with datepicker issue"
+ 4602  git checkout -b feature/bugflowbite
+ 4603  git push origin feature/bugflowbite
+ 4604  git checkout -b feature/Dashboard
+ 4605  git checkout feature/Dashboard
+ 4606  git add .
+ 4607  git commit -m "link to the dashboard"
+ 4608  git pull origin main
+ 4609  git status
+ 4610  git push origin feature/Dashboard
+ 4611  git pull origin main
+ 4612  git add .
+ 4613  git commit -m "fixed multiple export at the index page"
+ 4614  git push origin feature/Dashboard
+ 4615  git add .
+ 4616  git commit -m "Center element to the middle in the home page"
+ 4617  git push origin feature/Dashboard
+ 4618  git pull origin main
+ 4619  sudo ufw enable
+ 4620  lsb_release -a
+ 4621  sudo ufw enable
+ 4622  cd Projects
+ 4623  composer create-project laravel/laravel:^8.0 presta-app
+ 4624  cd presta-app
+ 4625  ls
+ 4626  git init
+ 4627  echo "# presta-app" >> README.md
+ 4628  git init
+ 4629  git add .
+ 4630  git commit -m "Initialize presta-app with laravel 8"
+ 4631  git remote -v
+ 4632  git remote add origin https://github.com/black-code1/presta-app.git
+ 4633  code .
+ 4634  git push -u origin main
+ 4635  cd Projects
+ 4636  mkdir laracasts
+ 4637  cd laracasts
+ 4638  mkdir vue-learning
+ 4639  cd vue-learning
+ 4640  touch index.html
+ 4641  code .
+ 4642  npx serve
+ 4643  git init
+ 4644  git add .
+ 4645  git commit -m "The absolute basics"
+ 4646  git add .
+ 4647  git commit -m "Attribute binding and Event handling"
+ 4648  npx serve
+ 4649  git add .
+ 4650  git commit -m "Lists conditionals and computed properties"
+ 4651  git add .
+ 4652  git commit -m "Your first custom vue component"
+ 4653  git add .
+ 4654  git commit -m "One vue component per file"
+ 4655  git add .
+ 4656  git commit -m "Component Props"
+ 4657  git add .
+ 4658  git commit -m "Bring it all together"
+ 4659  cd Projects/Team-DEV237/echangeur_frontend
+ 4660  code .
+ 4661  npm run dev
+ 4662  cd
+ 4663  sudo ufw enable
+ 4664  git add .
+ 4665  git commit -m "Ajouter fond blanc sur le navbar, modifier la taille du text sur les th"
+ 4666  git add .
+ 4667  git commit -m "Modifier la taille des icones sur le composant BaseTable"
+ 4668  cd Projects/infinite-solution
+ 4669  code .
+ 4670  cd
+ 4671  cd Projects/Team-DEV237/echangeur_frontend
+ 4672  git pull origin main
+ 4673  git add .
+ 4674  git commit -m "horizontal scroll bar issue"
+ 4675  git push origin feature/Dashboard
+ 4676  sudo ufw enable
+ 4677  cd Projects/
+ 4678  ls
+ 4679  cd la
+ 4680  cd laracasts
+ 4681  cd vue-learning
+ 4682  code .
+ 4683  git log --oneline
+ 4684  npm run dev
+ 4685  npx serve
+ 4686  git add .
+ 4687  git commit -m "Handle a form submission"
+ 4688  git add .
+ 4689  git commit -m "Parent child communication\n"
+ 4690  git add .
+ 4691  git commit -m "ts all so easy"
+ 4692  git add .
+ 4693  git commit -m "Component responsibility"
+ 4694  git add .
+ 4695  git commit -m "A deeper look at v-model"
+ 4696  npm install json-server --save-dev
+ 4697  npx json-server db.json
+ 4698  npx json-server db.json --port=3001
+ 4699  git add .
+ 4700  git commit -m "Lifecycle hooks fake API and AJAX requests"
+ 4701  sudo ufw enable
+ 4702  volatility
+ 4703  sudo ufw enable
+ 4704  sudo apt update
+ 4705  sudo apt install volatility
+ 4706  sudo apt-get update
+ 4707  ps aux | grep -i apt
+ 4708  sudo lsof /var/lib/dpkg/lock
+ 4709  clear
+ 4710  sudo apt-get update
+ 4711  sudo apt-get -y install volatility
+ 4712  sudo apt-get update
+ 4713  history
+ 4714  lsb_release -a
+ 4715  sudo apt-get update
+ 4716  pwd
+ 4717  cd /media/legrand/legrand\n
+ 4718  ls
+ 4719  code ENSPD_GLO4_XML_MOUMY_MOUMY_YVES_GAETANG_TP3
+ 4720  sudo ufw enable
+ 4721  zip -r ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP3.zip ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP3
+ 4722  code ENSPD_GLO4_XML_MOUMY_MOUMY_YVES_GAETANG_TP2
+ 4723  zip -r ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP2.zip ENSPD_GLO4_XML_MAHAMAT_LEGRAND_NGOUH_NKAINSA_TP2
+ 4724  cd
+ 4725  cd Documents/projetSuisse
+ 4726  code .
+ 4727  php artisan serve
+ 4728  cd liquiadtion
+ 4729  git add .
+ 4730  git status
+ 4731  git add .
+ 4732  git commit -m "bug 9,11,12 and 12 fixed"
+ 4733  git push origin develop
+ 4734  git add .
+ 4735  git commit -m "fixed en.json, fr.json and de.json key"
+ 4736  git push origin develop
+ 4737  cd Projects/Team-DEV237/echangeur_frontend
+ 4738  code .
+ 4739  npm run dev
+ 4740  npm run watch
+ 4741  npm run dev
+ 4742  git add .
+ 4743  git commit -m "fixed nav issue"
+ 4744  git push origin feature/Dashboard
+ 4745  sudo ufw enable
+ 4746  cd Projects/Team-DEV237/echangeur_frontend
+ 4747  npm run dev
+ 4748  cd Projects/Team-DEV237/echangeur_frontend
+ 4749  git checkout main
+ 4750  git status
+ 4751  git add .
+ 4752  git commit -m "bug to fix"
+ 4753  git checkout main
+ 4754  git pull origin main
+ 4755  code .
+ 4756  clear
+ 4757  git pull origin main
+ 4758  git status
+ 4759  git checkout -b feature/offerItem
+ 4760  code .
+ 4761  git add .
+ 4762  git commit -m "done with the changeOfferItem component"
+ 4763  git push origin feature/offerItem
+ 4764  sudo deluser --remove-home hadoop
+ 4765  sudo ufw enable
+ 4766  cd Projects/youtubetuts/ && mkdir food_ordering_app && cd food_ordering_app
+ 4767  npx create-next-app
+ 4768  code .
+ 4769  yarn dev
+ 4770  cd Projects/youtubetuts
+ 4771  ls
+ 4772  cd ..
+ 4773  ls
+ 4774  cd laracasts
+ 4775  cd vue-learning
+ 4776  code .
+ 4777  cd ~/code
+ 4778  cd lab2view
+ 4779  ls
+ 4780  sudo ufw enable
+ 4781  npx serve
+ 4782  git log --oneline
+ 4783  git status
+ 4784  cd Documents/projetSuisse
+ 4785  code .
+ 4786  git clone git@bitbucket.org:lab2view_team/erp-backend.git
+ 4787  git clone https://legrand01@bitbucket.org/lab2view_team/erp-backend.git
+ 4788  cd erp-backend
+ 4789  code .
+ 4790  cd Projects/laracasts/vue-learning
+ 4791  json-server --watch db.json
+ 4792  json-server --watch db.json -p 3001
+ 4793  clear
+ 4794  npm run start
+ 4795  clear
+ 4796  npm run start
+ 4797  cd Projects/laracasts/vue-learning
+ 4798  code .
+ 4799  sudo ufw enable
+ 4800  npm run start
+ 4801  git add .
+ 4802  git commit -m "More flexible components with slots and flags"
+ 4803  code .
+ 4804  cd
+ 4805  cd Projects/Team-DEV237/echangeur_frontend
+ 4806  code .
+ 4807  git checkout main
+ 4808  git pull origin main
+ 4809  git checkout -b feature/changeExtensions
+ 4810  npm run dev
+ 4811  git add .
+ 4812  git commit -m "Changes extensions component from js to jsx"
+ 4813  git push origin feature/changeExtensions
+ 4814  sudo ufw enable
+ 4815  cd Projects/Team-DEV237/echangeur_frontend
+ 4816  code .
+ 4817  cd code/lab2view/
+ 4818  cd
+ 4819  ls
+ 4820  code erp-backend
+ 4821  cd Projects/Team-DEV237/echangeur_frontend
+ 4822  code .
+ 4823  git checkout main
+ 4824  git pull origin main
+ 4825  git checkout main
+ 4826  git checkout -b feature/dropdown
+ 4827  yarn add flag-icons
+ 4828  git checkout feature/dropdown
+ 4829  npm run dev
+ 4830  npm install react-world-flags
+ 4831  git add .
+ 4832  git commit -m "Added RightMenu component"
+ 4833  git push origin feature/dropdown
+ 4834  sudo ufw enable
+ 4835  cd Projects/youtubetuts
+ 4836  ls
+ 4837  cd food_ordering_app
+ 4838  code .
+ 4839  cd Projects/youtubetuts/food_ordering_app
+ 4840  npm run dev
+ 4841  cd Projects/youtubetuts/food_ordering_app
+ 4842  code .
+ 4843  npm run dev
+ 4844  cd
+ 4845  sudo ufw enable
+ 4846  cd ..
+ 4847  cd laracasts
+ 4848  cd vue-learning
+ 4849  npx serve
+ 4850  cd Projects/laracasts/vue-learning
+ 4851  code .
+ 4852  npm run start
+ 4853  git log --oneline
+ 4854  git add .
+ 4855  git commit -m "Named Slots"
+ 4856  cd ..
+ 4857  npm init vue@latest
+ 4858  cd vue-project\n  npm install\n  npm run lint\n  npm run dev
+ 4859  cd vue-project
+ 4860  npm run lint
+ 4861  cd Documents/projetSuisse
+ 4862  cd
+ 4863  cd liquiadtion
+ 4864  code .
+ 4865  php artisan serve
+ 4866  git add .
+ 4867  git commit -m "added policy page"
+ 4868  git status
+ 4869  git push origin develop
+ 4870  sudo ufw enable
+ 4871  cd Projects/infinite-solution
+ 4872  npx serve
+ 4873  cd ..
+ 4874  cd Team-DEV237
+ 4875  cd echangeur_frontend
+ 4876  npm run dev
+ 4877  cd Documents/projetSuisse
+ 4878  php artisan serve
+ 4879  sudo ufw enable
+ 4880  dotnet new console -o learn-csharp
+ 4881  code learn-csharp
+ 4882  dotnet run
+ 4883  sudo ufw enable
+ 4884  code learn-csharp
+ 4885  mkdir Hello
+ 4886  cd Hello
+ 4887  touch HelloWorld.cs
+ 4888  code .
+ 4889  cd 
+ 4890  cd Banking\ Account\ Manager
+ 4891  dotnet run
+ 4892  ls
+ 4893  dotnet run Program.cs
+ 4894  code .
+ 4895  dotnet new console -o Bank
+ 4896  cd Bank
+ 4897  dotnet run
+ 4898  cd ..
+ 4899  cd
+ 4900  cd Banking\ Account\ Manager
+ 4901  dotnet new console -o Bank
+ 4902  dotnet run
+ 4903  cd Bank
+ 4904  dotnet run
+ 4905  sudo ufw enable
+ 4906  cd Documents/
+ 4907  dotnet new console -o ProductStockManager
+ 4908  cd ProductStockManager
+ 4909  code .
+ 4910  cd ..
+ 4911  cd ProductManager-master
+ 4912  code .
+ 4913  dotnet run
+ 4914  cd 
+ 4915  ls
+ 4916  code learn-csharp
+ 4917  dotnet run
+ 4918  cd Documents/
+ 4919  cd ProductStockManager
+ 4920  code .
+ 4921  dotnet run
+ 4922  git init
+ 4923  git add .
+ 4924  git commit -m "product stock manager console app "
+ 4925  sudo ufw enable
+ 4926  java -version
+ 4927  su hadoop
+ 4928  sudo ufw enable
+ 4929  cd Projects/youtubetuts/food_ordering_app
+ 4930  code .
+ 4931  npm run dev
+ 4932  cd
+ 4933  cd code/
+ 4934  ls
+ 4935  cd
+ 4936  cd Projects
+ 4937  ls
+ 4938  cd Team-DEV237
+ 4939  ls
+ 4940  cd echangeur_frontend
+ 4941  code .
+ 4942  git status
+ 4943  git checkout main
+ 4944  git pull origin main
+ 4945  git checkout main
+ 4946  npm run dev
+ 4947  git clone git@github.com:black-code1/nextjs-blog.git
+ 4948  cd nextjs-blog-main
+ 4949  code .
+ 4950  npx create-next-app --example auth0 auth0-app
+ 4951  cd auth0-app
+ 4952  yarn dev
+ 4953  cp .env.local.example .env.local
+ 4954  code .
+ 4955  yarn dev
+ 4956  clear
+ 4957  npm run dev
+ 4958  clear
+ 4959  sudo ufw enable
+ 4960  cd Projects
+ 4961  cd lab2view
+ 4962  ls
+ 4963  cd vuemastery-code
+ 4964  ls
+ 4965  cd real-world-vue22
+ 4966  git l0
+ 4967  git log --oneline
+ 4968  ls
+ 4969  ls -al
+ 4970  code .
+ 4971  cd
+ 4972  cd Projects
+ 4973  cd youtubetuts
+ 4974  cd ..
+ 4975  cd laracasts
+ 4976  ls
+ 4977  cd vue-learning
+ 4978  ls
+ 4979  code .
+ 4980  cd ..
+ 4981  ls
+ 4982  cd vue-project
+ 4983  code .
+ 4984  cd ..
+ 4985  ls
+ 4986  cd ..
+ 4987  ls
+ 4988  cd documentation
+ 4989  ls
+ 4990  cd ..
+ 4991  cd lab2view
+ 4992  ls
+ 4993  cd vue-doc
+ 4994  code .
+ 4995  cd vue-guide
+ 4996  code .
+ 4997  npm run dev
+ 4998  cd ../..
+ 4999  cd ..
+ 5000  mkdir openclassrooms
+ 5001  cd openclassrooms
+ 5002  mkdir Concevez_votre_site_web_PHP_MySQL
+ 5003  cd Concevez_votre_site_web_PHP_MySQL
+ 5004  touch index.php
+ 5005  code index.php
+ 5006  ls
+ 5007  cd Projects/openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5008  php -S localhost:8080
+ 5009  phpinfo()\n;
+ 5010  php -S localhost:8080
+ 5011  sudo gedit /etc/php/8.1/cli/php.ini
+ 5012  sudo ufw enable
+ 5013  cd Projects/Team-DEV237/echangeur_frontend
+ 5014  code .
+ 5015  clear
+ 5016  git pull origin main
+ 5017  git checkout -b feature/dropdown
+ 5018  git checkout -b feature/Dropdown
+ 5019  cd Projects/Team-DEV237/echangeur_frontend
+ 5020  clear
+ 5021  npm run dev
+ 5022  npm install @headlessui/react
+ 5023  code .
+ 5024  git pull origin main
+ 5025  sudo ufw enable
+ 5026  cd Projects/Team-DEV237/echangeur_frontend
+ 5027  code .
+ 5028  git add .
+ 5029  git commit -m "add select for devices and languages"
+ 5030  git checkout -b feature/Signup
+ 5031  npm install mongodb
+ 5032  npm install bcryptjs
+ 5033  cd ..
+ 5034  cd echangeur_frontend
+ 5035  npm run dev
+ 5036  sudo ufw enable
+ 5037  cd Projects/Team-DEV237/echangeur_frontend
+ 5038  npm run dev
+ 5039  sudo ufw enable
+ 5040  cd Projects/laracasts
+ 5041  ls
+ 5042  mkdir tailwind
+ 5043  cd tailwind
+ 5044  mkdir tailwind-css-rebuilds-github
+ 5045  cd tailwind-css-rebuilds-github
+ 5046  cd ..
+ 5047  mkdir gituiclone-vue
+ 5048  npm init vite vue-gituiclone
+ 5049  cd vue-gituiclone
+ 5050  npm install -D tailwindcss postcss autoprefixer
+ 5051  npx tailwindcss init -p
+ 5052  code .
+ 5053  npm run dev
+ 5054  cd ..
+ 5055  ls
+ 5056  cd ..
+ 5057  ls
+ 5058  cd ..
+ 5059  ls
+ 5060  cd youtubetuts
+ 5061  la
+ 5062  cd tailwindcss-up-and-running
+ 5063  ls
+ 5064  cd ..
+ 5065  cd tailwind-jit
+ 5066  ls
+ 5067  cd ..
+ 5068  cd tailwind-manage-landing
+ 5069  ls
+ 5070  code .
+ 5071  cd 
+ 5072  cd Projects/laracasts
+ 5073  ls
+ 5074  cd tailwind
+ 5075  ls
+ 5076  rm -rf gituiclone-vue
+ 5077  rm -rf tailwind-css-rebuilds-github
+ 5078  cd vue-gituiclone
+ 5079  npm run dev
+ 5080  git init
+ 5081  git add .
+ 5082  git commit -m "Done Top Navs"
+ 5083  sudo ufw enable
+ 5084  cd Projects/openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5085  ls
+ 5086  cd ..
+ 5087  code Concevez_votre_site_web_PHP_MySQL
+ 5088  php -S localhost:8080
+ 5089  cd Concevez_votre_site_web_PHP_MySQL
+ 5090  git init
+ 5091  git commit -m "affichege de la recette"
+ 5092  git add ..
+ 5093  git add .
+ 5094  git commit -m "affichege de la recette"
+ 5095  sudo ufw enable
+ 5096  cd Projects/openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5097  code .
+ 5098  sudo ufw enable
+ 5099  cd Projects/openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5100  code .
+ 5101  php -S localhost:8080
+ 5102  cd Projects/Team-DEV237/echangeur_frontend
+ 5103  code .
+ 5104  git status
+ 5105  git add .
+ 5106  git commit -m "signup base  service"
+ 5107  git checkout main
+ 5108  git pull origin main
+ 5109  git checkout -b feature/dropdownD
+ 5110  cd ..
+ 5111  cd echangeur_frontend
+ 5112  npm run dev
+ 5113  npm install
+ 5114  git checkout main
+ 5115  npm install
+ 5116  git branch -a
+ 5117  npm install
+ 5118  sudo ufw enable
+ 5119  cd Projects/Team-DEV237/echangeur_frontend
+ 5120  cd ../..
+ 5121  cd openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5122  code .
+ 5123  php -S localhost:8080
+ 5124  cd ../..
+ 5125  cd laracasts
+ 5126  ls
+ 5127  cd tailwind
+ 5128  ls
+ 5129  cd vue-gituiclone
+ 5130  code .
+ 5131  npm run dev
+ 5132  sudo ufw enable
+ 5133  git clone git@github.com:Team-DEV237/echangeur_frontend.git
+ 5134  npm install
+ 5135  npm install --force
+ 5136  git log --oneline
+ 5137  npm run dev
+ 5138  sudo mysql -u root
+ 5139  mysql -u root -p
+ 5140  sudo mysql -u root -p
+ 5141  clear
+ 5142  sudo mysql -u root -ppassword
+ 5143  sudo mysql -u root -p
+ 5144  mysql -u root -p
+ 5145  code cfeation_base.sql
+ 5146  history
+ 5147  sudo gedit /etc/php/8.1/cli/php.ini\n
+ 5148  cd Projects/openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5149  code .
+ 5150  php -S localhost:8080
+ 5151  sudo apt-get install php-common php-mysql php-cli
+ 5152  php -S localhost:8080
+ 5153  cd /usr/lib/php/20210902/pdo_firebird
+ 5154  cd /usr/lib/php/20210902
+ 5155  ls
+ 5156  cd 
+ 5157  cd Videos
+ 5158  cd Firebird-3.0.5.33220-0.amd64
+ 5159  ls
+ 5160  ./install.sh
+ 5161  chmod 777 install.sh
+ 5162  ./install.sh
+ 5163  sudo ./install.sh
+ 5164  sudo apt-get -y install libtommath1
+ 5165  sudo ./install.sh
+ 5166  php -S localhost:8080
+ 5167  sudo ./install.sh
+ 5168  php -v
+ 5169  cd
+ 5170  cd /etc/php.d
+ 5171  sudo gedit /etc/php/8.1/cli/php.ini\n
+ 5172  clear
+ 5173  php -S localhost:8080
+ 5174  sudo gedit /etc/php/8.1/cli/php.ini\n
+ 5175  cd /usr/lib/
+ 5176  ls
+ 5177  cd ..
+ 5178  ls
+ 5179  cd lib64
+ 5180  ls
+ 5181  cd ..
+ 5182  cd lib
+ 5183  ls
+ 5184  cd php
+ 5185  ls
+ 5186  cd 8.1
+ 5187  ls
+ 5188  whereis modules
+ 5189  cd /usr/lib/modules
+ 5190  ls
+ 5191  cd
+ 5192  php -S localhost:8080
+ 5193  sudo apt-get install -y php-pdo-mysql\n
+ 5194  sudo apt-get --purge remove php-common\n\n
+ 5195  sudo apt-get install php-common php-mysql php-cli\n\n
+ 5196  php -v
+ 5197  php -S localhost:8080
+ 5198  sudo ufw enable
+ 5199  cd code/lab2view/
+ 5200  ls
+ 5201  cd erp-backend
+ 5202  code .
+ 5203  composer install
+ 5204  composer update
+ 5205  php -v
+ 5206  sudo apt-get install php-curl
+ 5207  composer update
+ 5208  sudo apt-get update
+ 5209  sudo apt install php-mbstring
+ 5210  composer update
+ 5211  sudo apt-get install php-mbstring
+ 5212  composer update
+ 5213  whereis php.ini
+ 5214  sudo gedit /etc/php/8.1/cli/php.ini\n
+ 5215  composer update
+ 5216  sudo gedit /etc/php/8.1/cli/php.ini\n
+ 5217  clear
+ 5218  composer update
+ 5219  sudo apt install phpunit
+ 5220  composer update
+ 5221  clear
+ 5222  composer update
+ 5223  cd code/lab2view/
+ 5224  ls
+ 5225  code erp-backend
+ 5226  composer install
+ 5227  cd ../../Projects
+ 5228  cd openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5229  code .
+ 5230  sudo ufw enable
+ 5231  cd openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5232  cd Projects/openclassrooms/Concevez_votre_site_web_PHP_MySQL
+ 5233  code .
+ 5234  php -S localhost:8080
+ 5235  git checkout apprehendez-limites-code-debutant
+ 5236  sudo ufw enable
+ 5237  git checkout main
+ 5238  git checkout apprehendez-limites-code-debutant
+ 5239  mysql -u root -p
+ 5240  pwd
+ 5241  mysql -u root -p blog < /home/legrand/Projects/openclassrooms/Adoptez_une_architecture_MVC_en_PHP/4670706-architecture-mvc-php/db.sql
+ 5242  php -S localhost:8080
+ 5243  mysql -u root -p root
+ 5244  mysql -u root -p
+ 5245  mysql -u root -p blog < /home/legrand/Projects/openclassrooms/Adoptez_une_architecture_MVC_en_PHP/4670706-architecture-mvc-php/db.sql
+ 5246  git add .
+ 5247  git commit -m "decouper son code en model vue controlleur"
+ 5248  git remote -v
+ 5249  cd Projects/laracasts
+ 5250  laravel new blade-component-cookbook
+ 5251  cd Projects/openclassrooms/
+ 5252  ls
+ 5253  cd Adoptez_une_architecture_MVC_en_PHP
+ 5254  ls
+ 5255  code .
+ 5256  php -S localhost:8080
+ 5257  ls
+ 5258  cd 4670706-architecture-mvc-php
+ 5259  ls
+ 5260  php -S localhost:8080
+ 5261  git add .
+ 5262  git commit -m "creation du controlleur post"
+ 5263  git add .
+ 5264  git commit -m "Créez un layout"
+ 5265  s
+ 5266  sudo ufw enable
+ 5267  cd Projects/openclassrooms/Adoptez_une_architecture_MVC_en_PHP
+ 5268  cd 4670706-architecture-mvc-php
+ 5269  code .
+ 5270  clear
+ 5271  git branch -a
+ 5272  git add .
+ 5273  git commit -m "Créez un routeur"
+ 5274  php -S localhost:8080
+ 5275  git add .
+ 5276  git commit -m "Ajout de commentaire"
+ 5277  cd
+ 5278  cd Projects/Team-DEV237/echangeur_frontend
+ 5279  remote -v
+ 5280  git remote -v
+ 5281  sudo ufw enable
+ 5282  sudo nano /etc/ssh/sshd_config
+ 5283  java -version
+ 5284  sudo snap install intellij-idea-ultimate --classic
+ 5285  cd Projects/laracasts
+ 5286  ls
+ 5287  cd vue-learning
+ 5288  code .
+ 5289  git log --oneline
+ 5290  npm run dev
+ 5291  npm run start
+ 5292  git log
+ 5293  sudo snap install intellij-idea-ultimate --classic
+ 5294  cd 
+ 5295  cd Projects/laracasts
+ 5296  ls
+ 5297  cd blade-component-cookbook
+ 5298  ls
+ 5299  git init
+ 5300  code .
+ 5301  cd ..
+ 5302  composer create-project laravel/laravel:^7.0 blade-component-cookbook
+ 5303  ls
+ 5304  rm -rf blade-component-cookbook
+ 5305  composer create-project laravel/laravel:^7.0 blade-component-cookbook
+ 5306  rm -rf blade-component-cookbook
+ 5307  cd blade-component-cookbook
+ 5308  php artisan serve
+ 5309  git add .
+ 5310  git commit -m "Prerequisite - Blade Components Explained"
+ 5311  git checkout -b feature/PrerequisiteBladeComponentsExplained
+ 5312  git add .
+ 5313  git commit -m "Prerequisite - Blade Components Explained"
+ 5314  git checkout main
+ 5315  git checkout -b feature/FlashComponent
+ 5316  git add .
+ 5317  git commit -m "Flash Component"
+ 5318  git checkout main
+ 5319  git checkout -b feature/FormComponent
+ 5320  php artisan make:model Comment -m
+ 5321  git add .
+ 5322  git commit -m "layout bug"
+ 5323  git checkout -b feature/FlashComponent
+ 5324  git checkout feature/FlashComponent
+ 5325  git checkout feature/FormComponent
+ 5326  mysql -u root
+ 5327  mysql -u root -p
+ 5328  php artisan migrate
+ 5329  php artisan migrate:rollback
+ 5330  php artisan migrate
+ 5331  git add .
+ 5332  git commmit -m "Form Component"
+ 5333  git commit -m "Form Component"
+ 5334  git checkout feature/FlashComponent
+ 5335  git checkout main
+ 5336  git checkout -b feature/ButtonComponent
+ 5337  git checkout main
+ 5338  git checkout feature/FormComponent
+ 5339  git branch -D feature/ButtonComponent
+ 5340  git checkout -b feature/ButtonComponent
+ 5341  code .
+ 5342  php artisan serve
+ 5343  git add .
+ 5344  git commit -m "Button Component"
+ 5345  sudo ufw enable
+ 5346  sudo snap install phpstorm --classic\n
+ 5347  cd Projects/openclassrooms/Adoptez_une_architecture_MVC_en_PHP
+ 5348  ls
+ 5349  cd 4670706-architecture-mvc-php
+ 5350  code .
+ 5351  sudo ufw enable
+ 5352  cd Projects/openclassrooms/Adoptez_une_architecture_MVC_en_PHP
+ 5353  cd 4670706-architecture-mvc-php
+ 5354  code .
+ 5355  php -S localhost:8080
+ 5356  clear
+ 5357  php -S localhost:8080
+ 5358  clear
+ 5359  php -S localhost:8080
+ 5360  sudo nano /etc/ssh/sshd_config
+ 5361  service sshd restart
+ 5362  sudo nano /etc/ssh/sshd_config
+ 5363  service sshd restart
+ 5364  git add .
+ 5365  git commit -m "Donnez vie a vos structures"
+ 5366  phpstorm .
+ 5367  cd ../../
+ 5368  cd ..
+ 5369  cd laracasts
+ 5370  cd blade-component-cookbook
+ 5371  code .
+ 5372  phpstorm .
+ 5373  git status
+ 5374  git log --oneline
+ 5375  git restore resources/views/comments/edit.blade.php
+ 5376  git log --oneline
+ 5377  clear
+ 5378  git checkout -b feature/ModalComponent
+ 5379  php artisan serve
+ 5380  code .
+ 5381  cd Projects/laracasts
+ 5382  cd blade-component-cookbook
+ 5383  php artisan serve
+ 5384  sudo ufw enable
+ 5385  cd Projects/laracasts/blade-component-cookbook
+ 5386  code .
+ 5387  git status
+ 5388  git add .
+ 5389  git commit -m "Modal Component"
+ 5390  php artisan serve
+ 5391  git checkout -b feature/DropdownComponent
+ 5392  git add .
+ 5393  git commit -m "Dropdown Component"
+ 5394  git checkout -b feature/NavLinkComponent
+ 5395  git add .
+ 5396  git commit -m "Nav Link Component"
+ 5397  git checkout -b feature/MobileNavLinkComponent
+ 5398  git add .
+ 5399  git commit -m "Mobile Nav Link Component"
+ 5400  git checkout -b feature/TabsComponent
+ 5401  php artisan serve
+ 5402  git add .
+ 5403  git commit -m "Tabs Component"
+ 5404  git checkout -b feature/MobileNavLinkComponent
+ 5405  git checkout feature/MobileNavLinkComponent
+ 5406  git branch -D feature/TabsComponent
+ 5407  git add .
+ 5408  git commit -m "updated alpine script src Mobile Nav Link Component"
+ 5409  git checkout -b feature/TabsComponent
+ 5410  git add .
+ 5411  git commit -m "Tabs Component"
+ 5412  git status
+ 5413  git checkout -b feature/SocialMediaCardMetaComponent
+ 5414  git add .
+ 5415  git commit -m "Social Media Card Meta Component"
+ 5416  cd ..
+ 5417  laravel new blade-component-recaptcha
+ 5418  cd blade-component-recaptcha
+ 5419  git init
+ 5420  cd ..
+ 5421  cd blade-component-recaptcha
+ 5422  php artisan serve
+ 5423  code .
+ 5424  php artisan serve
+ 5425  cd Projects/laracasts/blade-component-cookbook
+ 5426  code .
+ 5427  git status
+ 5428  sudo apt-get install libnss3-tools jq xsel
+ 5429  composer global require cpriego/valet-linux
+ 5430  sudo ufw enable
+ 5431  cd Documents/projetSuisse
+ 5432  php artisan serve
+ 5433  cd Documents/projetSuisse
+ 5434  code .
+ 5435  phpstorm .
+ 5436  php artisan serve
+ 5437  php artisan config:clear
+ 5438  php artisan serve
+ 5439  php artisan config:clear
+ 5440  php artisan serve
+ 5441  composer global require laravel/valet\n\n
+ 5442  valet install
+ 5443  composer global require cpriego/valet-linux.
+ 5444  composer global require cpriego/valet-linux
+ 5445  valet install
+ 5446  sudo apt-get install network-manager libnss3-tools jq xsel\n
+ 5447  composer global require genesisweb/valet-linux-plus\n
+ 5448  composer global require cpriego/valet-linux\n
+ 5449  valet install\n
+ 5450  composer global remove laravel/valet
+ 5451  composer global remove genesisweb/valet-linux-plus\n
+ 5452  composer global remove cpriego/valet-ubuntu
+ 5453  composer global remove cpriego/valet-linux\n
+ 5454  composer clear-cache\n
+ 5455  composer global require cpriego/valet-linux\n\n
+ 5456  valet install\n
+ 5457  ping foobar.test
+ 5458  ping *.test
+ 5459  sudo apt-get remove dnsmasq\n
+ 5460  valet install\n
+ 5461  sudo ufw enable
+ 5462  valet start
+ 5463  sudo ufw enable
+ 5464  ping foobar.test
+ 5465  cd Projects/laracasts/blade-component-recaptcha
+ 5466  php artisan serve
+ 5467  code .
+ 5468  valet .
+ 5469  valet
+ 5470  valet open
+ 5471  valet link
+ 5472  code .
+ 5473  cd ../../../Documents
+ 5474  cd projetSuisse
+ 5475  code .
+ 5476  sudo ufw enable
+ 5477  cd Documents/projetSuisse
+ 5478  code .
+ 5479  mysql -u root -p\n: 1655015263:0;clear
+ 5480  mysql -u root -p
+ 5481  sudo ufw enable
+ 5482  java -version
+ 5483  javac Main.java
+ 5484  java Main
+ 5485  javac Main.java
+ 5486  java Main
+ 5487  javac Main.java
+ 5488  java Main "Gerard"
+ 5489  java Main Gerard
+ 5490  javac Main.java
+ 5491  java Main Gerard Bernard Stan
+ 5492  javac Main.java
+ 5493  java Main Gerard Bernard Stan
+ 5494  javac Main.java
+ 5495  java Main Gerard Bernard Stan
+ 5496  java Main Stan Gerard Bernard
+ 5497  javac Main.java
+ 5498  java Main Stan Gerard Bernard
+ 5499  java Main Stan Gerard Bernard Stan
+ 5500  javac Main.java
+ 5501  java Main Stan Gerard Bernard stan
+ 5502  java Main Gerard Bernard sTan
+ 5503  javac Main.java
+ 5504  java Main Gerard Bernard sTan
+ 5505  javac Main.java
+ 5506  java Main Gerard Bernard sTan
+ 5507  javac Main.java
+ 5508  java Main Gerard Bernard sTan
+ 5509  javac Main.java
+ 5510  java Main Gerard Bernard sTan
+ 5511  javac Main.java
+ 5512  java Main Gerard Bernard sTan
+ 5513  javac Main.java
+ 5514  java Main Gerard Bernard sTan
+ 5515  javac Main.java
+ 5516  java Main Gerard Bernard sTan
+ 5517  javac Main.java
+ 5518  java Main Gerard Bernard sTan
+ 5519  javac Main.java
+ 5520  java Main Gerard Bernard sTan
+ 5521  javac Main.java
+ 5522  java Main Gerard Bernard sTan
+ 5523  javac Main.java
+ 5524  java Main Gerard Bernard sTan
+ 5525  javac Main.java
+ 5526  java Main Gerard Bernard sTan
+ 5527  javac Main.java
+ 5528  java Main Gerard Bernard sTan
+ 5529  java Main Gerard Bernard Messi
+ 5530  javac Main.java
+ 5531  java Main Gerard Bernard sTan
+ 5532  java Main Messi Bernard sTan
+ 5533  javac Main.java
+ 5534  java Main Messi Bernard sTan
+ 5535  javac Main.java
+ 5536  java Main Messi Bernard sTan
+ 5537  javac Main.java
+ 5538  java Main Messi Bernard sTan
+ 5539  javac Main.java
+ 5540  java Main Messi Bernard sTan
+ 5541  java Main Gerard Bernard Stan
+ 5542  java Main Gerard Bernard Messi
+ 5543  javac Main.java
+ 5544  java Main Gerard Bernard Messi
+ 5545  java Main Gerard Bernard Stan
+ 5546  javac Main.java
+ 5547  java Main Gerard Bernard Stan
+ 5548  java Main Gerard Bernard messi
+ 5549  cd code/
+ 5550  cd formation-java
+ 5551  sudo apt-get install maven
+ 5552  sudo ufw enable
+ 5553  cd Documents/projetSuisse
+ 5554  code .
+ 5555  pwd
+ 5556  mysql -u root -p
+ 5557  mysql -u username -p liquidationDB < /home/legrand/Documents/projetSuisse/category_product.sql
+ 5558  mysql -u root -p liquidationDB < /home/legrand/Documents/projetSuisse/category_product.sql
+ 5559  mysql -u root -p liquidationDB < /home/legrand/Documents/projetSuisse/products.sql
+ 5560  mysql -u root -p liquidationDB < /home/legrand/Documents/projetSuisse/bildgross.sql
+ 5561  php artisan migrate
+ 5562  php artisan migrate:rollback
+ 5563  php artisan migrate
+ 5564  cd Documents/ProdukteBilder
+ 5565  mkdir imagep
+ 5566  pwd
+ 5567  cd imagep
+ 5568  pwd
+ 5569  cp *_kl.* /home/legrand/imagep
+ 5570  cd ..
+ 5571  mkdir cover
+ 5572  cd cover
+ 5573  pwd
+ 5574  cp *_gr.* /home/legrand/cover
+ 5575  php artisan serve
+ 5576  sudo ufw enable
+ 5577  cd Projects/laracasts/blade-component-recaptcha
+ 5578  code .
+ 5579  valet link
+ 5580  cd code/laravel-documentation
+ 5581  touch laravel.txt
+ 5582  lsmod | grep kvm
+ 5583  modprobe kvm
+ 5584  lsmod | grep kvm
+ 5585  modprobe kvm_intel
+ 5586  modprobe kvm_amd
+ 5587  lsmod | grep kvm
+ 5588  ls -al /dev/kvm
+ 5589  sudo usermod -aG kvm legrand
+ 5590  ls -al /dev/kvm
+ 5591  sudo usermod -aG kvm $USER
+ 5592  ls -al /dev/kvm
+ 5593  docker compose version
+ 5594  docker version
+ 5595  sudo systemctl stop docker docker.socket containerd
+ 5596  sudo systemctl disable docker docker.socket containerd
+ 5597  docker context ls
+ 5598  docker context use 
+ 5599  docker context use default
+ 5600  docker context ls
+ 5601  docker context use docker-desktop
+ 5602  docker context use desktop-linux
+ 5603  docker context ls
+ 5604  docker run -d -p 80:80 docker/getting-started
+ 5605  valet unlink
+ 5606  docker run -d -p 80:80 docker/getting-started
+ 5607  sudo netstat -pna | grep 80
+ 5608  docker run -d -p 80:80 docker/getting-started
+ 5609  docker run -d -p 81:81 docker/getting-started
+ 5610  mkdir docker
+ 5611  cd docker
+ 5612  curl -s https://laravel.build/example-app | bash
+ 5613  cd example-app
+ 5614  ./vendor/bin/sail up
+ 5615  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg\necho "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null\nsudo apt update\nsudo apt install gh
+ 5616  gh auth login
+ 5617  gh config set editor phpstorm
+ 5618  gh --version
+ 5619  ./vendor/bin/sail up
+ 5620  cd Projects/laracasts/blade-component-recaptcha
+ 5621  
+ 5622  
+ 5623  
+ 5624  cd Projects/laracasts/blade-component-recaptcha
+ 5625  composer require/laravel/sail --dev
+ 5626  composer require laravel/sail --dev
+ 5627  php artisan sail:install
+ 5628  ./vendor/bin/sail up
+ 5629  docker rm -f $(docker ps -aq)
+ 5630  ./vendor/bin/sail up
+ 5631  cd code/laravel-documentation
+ 5632  cd docker
+ 5633  cd example-app
+ 5634  sudo ufw enable
+ 5635  ./vendor/bin/sail up
+ 5636  sudo ufw enable
+ 5637  sudo ufw enable\n: 1655127516:0;sudo ufw enable
+ 5638  sudo gedit /etc/resolvconf/resolv.conf.d/head
+ 5639  sudo gedit /etc/resolv.conf
+ 5640  sudo gedit /etc/sysctl.conf
+ 5641  sudo sysctl -p
+ 5642  ping -c 5 google.com
+ 5643  ping google.com
+ 5644  ping 127.0.0.1
+ 5645  ping https://www.google.com
+ 5646  ping www.google.com
+ 5647  sudo gedit /etc/resolv.conf
+ 5648  sudo systemctl restart systemd-resolved.service
+ 5649  sudo systemctl status systemd-resolved.service
+ 5650  ping www.google.com
+ 5651  ping google.com
+ 5652  sudo ufw allow 53/tcp
+ 5653  sudo ufw allow 43/tcp
+ 5654  sudo ufw reload
+ 5655  ping google.com
+ 5656  sudo firewall-cmd --add-port=43/tcp --permanent
+ 5657  sudo firewall-cmd --add-port=53/tcp --permanent
+ 5658  sudo firewall-cmd --reload
+ 5659  lsmod
+ 5660  sudo rmmod kvm_amd
+ 5661  sudo rmmod kvm_amd kvm
+ 5662  sudo rmmod -f kvm_amd kvm
+ 5663  sudo rmmod -f kvm_amd
+ 5664  sudo rmmod -f kvm
+ 5665  lsmod | grep kvm
+ 5666  sudo rmmod -f kvm
+ 5667  sudo rmmod -f kvm_amd kvm
+ 5668  sudo ufw enable
+ 5669  cd code/laravel-documentation
+ 5670  cd docker
+ 5671  cd example-app
+ 5672  ./vendor/bin/sail up
+ 5673  lsmod | grep kvm
+ 5674  modprobe kvm
+ 5675  lsmod | grep kvm
+ 5676  echo 1 > /proc/sys/kernel/sysrq
+ 5677  sudo echo 1 > /proc/sys/kernel/sysrq
+ 5678  echo 1 > sudo /proc/sys/kernel/sysrq
+ 5679  echo x > /proc/sysrq-trigger
+ 5680  echo x > sudo /proc/sysrq-trigger
+ 5681  modprobe kvm
+ 5682  egrep -c '(vmx|svm)' /proc/cpuinfo
+ 5683  sudo kvm-ok
+ 5684  sudo apt install cpu-checker
+ 5685  sudo apt update
+ 5686  sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+ 5687  sudo adduser 'legrand' libvirt
+ 5688  sudo adduser 'legrand' kvm
+ 5689  virsh list --all
+ 5690  sudo systemctl status libvirtd
+ 5691  sudo systemctl enable --now libvirtd
+ 5692  modprobe kvm
+ 5693  egrep '^flags.*(vmx|svm)' /proc/cpuinfo
+ 5694  modprobe kvm
+ 5695  egrep '^flags.*(vmx|svm)' /proc/cpuinfo
+ 5696  sudo modprobe kvm
+ 5697  modprobe kvm_amd
+ 5698  sudo modprobe kvm_amd
+ 5699  lsmod | grep kvm
+ 5700  ls -al /dev/kvm
+ 5701  sudo usermod -aG kvm 'legrand'
+ 5702  ls -al /dev/kvm
+ 5703  sudo usermod -aG kvm legrand
+ 5704  ls -al /dev/kvm
+ 5705  modprobe kvm_amd
+ 5706  lsmod | grep kvm
+ 5707  ./vendor/bin/sail up
+ 5708  ./vendor/bin/sail up -p
+ 5709  ./vendor/bin/sail up -P
+ 5710  ./vendor/bin/sail up -P 81
+ 5711  docker run -d -P --name docker-tutorial docker101tutorial
+ 5712  ./vendor/bin/sail up
+ 5713  docker run -d -P --name example-app
+ 5714  docker run -d -P example-app
+ 5715  docker run -d -P --name docker-tutorial example-app
+ 5716  ./vendor/bin/sail up
+ 5717  docker ps -a
+ 5718  docker rm docker101tutorial
+ 5719  docker rm docker-tutorial
+ 5720  docker ps -a
+ 5721  docker run -p 3307:3307 example-app-meilisearch-1
+ 5722  ./vendor/bin/sail up
+ 5723  code .
+ 5724  ./vendor/bin/sail up
+ 5725  sudo service mysql stop
+ 5726  ./vendor/bin/sail up
+ 5727  netstat -plant | grep 80
+ 5728  sudo service nginx stop
+ 5729  ./vendor/bin/sail up
+ 5730  sudo ./vendor/bin/sail up
+ 5731  ./vendor/bin/sail up
+ 5732  ls -l /var/www/html/
+ 5733  cd  /var/www/html/
+ 5734  cd 
+ 5735  cd /var/www/html
+ 5736  chown -R www-data:www-data *
+ 5737  sudo chown -R www-data:www-data *
+ 5738  ./vendor/bin/sail up
+ 5739  cd
+ 5740  sudo chown -R www-data:www-data * /var/www/html/
+ 5741  cd code/laravel-documentation/docker
+ 5742  la
+ 5743  ls
+ 5744  ls -al
+ 5745  cd example-app
+ 5746  ll
+ 5747  ll storage/log
+ 5748  ll storage/logs
+ 5749  ll storage
+ 5750  php artisan serve
+ 5751  chmod 777 -R storage/logs
+ 5752  sudo chmod 777 -R storage/logs
+ 5753  php artisan serve
+ 5754  sudo php artisan optimize:clear
+ 5755  php artisan serve
+ 5756  chmod 777 -R bootstrap/cache
+ 5757  sudo chmod 777 -R bootstrap/cache
+ 5758  php artisan serve
+ 5759  sudo chmod 777  -R storage/framework/sessions
+ 5760  php artisan serve
+ 5761  sudo chmod 777  -R storage/framework
+ 5762  php artisan serve
+ 5763  ./vendor/bin/sail up
+ 5764  php artisan sail
+ 5765  php artisan sail --help
+ 5766  ./vendor/bin/sail --help
+ 5767  ./vendor/bin/sail build
+ 5768  service apache2 stop
+ 5769  ./vendor/bin/sail up
+ 5770  cd Projects/laracasts/blade-component-recaptcha
+ 5771  valet link
+ 5772  code .
+ 5773  php artisan serve
+ 5774  valet unlink
+ 5775  valet park
+ 5776  ping github.com
+ 5777  ping google.com
+ 5778  sudo nmcli d
+ 5779  sudo nmtui
+ 5780  sudo gedit /etc/nsswitch.conf
+ 5781  rm /etc/resolv.conf
+ 5782  sudo rm /etc/resolv.conf
+ 5783  sudo gedit /etc/NetworkManager/conf.d/dns.conf
+ 5784  sudo systemctl restart NetworkManager
+ 5785  sudo systemctl restart systemd-resolved && sudo systemctl stop systemd-resolved
+ 5786  sudo gedit /etc/resolv.conf
+ 5787  sudo gedit /etc/NetworkManager/NetworkManager.conf
+ 5788  ip a
+ 5789  cd /etc/netplan/
+ 5790  ls
+ 5791  nano 01-network-manager-all.yaml
+ 5792  sudo nano 01-network-manager-all.yaml
+ 5793  cd
+ 5794  netplan generate
+ 5795  sudo netplan generate
+ 5796  sudo netplan apply
+ 5797  ip a
+ 5798  ping google.com
+ 5799  sudo nano 01-network-manager-all.yaml
+ 5800  sudo ufw allow tcp
+ 5801  sudo ufw allow 43/tcp
+ 5802  sudo ufw default deny outgoing
+ 5803  sudo ufw allow out to any port 80
+ 5804  sudo ufw allow out to any port 443
+ 5805  sudo ufw allow out to any port 53
+ 5806  sudo ufw reload
+ 5807  sudo ufw status verbose
+ 5808  cd /etc
+ 5809  cd
+ 5810  cd / etc
+ 5811  cd /etc
+ 5812  ls
+ 5813  sudo nano resolv.conf
+ 5814  sudo service network-manager restart
+ 5815  sudo service NetworkManager restart
+ 5816  sudo service network-manager restart
+ 5817  systemctl restart networking
+ 5818  sudo systemctl restart networking
+ 5819  sudo ufw enable
+ 5820  systemctl list-unit-files | grep -i network
+ 5821  systemctl restart systemd-networkd.socket
+ 5822  sudo /etc/init.d/firewall
+ 5823  sudo nano /init.d/firewall
+ 5824  sudo nano /etc/init.d/firewall
+ 5825  cd
+ 5826  sudo ufw status\n
+ 5827  sudo ufw default allow outgoing
+ 5828  sudo ufw default deny incoming
+ 5829  cat /etc/default/ufw
+ 5830  sudo ufw allow ssh
+ 5831  sudo ufw enable
+ 5832  sudo ufw allow 80/tcp comment 'accept Apache'
+ 5833  sudo ufw allow 443/tcp comment 'accept HTTPS connections'
+ 5834  cd code/laravel-documentation/
+ 5835  mkdir installer
+ 5836  mkdir installers
+ 5837  chmod 777 -R *
+ 5838  sudo chmod 777 -R *
+ 5839  mkdir installer
+ 5840  cd ..
+ 5841  sudo chmod 777 -R laravel-documentation
+ 5842  cd laravel-documentation
+ 5843  mkdir installer
+ 5844  cd installer
+ 5845  laravel new example-app
+ 5846  cd example-app
+ 5847  php artisan serve
+ 5848  cd Projects/laracasts/blade-component-recaptcha
+ 5849  composer require laravel/sail --dev
+ 5850  php artisan sail:install\n\n
+ 5851  ./vendor/bin/sail up
+ 5852  history
+ 5853  sudo service mysql stop
+ 5854  cd Projects/laracasts/blade-component-recaptcha
+ 5855  ./vendor/bin/sail up
+ 5856  sudo service nginx stop
+ 5857  ./vendor/bin/sail up
+ 5858  code .
+ 5859  chmod 777 -R storage
+ 5860  ./vendor/bin/sail up
+ 5861  cd Documents/projetSuisse
+ 5862  code .
+ 5863  php artisan serve
+ 5864  chmod 777 -R storage
+ 5865  sudo chmod 777 -R storage
+ 5866  cd
+ 5867  history
+ 5868  sudo service mysql start
+ 5869  cd ..
+ 5870  chmod 777 -R projetSuisse
+ 5871  sudo chmod 777 -R projetSuisse
+ 5872  docker -v
+ 5873  docker-compose --version
+ 5874  ll
+ 5875  history
+ 5876  chown -R legrand:legrand *
+ 5877  sudo chown -R legrand:legrand *
+ 5878  sudo ufw enable
+ 5879  cd Projects/laracasts/blade-component-recaptcha
+ 5880  valet link
+ 5881  code .
+ 5882* git status
+ 5883* php artisan make:rule Recaptcha
+ 5884  cd ..
+ 5885  ls
+ 5886  code blade-component-cookbook
+ 5887  cd blade-component-recaptcha
+ 5888  valet unlink
+ 5889  valet link
+ 5890  valet unlink
+ 5891  valet link
+ 5892  history
